@@ -1,0 +1,6 @@
+---
+exclude: ['Rakefile', 'README.markdown', 'Gemfile', 'Gemfile.lock']
+growl: true
+paginate: 5
+permalink: pretty
+pygments: true

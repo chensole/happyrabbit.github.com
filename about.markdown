@@ -4,11 +4,10 @@ title: About
 ---
 
 ## About me ##
-This is a Chinese girl who is now in US for graduate study.
 
-I am a vegan. I like cooking, yoga and statistics.
+I am a statistician who takes calculated risk and embraces the uncertainty from God. 
 
-I know nothing about sports.
+I am a vegan. I like cooking, drawing/painting, flute, running/yoga and traveling. I am addicted to analyzing data and reading. I know nothing about sport games.
 
 ## About this site ##
-I guess I get caught in my own trap. Anyway, we will see. 
+It is meant to be somewhere to dump my thoughts when my head gets messy and needs to sort things out.

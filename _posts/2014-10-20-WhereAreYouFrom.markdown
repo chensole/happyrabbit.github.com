@@ -30,7 +30,6 @@ time: '20:50'
 这可能是保持自我一贯性的必要条件。对于新移民更是如此，而这更加剧了融入新社会的困难。
 有些地方永远关联着我们早期形成的态度和价值。一个关于回到儿时地方另人印象深刻的表述是：“这有几分蜷缩回去的感觉。”
 
-<a href="https://www.flickr.com/photos/127137816@N08/14968515143" title="image by hui lin, on Flickr"><img src="https://farm6.staticflickr.com/5608/14968515143_3b637cea78_s.jpg" width="120" height="120" alt="image"></a>
 
 张朝阳在一篇文章中追溯回国前后的经历说到：
 <blockquote>每当我回到国内的时候，我就能感受到一种非常明显的理直气壮。

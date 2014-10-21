@@ -3,7 +3,7 @@ title: 你从哪来？-----关于空间与存在感
 layout: post
 time: '20:50'
 ---
-
+<a href="https://www.flickr.com/photos/127137816@N08/14968515143" title="image by hui lin, on Flickr"><img src="https://farm6.staticflickr.com/5608/14968515143_3b637cea78_s.jpg" width="120" height="120" alt="image"></a>
 本来打算写的是《欲望心理学》这本书的书评，但提笔觉得想写的又不仅仅是书评。就当写杂感吧。
 
 你从哪里来？常常被问到这个问题。生活在国内时我将这个问题看作纯粹对地理位置的好奇。在美国生活了5年多，
@@ -48,4 +48,4 @@ time: '20:50'
 “在主流文化圈子里的那种津津有味”这句话我一直记得，不，说了这么多我没有解决存在感的问题。但是至少我尝试了去分析理解，
 得出结论是这只不过是自己欲望驱使的产物。如果把自己放在太阳系，可以说我从地球来；把自己放在银河系，可以说我从太阳系来；
 把自己当成宇宙的一部分，还有问从哪里来的必要么？
-<a href="https://www.flickr.com/photos/127137816@N08/14968515143" title="image by hui lin, on Flickr"><img src="https://farm6.staticflickr.com/5608/14968515143_3b637cea78_s.jpg" width="75" height="75" alt="image"></a>
+

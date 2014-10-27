@@ -1,10 +1,8 @@
-
 ---
-title: Course Summary: Global Business Environment 1 
+title: Global Business Environment 1
 layout: post
-time: '11:40'
+time: '9:30'
 ---
-
 It is a summary of Coursera course <a href="https://www.coursera.org/course/globalbusiness">
 Global Business Environment 1 </a>. I will gradually fill the content in. 
 

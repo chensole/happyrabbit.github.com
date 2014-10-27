@@ -3,14 +3,22 @@ title: Course Summary: Global Business Environment 1
 layout: post
 time: '11:40'
 ---
+
 It is a summary of Coursera course <a href="https://www.coursera.org/course/globalbusiness">
 Global Business Environment 1 </a>. I will gradually fill the content in. 
 
 ##  What is Globalization?
+
 ##  Is Globalization New?
+
 ##  How do Political and Social Institutions impact National Economic Development?
+
 ##  What is the role of Culture?
+
 ##  What are the Gains from Trade?
+
 ##  Free Trade, Free-r Trade or Managed Trade?
+
 ##  What are Foreign Currencies and how are Exchange Rates Determined?
+
 ##  What does the Current Global Business Environment look like? 

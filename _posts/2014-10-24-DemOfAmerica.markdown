@@ -10,8 +10,9 @@ time: '9:30'
 <!--是因为我真的需要一个地方来理清这所有的东西，尝试过不同的方法，但都不是很成功。希望更新博客能够成为我细细回顾总结-->
 <!--这些经典的动力。目标是每天或多或少都写一些书评，慢慢的将之前看过的好书在脑海中清理一下。-->
 
+<!--2014-10-26 今晚的更新让我对书的初衷和时代背景有了更深的了解。希望在接下来的回顾总结中，能够进一步理清作者的论证思路。荟加油！： ）-->
 
-这本书的英文翻译是The Democracy of America，作者是托克维尔（1805-1859），出生贵族世家，经历过法兰西第一帝国、波旁复辟王朝、七月王朝、法兰西第二共和国、法兰西第二帝国五个“朝代”。法国著名的历史学家、社会学家、政治家。《论美国的民主》是他在35岁时写的，
+这本书的英文翻译是The Democracy of America，作者是托克维尔（1805-1859），经历过法兰西第一帝国、波旁复辟王朝、七月王朝、法兰西第二共和国、法兰西第二帝国五个“朝代”。法国著名的历史学家、社会学家、政治家。《论美国的民主》是他在35岁时写的，
 之后在41岁时还写了一本经典著作《旧制度与大革命》。托克维尔是法国贵族出身的，受过很好的教育，
 但是他思想倾向却是自由主义的。时至今日，没有哪个国家会承认自己是不民主的，
 甚至朝鲜、缅甸这样的国家也都宣称自己是民主政体。金正恩全票当选，不是还沾了个“选”字么？为什么呢？
@@ -25,7 +26,23 @@ time: '9:30'
 
 托克维尔的外曾祖父就是在法国大革命中被处死的贵族，他的外祖父母也死于法国大革命，
 其父母原本也要被处死，但在临死前雅各宾党下台才幸免于难。从小家庭给他灌输的是大革命是血腥、残暴。
-但托克维尔长大后并不反对大革命。本书中提出很多很重要的观点，其中一点就是美国的建国史。其清楚谈到，
+但托克维尔长大后并不反对大革命而将其看作一个必然的趋势，即使是以革命造成的混乱为代价。在本书上卷的绪言里作者说自己是怀着对神的畏惧之心在谈论民主的，他认为民主革命是上帝不可阻挡的意志，这革命持续了几个世纪之久，如今还在其推倒的废墟上继续前进。原文是：
+<blockquote>
+The whole of the book in front of the reader has been written under the pressure of a kind of religious terror exercised upon the soul of the author by the sight of this irresistible revolution which has been progressed over so many centuries, surmounting all obstacles, and which is still advancing today amid the ruins it has caused. God does not need to speak for himself in order for us to discover the definitive signs of his will; it is enough to examine the normal course of nature and the conistent tendency of events. I know without needing to hear the voice of the Creator that the stars trace out in space the orbits which his hand has drawn.
+</blockquote>
+
+这种难能可贵的冷静客观证明了托克维尔的伟大。他在提到法国民主革命的时候指出其任性而为，没有以和平的方式而是在混乱和斗争中嘈杂前行，并且造成了人们不愿看到的还乱局面。原文：
+<blockquote>
+Since democracy in France has been hampered in its progress or abandoned, without support, to its
+lawless passions, it has overturned everything that has crossed its path and has shaken everything it has not completely destroyed. We have not seen it gradually taking over society in order to assert its
+power peacefully; it has not ceased to march forward through the confusion and agitation of a conflict.
+Flushed by the heat of the struggle and pushed beyond his natural boundaries by the opinions and 
+excesses of his opponents, each person loses sight of the very object of him aims and expresses
+himself in a language which is alien to his real  feelings and his innermost instincts. As a consequence of that arises the strange and confused state of affairs we are forced to witness. 
+</blockquote>
+
+当在这场浩荡的变革当中有个国家是个例外，那就是美国。在美国，这场革命是以简单的方式完成的，换句话说，并没有爆发像在法国那样的血腥革命。这也是作者特地去美国考察的原因，他希望能够从中找到原因和可供参考的经验。
+本书中提出很多很重要的观点，其中一点就是美国的建国史。其清楚谈到，
 美国不是一个从天上掉下来的国家，这是个新国家，但是老人民。美国的建国者是欧洲的移民，他们带去了很多欧洲的传统。英国从大宪章以来就在循序渐进的实行某种民主政治，虽然君王贵族一直存在，但后来他们也有议会代表某些人的权益，而这“某些人”涵盖范围是不断在扩大的。因此，带着这种英国已有思想到隔着大西洋的北美大陆建立殖民地的时候，这些思想开始成长。美国早在独立建国之前就有很深的乡镇自治的传统，早期殖民者已经有民主会议、投票选举，构建国会等实践经验。这为之后没有过多灾难的顺利建立美国这个新国家奠定了基础。民主需要有社会基础，当托克维尔开始探讨民主的社会学基础的时候，他便成为了现代政治社会学之父。除了要指出民主需要的条件以外，还需反驳很多对民主的批评，如：拉帮结伙，多数的暴政，不稳定性等。托克维尔对民主不稳定性的反驳是，由于法律是由人民自己选出的代表制定的，人民因此会更愿意自觉遵守（美国的契约精神），因此反而更加稳定。有人提出，民主会导致革命爆发。托克维尔不这么认为，民主讲的是政治权利的平等，如果在这方面平等了以后就开始追求其他东西，比如社会财富的累计。穷人是不怕革命的，但是一旦人民开始有个人财富的时候，他们就会开始担心动乱对自己财产造成损失，反而更不容易革命。这或许也是中国政府如此担心经济停止增长的原因吧，因为如果人民生活至少小康，那么即使中国共产党腐败专制，人民也不会轻易动乱，小康是党国稳定的必要条件。
 
 <!-- 100多年前出版的书籍《旧制度与大革命》在今天能够翻译成中文，而且受到广泛的关注当然有他的道理，那么本书的中文译本是在1992年出版的，那么由冯唐先生翻译，由桂玉芳和张芝联两位老先生做的校对，张芝联是中国有名的研究法国历史的学者，他写得序言，这个序言本身有助于我们了解托克维尔这本《旧制度与大革命》，那么译者就张芝联先生说，他说托克维尔他开宗就这样说，他写这本书他是关于法国革命的研究，而不是一部法国的大革命，我们知道法国大革命是欧洲历史上最大的一场革命，他对人类社会都有很大不一样，比方说中国革命，中国革命受到的影响一个是来自俄罗斯的十月革命，另一个就是法国的大革命，所以为什么会产生法国大革命，这确实是一个非常令人感兴趣的一个话题。

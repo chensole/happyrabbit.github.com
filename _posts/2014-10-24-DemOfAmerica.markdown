@@ -20,18 +20,20 @@ time: '9:30'
 如果我们不接受民主普选，那否定的理由又是什么呢？从历史上看，并不是人们不知道民主有坏处，
 但关键在于这些坏处是否能够掩盖民主的价值？抑或对民主的弊端，我们应该要更多的民主还是限制民主？
 要对民主这个话题深入的理解，托克维尔的《论美国的民主》不得不读。
-这本书是托克维尔在美国周游一圈回到法国写的（我在这里呆了五年，都学了些什么？汗颜），
+这本书是托克维尔在美国周游一圈回到法国写的，
 其中讨论了民主这种政治体制在美国实行的状况如何。书中给出的答案是，要解决民主带来的问题，我们需要更多的民主。
 当时欧洲有很多保守主义者反对民主，法国大革命的血腥招致各种批评，在此情况下，这可以说是一本为民主辩护的书。
 
 托克维尔的外曾祖父就是在法国大革命中被处死的贵族，他的外祖父母也死于法国大革命，
 其父母原本也要被处死，但在临死前雅各宾党下台才幸免于难。从小家庭给他灌输的是大革命是血腥、残暴。
-但托克维尔长大后并不反对大革命而将其看作一个必然的趋势，即使是以革命造成的混乱为代价。在本书上卷的绪言里作者说自己是怀着对神的畏惧之心在谈论民主的，他认为民主革命是上帝不可阻挡的意志，这革命持续了几个世纪之久，如今还在其推倒的废墟上继续前进。原文是：
+但托克维尔长大后并不反对大革命而将其看作一个必然的趋势，即使是以革命造成的混乱为代价。在本书上卷的绪言里作者说自己是怀着对神的畏惧之心在谈论民主的，他认为民主革命是上帝不可阻挡的意志，这革命持续了几个世纪之久，如今还在其推倒的废墟上继续前进。原文如下：
 <blockquote>
 The whole of the book in front of the reader has been written under the pressure of a kind of religious terror exercised upon the soul of the author by the sight of this irresistible revolution which has been progressed over so many centuries, surmounting all obstacles, and which is still advancing today amid the ruins it has caused. God does not need to speak for himself in order for us to discover the definitive signs of his will; it is enough to examine the normal course of nature and the conistent tendency of events. I know without needing to hear the voice of the Creator that the stars trace out in space the orbits which his hand has drawn.
 </blockquote>
+（最后一句用恒星按轨道运行对造物主意志的比喻多棒啊，我都不知道该如何恰当的翻译。）
 
-这种难能可贵的冷静客观证明了托克维尔的伟大。他在提到法国民主革命的时候指出其任性而为，没有以和平的方式而是在混乱和斗争中嘈杂前行，并且造成了人们不愿看到的还乱局面。原文：
+这种难能可贵的冷静客观证明了托克维尔的伟大。他在提到法国民主革命的时候指出其任性而为，没有以和平的方式而是在混乱和斗争中嘈杂前行，并且造成了人们不愿看到的还乱局面。原文如下：
+
 <blockquote>
 Since democracy in France has been hampered in its progress or abandoned, without support, to its
 lawless passions, it has overturned everything that has crossed its path and has shaken everything it has not completely destroyed. We have not seen it gradually taking over society in order to assert its

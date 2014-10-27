@@ -30,7 +30,7 @@ time: '9:30'
 <blockquote>
 The whole of the book in front of the reader has been written under the pressure of a kind of religious terror exercised upon the soul of the author by the sight of this irresistible revolution which has been progressed over so many centuries, surmounting all obstacles, and which is still advancing today amid the ruins it has caused. God does not need to speak for himself in order for us to discover the definitive signs of his will; it is enough to examine the normal course of nature and the conistent tendency of events. I know without needing to hear the voice of the Creator that the stars trace out in space the orbits which his hand has drawn.
 </blockquote>
-（最后一句用恒星按轨道运行对造物主意志的比喻多棒啊，我都不知道该如何恰当的翻译。）
+（最后一句用恒星按轨道运行来比喻造物主的意志，多棒啊，我都不知道该如何恰当的翻译。）
 
 这种难能可贵的冷静客观证明了托克维尔的伟大。他在提到法国民主革命的时候指出其任性而为，没有以和平的方式而是在混乱和斗争中嘈杂前行，并且造成了人们不愿看到的还乱局面。原文如下：
 

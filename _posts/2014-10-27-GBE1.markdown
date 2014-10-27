@@ -6,18 +6,18 @@ time: '9:30'
 It is a summary of Coursera course <a href="https://www.coursera.org/course/globalbusiness">
 Global Business Environment 1 </a>. I will gradually fill the content in. 
 
-1  What is Globalization?
+####  What is Globalization?
 
-2  Is Globalization New?
+####  Is Globalization New?
 
-3  How do Political and Social Institutions impact National Economic Development?
+####  How do Political and Social Institutions impact National Economic Development?
 
-4  What is the role of Culture?
+####  What is the role of Culture?
 
-5  What are the Gains from Trade?
+####  What are the Gains from Trade?
 
-6  Free Trade, Free-r Trade or Managed Trade?
+####  Free Trade, Free-r Trade or Managed Trade?
 
-8  What are Foreign Currencies and how are Exchange Rates Determined?
+####  What are Foreign Currencies and how are Exchange Rates Determined?
 
-9  What does the Current Global Business Environment look like? 
+####  What does the Current Global Business Environment look like? 

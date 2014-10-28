@@ -3,8 +3,8 @@ title: Global Business Environment 1
 layout: post
 time: '9:30'
 ---
-It is a summary of Coursera course <a href="https://www.coursera.org/course/globalbusiness">
-Global Business Environment 1 </a>. I will gradually fill the content in. 
+Globalization has been a buzz word like “big data”. You have heard about it thousand times but you feel difficult to define what it is and what exact role it plays. That is the reason I tookCoursera course <a href="https://www.coursera.org/course/globalbusiness">
+Global Business Environment 1 </a>. There are no slides for this course. I am taking a stab at sorting out what have been discussed during the first part of this course and may add in some of my ideas. It helps me mull over the topic and deepen my understanding. 
 
 **What is Globalization?**
 

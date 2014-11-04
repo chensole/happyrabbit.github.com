@@ -4,7 +4,7 @@ layout: post
 time: '12:12'
 ---
 
-<li>The best way to predict future is to create it. But is is the thing only God can do.</li>
+<li>The best way to predict future is to create it. But it is the thing only God can do.</li>
 
 <li>We see what we want to see which is why we are stupid.</li>
 

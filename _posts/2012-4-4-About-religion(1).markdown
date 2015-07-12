@@ -16,9 +16,8 @@ A further question is that how should a "good" religion guide us. mercy? toleran
 
 About "sinner" in Christian
 
-Intense emotion involves in religion. Among those emotion, however, I believe fear takes larger part than hope. If we see to it more carefully, the later is naïve but real which is a little weird. It may be too abstract. Here is an example. There is Chinese saying: “The newborn calf fears not the tiger.” It is because newborn dose not know the tiger is dangerous. Instead of sinner, I'd rather to consider that we were born to be naive. However in the way we are growing up, there are both good and bad influence. We need a guide strength to lead us to the good ones.
+Intense emotion involves in religion. Among those emotion, however, I believe fear takes larger part than hope. If we see to it more carefully, the later is naïve but real which is a little weird. It may be too abstract. Here is an example. There is Chinese saying: “The newborn calf fears not the tiger.” It is because newborn dose not know the tiger is dangerous. 
 
-Most impressive character of Christian that I find so far
 
 In Christian, it is taken as the ultimate basis of the moral order that God is the ground of all reality.
 It is obvious that Christian ethics is predicated on an assumption of human inadequacy. As it is said by Reinhold Niebuhr

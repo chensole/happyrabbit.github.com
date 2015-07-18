@@ -26,6 +26,6 @@ The R package **DT** provides an R interface to the JavaScript library DataTable
 
 ```
 install.packages("DT")
-library(DT)'
+library(DT)
 datatable(iris)
 ```

@@ -24,7 +24,7 @@ There are some packages that can be used to make interactive R Markdown document
 
 The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. Here is an example with zero configuration:
 
-```
+```javascript
 install.packages("DT")
 library(DT)
 datatable(iris)

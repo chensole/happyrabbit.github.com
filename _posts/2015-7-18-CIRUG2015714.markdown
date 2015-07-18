@@ -4,13 +4,15 @@ layout: post
 time: '15:54'
 ---
 
-[Central Iowa R User Group](http://www.cirug.com) held a workshop given by Yihui Xie on the ecosystem of R Markdown on July 14, 2015. I will give a quick tour here on R Markdown and the series of R packages Yihui talked about that can be used to generate reproducible and interactive reports.
+[Central Iowa R User Group](http://www.cirug.com) held a workshop given by Yihui Xie on the ecosystem of R Markdown,, July 14, 2015. I will give a quick tour here on R Markdown and the series of R packages Yihui talked about that can be used to generate reproducible and interactive reports.
 
 ### What is R Markdown?
 
 Markdown is a lightweight markup language designed to make authoring content easy for everyone. Rather than writing complex markup code (e.g. LyX, XML,  HTML or LaTeX), Markdown enables the use of a syntax much more like plain-text email.  It is young comparing to the other markup languages. What makes markdown distinct is that it is both machine-readble and human-readble.
 
-R Markdown combines the core syntax of markdown and embedded R code chunks that are run so their output can be included in the final document. R Markdown documents are fully reproducible and the most important, it is simple!
+R Markdown combines the core syntax of markdown and embedded R code chunks that are run so their output can be included in the final document. R Markdown documents are fully _reproducible_ and the most important, it is _simple_!
+
+### How to Start?
 
 I encourage those who are new to R Markdown start from this introductory article [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com) which can get you started with R Markdown right away. Once you install R Markdown package and learn the most commonly used markdown constructs, you can go into more depth on customizing the behavior of embedded R code. The “Learning More” section on the bottom of the [introductory article](http://rmarkdown.rstudio.com) has a list of reference you can refer to learn more about R Markdown. 
 

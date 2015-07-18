@@ -14,9 +14,16 @@ R Markdown combines the core syntax of markdown and embedded R code chunks that 
 
 ### How to Start?
 
-I encourage those who are new to R Markdown start from this introductory article [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com) which can get you started with R Markdown right away. Once you install R Markdown package and learn the most commonly used markdown constructs, you can go into more depth on customizing the behavior of embedded R code. The “Learning More” section on the bottom of the [introductory article](http://rmarkdown.rstudio.com) has a list of reference you can refer to learn more about R Markdown. 
+Please install R if you haven't. You can get R from the [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org). After installing R, install [RStudio](https://www.rstudio.com). Once you have RStudio, launch it. After that, I encourage those who are new to R Markdown start from this introductory article [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com) which can get you started with R Markdown right away. Once you install R Markdown package and learn the most commonly used markdown constructs, you can go into more depth on customizing the behavior of embedded R code. The “Learning More” section on the bottom of the [introductory article](http://rmarkdown.rstudio.com) has a list of reference you can refer to learn more about R Markdown. 
 
 
 ### Interactive R Markdown Document
 There are some packages that can be used to make interactive R Markdown documents. 
 
+**DT: A Wrapper of the JavaScript Library 'DataTables'**
+
+The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. Here is an example with zero configuration:
+
+'install.packages("DT")
+library(DT)'
+datatable(iris)

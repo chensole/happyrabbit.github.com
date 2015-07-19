@@ -21,7 +21,7 @@ Please install R if you haven't. You can get R from the [Comprehensive R Archive
 
 There are some packages that can be used to make interactive R Markdown documents. 
 
-1. **DT: A Wrapper of the JavaScript Library "DataTables":**\s
+1. **DT: A Wrapper of the JavaScript Library "DataTables":**\s\s
 The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. You can refer to [https://rstudio.github.io/DT/](https://rstudio.github.io/DT/) for more details.
 
 2. **Leaflet:**

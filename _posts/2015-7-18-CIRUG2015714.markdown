@@ -21,20 +21,20 @@ Please install R if you haven't. You can get R from the [Comprehensive R Archive
 
 There are some packages that can be used to make interactive R Markdown documents. 
 
-1. **DT: A Wrapper of the JavaScript Library "DataTables"**
+1. **DT: A Wrapper of the JavaScript Library "DataTables": **
 The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. You can refer to [https://rstudio.github.io/DT/](https://rstudio.github.io/DT/) for more details.
 
-2. **Leaflet for R**
+2. **Leaflet: **
 R package 'leaflet' makes it easy to integrate and control Leaflet maps in R. The JaveScript library 'leaflet' is for interactive maps. You can embed maps in knitr/R Markdown documents and Shiny apps.  See [https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/) for more details.
 
-3. **dygraphs: interactive plot for time series data**
+3. **dygraphs: interactive plot for time series data: **
 The dygraphs package is an R interface to the dygraphs JavaScript charting library. It provides rich facilities for charting time-series data in R, including highly configurable series and axis display and interactive features like zoom/pan and series/point highlighting.
 See [https://rstudio.github.io/dygraphs/](https://rstudio.github.io/dygraphs/) for more details.
 
-4. **networkD3: D3 JavaScript Network Graphs from R**
+4. **networkD3: D3 JavaScript Network Graphs from R: **
 Package 'networkD3' provides tools for creating D3 JavaScript network graphs from R.
 
-5. **threejs: Interactive 3D Scatter Plots and Globes**
+5. **threejs: Interactive 3D Scatter Plots and Globes: **
 Package threejs provides interactive 3D scatterplots and globe plots. Here is a galary of examples from the package and also the source code [http://bwlewis.github.io/rthreejs/](http://bwlewis.github.io/rthreejs/).
 
 Here is an example of R Markdown ducument including interactive figure/table from the packages mentioned. Run the following and you can get this interactive webpage [http://linhui.org/Hui's_files/SampleForInteractiveReport.html](http://linhui.org/Hui's_files/SampleForInteractiveReport.html)

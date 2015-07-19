@@ -20,7 +20,7 @@ Please install R if you haven't. You can get R from the [Comprehensive R Archive
 ### Interactive R Markdown Document
 There are some packages that can be used to make interactive R Markdown documents. 
 
- ** DT: A Wrapper of the JavaScript Library "DataTables" **
+1. **DT: A Wrapper of the JavaScript Library "DataTables"**
 
 The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. Here is an markdown example with zero configuration:
 
@@ -40,8 +40,8 @@ datatable(iris)
 
 You can refer to [https://rstudio.github.io/DT/](https://rstudio.github.io/DT/) for more on the package.
 
- **  Leaflet for R **
+1. **Leaflet for R**
 
 R package 'leaflet' makes it easy to integrate and control Leaflet maps in R. The JaveScript library 'leaflet' is for interactive maps. You can embed maps in knitr/R Markdown documents and Shiny apps.  See [https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/) for more on this package.
 
- **  dygraphs: interactive plot for time series data **
+1. **dygraphs: interactive plot for time series data**

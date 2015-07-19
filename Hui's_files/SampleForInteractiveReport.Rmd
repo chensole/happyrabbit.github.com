@@ -1,5 +1,7 @@
 ---
 title: "Sample for Interative Report"
+author: "Rabbit"
+date: "July 18, 2015"
 output: html_document
 ---
 

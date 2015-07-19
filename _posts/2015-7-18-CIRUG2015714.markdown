@@ -22,26 +22,14 @@ There are some packages that can be used to make interactive R Markdown document
 
 1. **DT: A Wrapper of the JavaScript Library "DataTables"**
 
-The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. Here is an markdown example with zero configuration:
+The R package **DT** provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables. You can refer to [https://rstudio.github.io/DT/](https://rstudio.github.io/DT/) for more on the package.
 
-<pre>
----
-title: "DT SAMPLE"
-output: html_document
----
-
-# DataTables
-
-```{r}
-library(DT)
-datatable(iris)
-```
-</pre>
-
-You can refer to [https://rstudio.github.io/DT/](https://rstudio.github.io/DT/) for more on the package.
-
-1. **Leaflet for R**
+2. **Leaflet for R**
 
 R package 'leaflet' makes it easy to integrate and control Leaflet maps in R. The JaveScript library 'leaflet' is for interactive maps. You can embed maps in knitr/R Markdown documents and Shiny apps.  See [https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/) for more on this package.
 
-1. **dygraphs: interactive plot for time series data**
+3. **dygraphs: interactive plot for time series data**
+The dygraphs package is an R interface to the dygraphs JavaScript charting library. It provides rich facilities for charting time-series data in R, including highly configurable series and axis display and interactive features like zoom/pan and series/point highlighting.
+ See [https://rstudio.github.io/dygraphs/](https://rstudio.github.io/dygraphs/) for more details.
+
+4. 

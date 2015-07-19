@@ -4,7 +4,7 @@ layout: post
 time: '15:54'
 ---
 
-[Central Iowa R User Group](http://www.cirug.com) held a workshop given by Yihui Xie on the ecosystem of R Markdown,, July 14, 2015. I will give a quick tour here on R Markdown and the series of R packages Yihui talked about that can be used to generate reproducible and interactive reports.
+[Central Iowa R User Group](http://www.cirug.com) held a workshop given by Yihui Xie about the ecosystem of R Markdown on July 14, 2015. I will give a quick tour here on R Markdown and the series of R packages Yihui talked about that can be used to generate reproducible and interactive reports.
 
 ### What is R Markdown?
 
@@ -37,7 +37,7 @@ Package 'networkD3' provides tools for creating D3 JavaScript network graphs fro
 5. **threejs: Interactive 3D Scatter Plots and Globes**
 Package threejs provides interactive 3D scatterplots and globe plots. Here is a galary of examples from the package and also the source code [http://bwlewis.github.io/rthreejs/](http://bwlewis.github.io/rthreejs/).
 
-Here is an example of reproducible report using R Markdown in RStudio including interactive figures/table from the packages mentioned. Run the following code and you can get this interactive webpage [http://linhui.org/Hui's_files/SampleForInteractiveReport.html](http://linhui.org/Hui's_files/SampleForInteractiveReport.html)
+Here is an example of R Markdown ducument including interactive figure/table from the packages mentioned. Run the following and you can get this interactive webpage [http://linhui.org/Hui's_files/SampleForInteractiveReport.html](http://linhui.org/Hui's_files/SampleForInteractiveReport.html)
 
 <pre>
 ---

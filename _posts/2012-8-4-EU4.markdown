@@ -10,26 +10,25 @@ time: '21:20'
 
 
 海草：来干嘛？(why did you come to Germany?) 
-
-Hui: 旅行顺便看一个朋友。(travel and by the way visit a friend)
-海草：有邀请信么？(have an invitation letter with you?)
-Hui: 没有(No.)
-海草：买了回程机票么？(have you booked the return ticket?）
-Hui: 买了。(Yes)
-海草：现在有么？(have it now?)
-Hui: 没有。(no)
-海草：有钱么？(do you have money?)
-Hui: 没有（您想打劫么？有这么问人的么？）(no)
-海草：（明显开始有点紧张）你有朋友的电话么，没有的话我要把你送回去。(what is the number of your friend? or I will send you back.)
-Hui: 有，在这里。(yes, here.)
-海草： 有旅馆预定确认单么？(do you have hotel reservation?)
-Hui: 摁，你把手上的材料翻一面就可以看到。(yes, flip the pile of paper on your hand to the other side and you will see it.)
-海草： 。。。。。。（不明白）(he does not understand)
-Hui: (重复刚才的话)(repeat what I have said before)
-海草： 。。。。。。（不明白）(he does not understand)
-Hui: （一把抓过他手上的材料，翻了一面给他看。）(grab the paper on his hands and show the confirmation for reservation.)
-海草: 没事了。(ok, you are good now.) 
-Hui.........
+Hui: 旅行顺便看一个朋友。(travel and by the way visit a friend)  
+海草：有邀请信么？(have an invitation letter with you?)  
+Hui: 没有(No.)  
+海草：买了回程机票么？(have you booked the return ticket?）  
+Hui: 买了。(Yes)   
+海草：现在有么？(have it now?)  
+Hui: 没有。(no)  
+海草：有钱么？(do you have money?)  
+Hui: 没有（您想打劫么？有这么问人的么？）(no)  
+海草：（明显开始有点紧张）你有朋友的电话么，没有的话我要把你送回去。(what is the number of your friend? or I will send you back.)  
+Hui: 有，在这里。(yes, here.)  
+海草： 有旅馆预定确认单么？(do you have hotel reservation?)  
+Hui: 摁，你把手上的材料翻一面就可以看到。(yes, flip the pile of paper on your hand to the other side and you will see it.)  
+海草： 。。。。。。（不明白）(he does not understand)  
+Hui: (重复刚才的话)(repeat what I have said before)  
+海草： 。。。。。。（不明白）(he does not understand)  
+Hui: （一把抓过他手上的材料，翻了一面给他看。）(grab the paper on his hands and show the confirmation for reservation.)  
+海草: 没事了。(ok, you are good now.)   
+Hui.........  
 
 入关后我得出一个零假设：男人帅的程度和友善程度成反比。
 

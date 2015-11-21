@@ -9,7 +9,7 @@ output: html_document
 <p style="text-align: center;"><a href="http://linhui.org/images/posts/2015-11-21snow.jpg"><img class="aligncenter  
 wp-image-222" style="margin-top: 5px; margin-bottom: 5px; border-width: 5px; border-color: black; border-style: solid;" title="cofirst_day2" src="http://linhui.org/images/posts/2015-11-21snow.jpg" alt="" width="500" height="400" /></a></p>
 
-<p>In this peaceful and beautiful Saturday morning, I saw sunshine happily and quietly playing with my curtain. I didn’t choose the best but the best came to me, like the sunshine. I am thankful as always.  </p>
+<p>In this peaceful and beautiful Saturday morning, I saw sunshine playing with my curtain, happily and quietly. I didn’t choose the best but the best came to me, like the sunshine. I am thankful as always.  </p>
 
 <p style="text-align: center;"><a href="http://linhui.org/images/posts/2015-11-21snow2.jpg"><img class="aligncenter  
 wp-image-222" style="margin-top: 5px; margin-bottom: 5px; border-width: 5px; border-color: black; border-style: solid;" title="cofirst_day2" src="http://linhui.org/images/posts/2015-11-21snow2.jpg" alt="" width="500" height="400" /></a></p>

@@ -1,0 +1,11 @@
+---
+title: "Snow Kissed Iowa ^_^"
+output: html_document
+---
+
+
+<p>Snow kissed Iowa and whispered:"I bring these words from heaven: 'You are God's beautiful child.' "</p>
+
+<p style="text-align: center;"><a href="http://linhui.org/images/posts/2015-11-21snow.jpg"><img class="aligncenter  
+wp-image-222" style="margin-top: 5px; margin-bottom: 5px; border-width: 5px; border-color: black; border-style: solid;" title="cofirst_day2" src="http://linhui.org/images/posts/2015-11-21snow.jpg" alt="" width="500" height="400" /></a></p>
+

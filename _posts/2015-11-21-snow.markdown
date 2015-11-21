@@ -1,6 +1,7 @@
 ---
 title: "Snow Kissed Iowa ^_^"
 output: html_document
+layout: post
 ---
 
 

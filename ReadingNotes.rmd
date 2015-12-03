@@ -10,6 +10,14 @@ output:
   number_sections: true
 ---
 
+# Reading List
+```{r,echo=FALSE}
+library(DT)
+dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
+datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+```
+
+
 # Predictable Irrational
 
 ## Goal: what makes you and people around you tick?

@@ -1,6 +1,7 @@
 ---
-title: "Reading Notes"
-author: "Hui Lin"
+layout: listing
+title: Reading Notes
+author: Hui Lin
 output: 
  html_document:
   theme: united

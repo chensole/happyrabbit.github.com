@@ -1,4 +1,5 @@
 ---
+layout: listing
 title: "Reading Notes"
 author: "Hui Lin"
 output: 

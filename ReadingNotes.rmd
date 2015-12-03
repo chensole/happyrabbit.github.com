@@ -10,13 +10,6 @@ output:
   number_sections: true
 ---
 
-# Reading List
-```{r,echo=FALSE}
-library(DT)
-dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
-datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
-```
-
 
 # Predictable Irrational
 
@@ -76,3 +69,10 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial. 
 
 ## The man who made a pact with the devil
+
+# Reading List
+```{r,echo=FALSE}
+library(DT)
+dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
+datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+```

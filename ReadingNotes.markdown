@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: "Reading Notes"
+title: "ReadingNotes"
 author: "Hui Lin"
 output: 
  html_document:

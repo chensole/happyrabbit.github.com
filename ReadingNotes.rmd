@@ -1,5 +1,5 @@
 ---
-title: "Reading Notes"
+title: "Reading"
 author: "Hui Lin"
 output: 
  html_document:

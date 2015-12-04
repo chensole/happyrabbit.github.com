@@ -16,6 +16,38 @@ output:
 
 [**Back to homepage**](http://linhui.org/)
 
+# Reading List
+
+It is my reading list since 2009. The reading notes are ordered according to book category. I know nothing about library science. I just try to make things more structurized and easy to search when needed. Good luck...... 
+
+```{r,echo=FALSE}
+library(DT)
+dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
+#dat<-dat[order(dat$Category,decreasing=F),]
+```
+
+```{r,echo=FALSE}
+datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+```
+
+
+- **Name**: Book name
+- **Category**: Book category  
+Here is a summary count table for the categories. 
+```{r, echo=FALSE}
+booktb<-data.frame(table(dat$Category))
+names(booktb)<-c("Category","Counts")
+booktb<-booktb[order(booktb$Counts,decreasing = T),]
+booktb
+```
+- **Author**: Author of the book
+- **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
+- **Priority**: My reading priority
+
+# Philosophy
+
+## The Tibet Book of Live and Death
+
 # Psychology
 
 ## People of the lie [M Scott Peck]
@@ -64,66 +96,20 @@ Anchor effect: last two digits of social security number, how much would you pay
 
 Assael anchored his pearls to the finest gems in the world and the prices followed forever
 
-# Philosophy
+# Society and Culture  
+## Much Depends on Dinner [Margaret Visser]
 
-## The Tibet Book of Live and Death
-
-# Data Science
-##Big Data (大数据的冲击)
-
-# Biology
-## The Selfish Gene
-## Sperm Wars)
-
-# [Nov2015]不畏将来不念过去
-
-- 若想改变,就从丢弃旧物开始 你留存的记忆越多,就意味着未来可以伤你的越多。你留存的记忆越细致,越是容易铸造出一个思维的牢笼,困于其中 ,越陷越深。 [_Hui: 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。_]
-- 到了最后,就在那个愿意放下偏见和骄傲的时候,遇见一个同样愿意的人,在一段靠谱的感情中,走向一段靠谱的婚姻
-。然后,所有的剧情都落幕了,剩下的事,该来到的都来到了。不是因为你更爱谁,就可以不用面对那些鸡毛蒜皮,只
-是愿意和不愿意而已。
-- 欲望和天真绝无法做伴。
-- 有勇气在世俗与爱情中找到平衡的人,才能相信他可以将爱情进行到底。这是我们这个时代的爱情。
-- 艳遇其实就是在不提前设想、不设防的情况下发生的美丽意外,是都市人久久不敢随心而动之后,对自己内心直觉灵感的一种释放。
-- 预言的自我实现:以没有确凿证据的预言为契机,唤起一种新的行动,这种行动最终使 起初的预言变为现实
-- 真正的专家首先要理解专家的基本条件,然后再去思考如何成为专家。
-- 我再提出一个预言——“任何人都能够成为专家”。
-
-# professionalism [专业主义]
-## What is professionalism? 什么是专业主义
-- The Oath of Hippocrates
-1. 允许我行医,我要终生奉行人道主义。 
-1. 向恩师表达尊敬与感谢之意。 
-1. 在行医过程中严守良心与尊严。 
-1. 以患者的健康与生命为第一位。  
-1. 严格为患者保守秘密。
-1. 保持医学界的名誉与宝贵的传统。
-1. 把同事视为兄弟;不因患者的人种、宗教、国籍和社会地位的不同而区别对待。
-1. 从受孕之始,即把人的生命作为至高无上之物来尊重。
-1. 无论承受怎样的压力,在运用自己的知识时也不会违背人道主义。   
-专家的词源本是“profess”,意思是“向上帝发誓,以此为职业”。
-
-- 作者列举了诸如律师、医生、教授和会计这些普遍被认为是专家的职业。对于法律这门职业作者提到：“从某种意义而言,法律是一个非常可怕的领域,它有可能仅仅依靠不同的解释而改变我们的人生。”对于会计（安然事件），医生（等候三个小时,看三分钟病），作者最后指出，单是国家认定的一张资格证并不能定义专家，“资格只不过是一张纸片而已,如果不成为 真正的专家,便如“脚底的米粒”,捡起来也不能吃。”。那么什么是专家呢？
-
-
-
-# Much Depends on Dinner [Margaret Visser]
-
-## Introduction
+### Introduction
 - We prefer, as De Quincey's essay says, "to throw the grace of intellectual enjoyment over an animal necessity." （正如De Quincey在文章中说的，我们喜欢“用优雅的精神享受来掩盖动物性的需要”。）
 - Again, we should be aware that our meal is almost totally **female in connotation**. _Corn_ is the American Indian "mother and nourisher"; _chicken_ (pale meat, no red blood, and little fat in evidence) is for us a typically "female" choice; _rice_, a delicate grain-----especially when it is "fluffy", as we like it-----white like chichen, and in its **mythical origins** a girl-child; _lettuce_ is light and unfattening, but also cold, milky, and female; _lemons_ nippled, _olive oil_ virgin, _ice cream_ cold milky, and served in definitely womanly, rounded shapes; _salt_ is the on exception, but even it is neuter and not masculine; _butter_ from cream is again female.
 
-## Corn
+### Corn
 - 玉米片(Corn Flakes)
 凯洛格所用的**“谷物回火”**方法在**1894**年取得专利。(The **Kellogg** "grain-tempering" process was patented in 1894.)
 － 玉米和遗传学(Corn and Genetics)
 在美洲殖民地无所不在的玉米，除了食用之外又发展出上千种用途，其中一个用途就是用玉米穗轴制成的烟斗。(The ubiquity of the corn plant in **Colonial America** had made it standard material for a thousand uses which had nothing to do with food. One devive was the corncob smoking pipe.)
 - 玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。......通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field......by genetic manipulation, to produce no pollen.)
 - 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
-
-# Living History Farms
-**Foodways**: The Ioway made use of Iowa’s prairies, rivers and wooded valleys to find food. They hunted and fished for meat. They gathered wild plants. The Ioway farmed along the rivers. Many foods were eaten fresh, while others were dried and stored for the rest of the year. The Ioway ate fresh food in season. They ate some foods raw, but also cooked many foods at ta fire pit. Each family prepared their own daily meals. Iowa women preserved food by drying it. They cut fresh meat into thin slices and hung it to dry in the sun. Ears of corn were hung from poles or speed on platforms to dry on the vine and then shell them. Squash were sliced into thin rings and hung on frames to dry. The Ioway used dried foods to make stews, the main dish in their diet. Dried meat was also pulverized and mixed with berries and animal fat to make pemmican. Dried corn could be ground into flour for breads and thickeners.
-
-**Storing Food**: The Ioway stored dried foods in cache pits, bell-shaped holes dug into the ground. The cache pit could be up to five feet deep. Women first lined the pit with bark or grass to keep put moisture and pests. The Ioway then added ears of corn along the outside, filling the center with ben and then squash. The opening was covered by layers of animal hide, grass, planks and ashes.
 
 # The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
 
@@ -142,10 +128,13 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 在维也纳最早的几家咖啡馆中，**塔罗纳咖啡馆(Cafe Tarone)** 最常出现在人们话题中，它由烈酒商Johann Jacob Tarone于**1784**年成立。
 - 格林史戴德咖啡馆(Hugo von Hofmannsthal)
 
-# Essay
+# Novels and Plays          
+# History                   
+# Business & Economics      
+# Art     
 
+# Proses, Essays and Poems
 ## Essay 送你一颗子弹（刘瑜）
-
 - 检验友谊的唯一标准就是两个人能否凑在一起说别人坏话
 - 被梦想俘虏的人就是在追逐他的厄运。
 - 人的每一种身份都是一种自我绑架，唯有失去是通向自由之路。
@@ -223,10 +212,64 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 他写一个人在异域文化中的脆弱感，及从异域返回本土时同样强烈的隔阂感。
 - 他紧张地盯着她的脸，看它从暮色中一点一点浮现出来，仿佛在赌场里看着抛到空中的骰子一点一点落下来。
 - 她要一个现成的男人，事业是现成的，心态是现成的，可以拿着行李登上甲板就起航的轮船。
-- 
+
+# Statistics                
+
+# Self-development 
+
+## Professionalism [专业主义]
+### What is professionalism? 什么是专业主义
+- The Oath of Hippocrates
+1. 允许我行医,我要终生奉行人道主义。 
+1. 向恩师表达尊敬与感谢之意。 
+1. 在行医过程中严守良心与尊严。 
+1. 以患者的健康与生命为第一位。  
+1. 严格为患者保守秘密。
+1. 保持医学界的名誉与宝贵的传统。
+1. 把同事视为兄弟;不因患者的人种、宗教、国籍和社会地位的不同而区别对待。
+1. 从受孕之始,即把人的生命作为至高无上之物来尊重。
+1. 无论承受怎样的压力,在运用自己的知识时也不会违背人道主义。   
+专家的词源本是“profess”,意思是“向上帝发誓,以此为职业”。
+
+- 作者列举了诸如律师、医生、教授和会计这些普遍被认为是专家的职业。对于法律这门职业作者提到：“从某种意义而言,法律是一个非常可怕的领域,它有可能仅仅依靠不同的解释而改变我们的人生。”对于会计（安然事件），医生（等候三个小时,看三分钟病），作者最后指出，单是国家认定的一张资格证并不能定义专家，“资格只不过是一张纸片而已,如果不成为 真正的专家,便如“脚底的米粒”,捡起来也不能吃。”。那么什么是专家呢？
 
 
-# Other Notes
+# Biography                 
+# Beauty&Health             
+# Gender                    
+# IT                        
+# Law    
+
+# Biology      
+## The Selfish Gene
+## Sperm Wars
+## What is life (生命是什么)
+
+# Data Science 
+##Big Data (大数据的冲击)
+
+# Politics 
+
+# Other 
+## [Nov2015]不畏将来不念过去
+
+- 若想改变,就从丢弃旧物开始 你留存的记忆越多,就意味着未来可以伤你的越多。你留存的记忆越细致,越是容易铸造出一个思维的牢笼,困于其中 ,越陷越深。 [_Hui: 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。_]
+- 到了最后,就在那个愿意放下偏见和骄傲的时候,遇见一个同样愿意的人,在一段靠谱的感情中,走向一段靠谱的婚姻
+。然后,所有的剧情都落幕了,剩下的事,该来到的都来到了。不是因为你更爱谁,就可以不用面对那些鸡毛蒜皮,只
+是愿意和不愿意而已。
+- 欲望和天真绝无法做伴。
+- 有勇气在世俗与爱情中找到平衡的人,才能相信他可以将爱情进行到底。这是我们这个时代的爱情。
+- 艳遇其实就是在不提前设想、不设防的情况下发生的美丽意外,是都市人久久不敢随心而动之后,对自己内心直觉灵感的一种释放。
+- 预言的自我实现:以没有确凿证据的预言为契机,唤起一种新的行动,这种行动最终使 起初的预言变为现实
+- 真正的专家首先要理解专家的基本条件,然后再去思考如何成为专家。
+- 我再提出一个预言——“任何人都能够成为专家”。
+
+## Living History Farms
+**Foodways**: The Ioway made use of Iowa’s prairies, rivers and wooded valleys to find food. They hunted and fished for meat. They gathered wild plants. The Ioway farmed along the rivers. Many foods were eaten fresh, while others were dried and stored for the rest of the year. The Ioway ate fresh food in season. They ate some foods raw, but also cooked many foods at ta fire pit. Each family prepared their own daily meals. Iowa women preserved food by drying it. They cut fresh meat into thin slices and hung it to dry in the sun. Ears of corn were hung from poles or speed on platforms to dry on the vine and then shell them. Squash were sliced into thin rings and hung on frames to dry. The Ioway used dried foods to make stews, the main dish in their diet. Dried meat was also pulverized and mixed with berries and animal fat to make pemmican. Dried corn could be ground into flour for breads and thickeners.
+
+**Storing Food**: The Ioway stored dried foods in cache pits, bell-shaped holes dug into the ground. The cache pit could be up to five feet deep. Women first lined the pit with bark or grass to keep put moisture and pests. The Ioway then added ears of corn along the outside, filling the center with ben and then squash. The opening was covered by layers of animal hide, grass, planks and ashes.
+
+## Other Notes
 
 - After all, the wool still comes from the sheep’s back-----in the long run, whatever you’re given you pay for.
 - In the end, it’s not the years in your life that count. It’s the life in your years.
@@ -289,32 +332,5 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 找到适合自己的工作与生活的平衡方式。人要取得平衡，不在于每天花多长时间工作、又能余下多长时间过自己的生活，而是在于你的选择：在于选择要什么、选择做什么、选择如何有质量的去做到，也在于你是否能寻求到内心的那份安宁与坦然。
 - 培养并尊重内心的直觉。是的，在战术层面上，数据非常有用，但是，在战略层面，一个卓越的市场人的直觉同样可贵。因为他们的直觉能让公司看到数据看不到的东西——那些深藏在消费者心里的东西。例如：品牌的定位（是应该聚焦在一个诉求还是更多），品牌/产品的命名，一个品类到底需要多少个品牌才能获取最大市场份额等等。
 
-# Reading List
 
-It is my reading list after 2009. 
-
-
-
-```{r,echo=FALSE}
-library(DT)
-dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
-#dat<-dat[order(dat$Category,decreasing=F),]
-```
-
-- **Name**: Book name
-- **Category**: Book category  
-Here is a summary count table for the categories. 
-```{r, echo=FALSE}
-booktb<-data.frame(table(dat$Category))
-names(booktb)<-c("Category","Counts")
-booktb<-booktb[order(booktb$Counts,decreasing = T),]
-booktb
-```
-- **Author**: Author of the book
-- **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
-- **Priority**: My reading priority
-
-```{r,echo=FALSE}
-datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
-```
 

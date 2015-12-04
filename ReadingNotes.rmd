@@ -3,6 +3,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
+date: "Last Update: Friday, Dec 4, 2015"
 output: 
  html_document:
   theme: united

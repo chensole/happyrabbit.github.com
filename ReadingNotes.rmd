@@ -1,3 +1,5 @@
+
+
 ---
 title: "Reading Notes"
 author: "Hui Lin"
@@ -10,6 +12,8 @@ output:
   number_sections: true
 ---
 
+
+[**Back to homepage**](http://linhui.org/)
 
 # Predictable Irrational
 
@@ -44,7 +48,7 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 真正的专家首先要理解专家的基本条件,然后再去思考如何成为专家。
 - 我再提出一个预言——“任何人都能够成为专家”。
 
-# [Dec2015]专业主义
+# professionalism [专业主义]
 ## What is professionalism? 什么是专业主义
 - The Oath of Hippocrates
 1. 允许我行医,我要终生奉行人道主义。 
@@ -69,10 +73,106 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial. 
 
 ## The man who made a pact with the devil
+- obsessive-compulsive neurosis （强迫妄想型精神官能症）
+- the pattern of unwanted thoughts and the taking of undesired actions
+
+## Toward A Psychology of Evil
+
+- While some seek in religion an escape from mystery, for others religion is a way to approach mystery. The latter are not loath to employ the **reductionistic（还原论，简化论）** methods of science, but they are also not reluctant to use more integrative "right brain" means of exploration: meditation, intuition, feeling, faith, and revelation. For them bigger the mystery, the better.
+- The problem of evil can hardly be separated from the problem of goodness. Were there no goodness in the world, we would not even be considering the problem of evil.
+- It is as if we automatically assume this is a naturally good world that has somehow been contaminated by evil......If we seriously think about it, it probably makes more sense to assume this is a naturally evil world that has somehow been mysteriously "contaminated" by goodness, rather than the other way around. The mystery of goodness is even greater than the mystery of evil.
+- Thus we may "break" a horse or even a child without harming a hair on its head. Erich Fromm was acutely sensitive to this fact when he broadened the definition of **necrophilia （恋尸癖）**to include the desire of certain people to control others-----to make them controllable, to foster their dependency, to discourage their capacity to think for themselves, to diminish their unpredictability and originality, to keep them in line. Distinguishing it from a **"biophilic" person（具有生物自卫本能的人）**, one who appreciates and fosters the variety of life forms and the uniqueness of the individual, he demonstrated a "necrophilic character type" whose aim is to avoid the inconvenience of life by transforming others into obedient automatons, robbing them of their humanity.....Evil is that force, residing either inside or outside of human beings, that seeks to kill life or liveliness. Goodness is that which promotes life and liveliness.（弗洛姆广义的界定“恋尸癖”时，增列了某些人对他人的控制欲：使他人受控制，增强依赖度，削弱其主动性，接受管束。弗洛姆将“恋尸癖性格的人”和“具有生物自卫本能的人”加以区分：前者将他人改变为顺从的机器人，剥夺他们的人性，借以回避人生的艰难；而后者则承认并鼓励生命的多样变化，以及“人”独有的特性。）
+- A psychology of evil must be a religious psychology......it must not only embrace valid insights from all religious traditions but must also recognize the reality of the "supernatural".
+- Having fled the **Jewish persecution** of the Hitler regime, the psychoanalyst **Erich Fromm** spent much of the rest of his life sutdying the evil of **Naziism**. He （_原书中讲他是第一个也是唯一一个确定邪恶人格类型的科学家，此书写与1983年，这个说法已经不正确了_）.......to identify an evil personality type, to attempt to examine evil people in depth, and to suggest that they be studied still further.
+- The great Jewish theologian **Martin Buber** distinguished between two types of myths about evil. One type conerns people in the process of "sliding" into evil. The other concerns those who have already slid, "fallen victim" to and been taken over by "radical" evil.
+
+# Much Depends on Dinner [Margaret Visser]
+
+## Introduction
+- We prefer, as De Quincey's essay says, "to throw the grace of intellectual enjoyment over an animal necessity." （正如De Quincey在文章中说的，我们喜欢“用优雅的精神享受来掩盖动物性的需要”。）
+- Again, we should be aware that our meal is almost totally **female in connotation**. _Corn_ is the American Indian "mother and nourisher"; _chicken_ (pale meat, no red blood, and little fat in evidence) is for us a typically "female" choice; _rice_, a delicate grain-----especially when it is "fluffy", as we like it-----white like chichen, and in its **mythical origins** a girl-child; _lettuce_ is light and unfattening, but also cold, milky, and female; _lemons_ nippled, _olive oil_ virgin, _ice cream_ cold milky, and served in definitely womanly, rounded shapes; _salt_ is the on exception, but even it is neuter and not masculine; _butter_ from cream is again female.
+
+## Corn
+- 玉米片(Corn Flakes)
+凯洛格所用的**“谷物回火”**方法在**1894**年取得专利。(The **Kellogg** "grain-tempering" process was patented in 1894.)
+－ 玉米和遗传学(Corn and Genetics)
+在美洲殖民地无所不在的玉米，除了食用之外又发展出上千种用途，其中一个用途就是用玉米穗轴制成的烟斗。(The ubiquity of the corn plant in **Colonial America** had made it standard material for a thousand uses which had nothing to do with food. One devive was the corncob smoking pipe.)
+- 玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。......通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field......by genetic manipulation, to produce no pollen.)
+- 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
+
+# Living History Farms
+**Foodways**: The Ioway made use of Iowa’s prairies, rivers and wooded valleys to find food. They hunted and fished for meat. They gathered wild plants. The Ioway farmed along the rivers. Many foods were eaten fresh, while others were dried and stored for the rest of the year. The Ioway ate fresh food in season. They ate some foods raw, but also cooked many foods at ta fire pit. Each family prepared their own daily meals. Iowa women preserved food by drying it. They cut fresh meat into thin slices and hung it to dry in the sun. Ears of corn were hung from poles or speed on platforms to dry on the vine and then shell them. Squash were sliced into thin rings and hung on frames to dry. The Ioway used dried foods to make stews, the main dish in their diet. Dried meat was also pulverized and mixed with berries and animal fat to make pemmican. Dried corn could be ground into flour for breads and thickeners.
+
+**Storing Food**: The Ioway stored dried foods in cache pits, bell-shaped holes dug into the ground. The cache pit could be up to five feet deep. Women first lined the pit with bark or grass to keep put moisture and pests. The Ioway then added ears of corn along the outside, filling the center with ben and then squash. The opening was covered by layers of animal hide, grass, planks and ashes.
+
+# Other Notes
+
+- After all, the wool still comes from the sheep’s back-----in the long run, whatever you’re given you pay for.
+- In the end, it’s not the years in your life that count. It’s the life in your years.
+- 强关系有效是因为帮助你的意愿更强；弱关系有效，是因为帮助你的能力更强。为啥？因为弱关系更可能跨界，所以求助能力的理想状态是——在不同跨界领域建立多个“强关系”。
+- 什么是淫秽？Stuart法官回答：看下才知道。很多概念，在大而化之的时候都可以存在，但一追究细节，立即土崩瓦解。
+- 对他人要公平，否则会触怒他人与生俱来的本能。对自己千万要记住没有什么公平。长相，身高，家世，运气，从不公平。动辄要求公平，是失败者的标配。每要一次公平就意味着你对这个世界已无计可施。
+- 人类文明至今只有2个大的类型：1） 农耕文明（agriculture civilization）：土地资源决定 社会结构和权力归属；2)工商业文明（industry and business civilization）：人们摆脱了土地资源的限制，可以跨区域（cross-region）获取生存资料（living resources）。在这种文明中，金钱的力量成为决定性因素（determining factor），而权力则处于高度不稳定 。坏处是竞争太激烈。好处是精英永远有机会。
+- 思想录（Pensees）——17世纪哲学家、数学家 Pascal为基督教辩护的一本书——选自其中的一句话“人类不快乐的唯一原因是不知道如何安静的呆在房间里。(The sole cause of men’s unhappiness is that he does not know how to stay quietly in his room.)”
+-  生活里有我们不喜欢的人，但没有比我们身份低配不上我们的人。愿意善待眼前这个世界的人也一定会被这个世界温柔相待。
+- 花太多时间去思考只有时间才能证明的威胁和承诺是一种危险的游戏。
+- 一个嫉妒你的朋友比一个公然的敌人更可怕。
+- 人类善于撒谎，尤其是自我欺骗。
+- 没人拥有一切，珍惜并充分利用自己已经拥有的东西。
+- 独处慎思，群处慎言。（Govern your thoughts when alone, and your tongue when in company.）
+- 长久不快乐，人的“快乐基因”会逐渐消失，不自觉嘴角下垂眉间纹加深，这副面孔又会吓退很多原本能带给我们愉悦的人。不要成为生活中那个难以取悦的人。不快乐的原因有：1)快乐门槛高2)快乐外因多。源自于内心的喜悦简单、稳定、强大。
+- 恋人常有张居安思危的脸，为小事惴惴不安。
+- 内心强大的10个特质：1)being firm in your belief yet be flexible enough to change when proven wrong ; 2) being aware and cautious yet not giving a damn to everything cross my life; 3) being calm in calamity and a cracker in celebration; 4) being experienced like your grandfather yet energetic like a child; 5) being well read though knowing you still know nothing; 6)being intelligent with a strong memory yet deleting all the trash and negativity; 7) being able to observe and learn from others’ mistakes yet not fearing to make my own; 8) being the one that all look up yet not looking down upon them; 9) being able to help others yet making provisions for your own self; 10)being able to accept defeat with grace yet not resting a moment to achieve success once again
+- 从狭小 的世界到广大的世界去的路上是有风浪的。——《家庭与世界》泰戈尔
+- 遇到困难是生活的一部分，和困难相伴是人生的常态。生活有时就像 一张铁砂纸，由无数细小，坚韧的铁粒构成，即可磨损你的意志，也可磨亮你的人生。
+- 一个女人的学识、思想、性格、格局会使你天然散发一种气味。你自身多好，价值多高，层次多大程度达到他的期望值决定了男人对你的付出和感情浓度。
+- 看尽别人的故事，你一直努力做个例外，然后发现逃不出相同的结局。
+- 人总怕被拒绝，但怕是无法避免的，上帝赋予你恐惧的技能。
+- 对理解不了的局面退回到道德判断。
+- 热情：总想和别人融为一体得到认可和安全感的情绪。
+- 不是价值观，共同体这样可以说清道明的东西把人连在一起，而是无法表的的共同体验。
+- 就像我们看到所有的东西一样，我们希望“看到”自己也是真实存在在这个世界上的。Nathaniel Branden (1930-2014, Canadian-American psychotherapist and writer known for his work in the psychology of self-esteem)
+- Tell me who you love and I will tell you who you are.
+- A wise man thinks all that he says, a fool says all that he thinks.
+- 《有限与无限的游戏》把这个世界上的游戏类型分成两类：  
+1.有限游戏——所有当事人同意结束，就结束了。这种游戏从属于人。小到围棋，大到战争，都是如此。  
+2.无限游戏——人的存在只是为了维持游戏本身的延续。比如经济系统、人生荣耀。想伟大，就要把所有的有限游戏变成无限游戏。想快乐，就要把所有的无限游戏变成有限游戏。伟大且快乐者，在这二者之间来去自由。
+- 人生来自由，却无往不在这场以有涯随无涯的博弈(all pay auction) 当中。出路有四：  
+第一，不参加。  
+第二，如果你一定要下注，就在目标价值以下随机下注，一次性下注，不追加下注。  
+第三，如果你一定要参加多轮的全付费游戏，就得从主观上调整这个游戏对你的payoff，毕竟效用因人而异。  
+第四，在不能赢的大游戏中刻画出有可能赢的小游戏。不必成为芭蕾舞明星，练练芭蕾舞，只为怡情行不行？  
+一个建议对所有人都有用：不要以人生为赌注，不要把回报寄托在将来成为赢家；要让人生本身就是回报，当下就是回报，最好每一刻都是回报。当下就要快乐，最好始终都快乐。
+- Uncertainty arises because of limitations in our ability to observe the world, limitations in our ability to model it, and possibly even because of innate nondeterminism.
+- 一句很动人的情话：“迟早会有人举着戒指对你笑，说着余生请你多指教。”
+- 如果私人领域一直无法理直气壮地言明权利边界，那么公共空间自然更加无处构建。所以，我们一直有意无意地被置于一种混沌之中。在这样的渊源之下，我们单独去强调私德、公德、教养和素质都是无效的。定义人和人之间的界限是尊重的基本条件。清楚的意识到我要的并非是你要的，己所不欲勿施于人，己所欲也并非能够随意强加于人。只有定义了边界，才能将他人作为一个独立的个体来尊重而不只是自我的延伸。
+- 爱自己不是自私自利不懂宽容改变，会爱自己是指你可以完全按照自己的意愿生活，并且还能拥有别人的爱与呵护，不论单身还是已婚，这种女人的气场里总是带着温暖与惬意，更多的时候这也是一直自律和心境的比拼，赢得自己才能赢得人生。会爱自己的女人无论嫁给谁都会幸福，即便你谁也不嫁那幸福的姿态和模样也依旧会光芒万丈，你对爱自己这件事念念不忘，那么绽放和飘零就都是美。“慎独”二字也适用于对生活和情感有较高追求的女人，在没有旁人的时候也凭借高度的自觉，坚持做那个最美好也最精致的自己。不允许自己懒惰邋遢，不允许自己脆弱逃避，不允许自己没有期限的痛苦彷徨，住整洁的屋，睡温馨的床，穿干净的衣，读温暖的书，交有益的友，爱值得的人。就算这些你也需要时间努力拥有，那我也希望你的这个夜晚，会因为这些文字而展露出你最美丽的笑颜，从明天起定个短期计划先去做，能做多少做多少，唯独不要怨天尤人和自暴自弃。天生丽质的女子凤毛麟角，绝大多数的美人儿都是后天养出来的。终究不是岁月败美人，而是美人惊艳了时光。
+- 在多少岁恋爱结婚不重要，重要的事和你共度余生的那个人是不是最正确的人，是值得你去珍惜并且相处起来很舒服的那个人，是你可以做真实的自己和最好的自己。好的爱情可以让人变得更好、共同成长，爱本就是两个人相互磨合的过程，如果不适合相处起来会很困难。遇不到那个人可以慢慢等，去提升自己，努力变得更优秀。要么不爱要么深爱，对自己的幸福负责，不随便牵手，不轻易承诺。遇不到真爱，是因为你活得还不够漂亮，出色的颜值包括外在的精致和内在的才华，只有当你的脸能够闪烁出迷人的气场，你心灵的丰盈才能让身边的人感受到力量，缺哪一样你都算不上活得漂亮。不要以为你变得冷漠就是你的成长，成熟的你应该变得温柔，对全世界都温柔。
+- 已经失去的东西就不必再停留，成长就是一段又一段锥心的痛，不计后果的那一段叫青春，从此以后我们必须独自长大并且担负责任。过得好当下的人，是不需要忧虑未来的，当温柔已经成为了一种处事的能力，女人的才华才能尽显华彩。
+- 丈夫到底是个什么东西？放在那里不打理就长荒草，天天擦一遍他又会跑，一进家就打蔫出了门来精神，在你面前浪漫风情全不懂，在别人眼里却是情圣一大个。其实没什么好不懂的，丈夫，一丈之内是你夫，一丈之外是个男人，还担当着很多的社会角色，他们需要有更广阔的天地驰骋，以便更有能力来善待家人。这个社会有钱不是万能的，没钱也是万万不能的，“能力”这个词也已不能简单的用一声“我爱你”来诠释了，成为了丈夫后,他们还需要有让妻子和孩子享受基本幸福的本领，有时候丈夫们也没什么错。如果连这一点担当与责任心都没有的话，是不配升级做丈夫的。丈夫这东西，其实就是愿意为你一个人守候的那个男人，初衷都是好的，你要相信这一点，过程都是不容易的，你要理解这一点。
+- 一半算是自嘲，一半算是抖落一下世俗生活的尘土——做雅痞这件事儿，其实的确还是挺辛苦的。。
+- 话糙理不糙，人生如妓，努力达到角色与体验的高度统一，才是正道。
+- 不要评价一个人的出身，因为这无法改变；**不要评价一个人的遭遇，因为你不知道他的故事**。**不要评价一个人的感情，除非你参与了他的人生**。与其关注一个人的未来，不如是踏踏实实做好自己。
+- 《西西里的美丽传说》里，莫妮卡·贝鲁奇的丈夫死在了战场，而她作为一个美艳的寡妇，失去了男人的保护，也没有任何经济来源，她于是只有通过出卖身体换面包吃。在那个战争年代，人都是很矛盾的——男人都想得到她，却纷纷假装厌弃她；女人都想成为她，却都想扑上去摧毁她，在背后毁灭她。其实她没有什么过错，她最大的过错就是生的太过美丽。
+- “大家一定要小心那些有六块腹肌的男人和永远保持好身材的女人，这些人拥有你所想不到的决心和意志力。想一想大白天里，他们能“唰”的一下从床上爬起来，到外面跑上几圈。多可怕啊！他们什么事都能干得出来。这绝对不是一个笑话，但凡是有一副好身材的人，活得都不会太差。”
+- 变态的工作关系也是应该避免的，你们要特别避免在你们不崇敬或者不想像他一样的人手下干活，那是很危险的。所有人在某种程度上都受到权威人物的控制，尤其是那些为我们提供回报的权威人物。在我年轻的时候，我的办法是找出我尊敬的人，然后想办法调到他手下去。在你们正确地仰慕的人手下工作，在生活中取得的成就将会更加令人满意。
+- 在遭遇一件令你难以接受的悲剧时，你永远也不能因为摆脱不掉它的困扰、在生活中再屡遭失败而让这一件悲剧变成两件、三件。
+- 复杂的官僚程序不是文明社会的最好制度。更好的制度是一张无缝的、非官僚的信任之网。
+- 如果你的思维完全依赖于他人，只要一超出你的领域，就求助专家建议，那么你将遭受很多灾难。
+- 技术从来不是人性的反面。  
+技术只是人类机体的延伸。  
+技术是人性最充分的显现。  
+技术如果出问题，是人性本身出问题。
+- 《死时谁为你哭泣》的作者罗宾·夏玛说：“不是因为某件事很难，你才不想做，而是因为你不想做，让这件事变得很难。”
+- 有民主就不会有财富上的平均分配，平均按需分配是社会主义国家假想的现象。民主意味着一种精神上的平等，决定权上的平等，但在此基础上，人便会自动在财富的分配上区别开来，除非认为强制分配，否则无法平均，因为人的能力，品格和运气各不相同。
+- 找到适合自己的工作与生活的平衡方式。人要取得平衡，不在于每天花多长时间工作、又能余下多长时间过自己的生活，而是在于你的选择：在于选择要什么、选择做什么、选择如何有质量的去做到，也在于你是否能寻求到内心的那份安宁与坦然。
+- 培养并尊重内心的直觉。是的，在战术层面上，数据非常有用，但是，在战略层面，一个卓越的市场人的直觉同样可贵。因为他们的直觉能让公司看到数据看不到的东西——那些深藏在消费者心里的东西。例如：品牌的定位（是应该聚焦在一个诉求还是更多），品牌/产品的命名，一个品类到底需要多少个品牌才能获取最大市场份额等等。
 
 # Reading List
 ```{r,echo=FALSE}
 library(DT)
 dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
+#dat<-dat[order(dat$Category,decreasing=F),]
 datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+
 ```

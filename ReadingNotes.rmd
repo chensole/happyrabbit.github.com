@@ -15,9 +15,38 @@ output:
 
 [**Back to homepage**](http://linhui.org/)
 
-# Predictable Irrational
+# Psychology
 
-## Goal: what makes you and people around you tick?
+## People of the lie [M Scott Peck]
+
+### Introduction: Handle with care
+
+- Remember Saint Augustine's advice to hate the sin but love the sinner. [憎恨罪恶，但要爱有罪的人]
+- Great evil has been committed throughout the centuries--and is still committed--by nominal Christians, often in the name of Christ.
+- There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial. 
+
+### The man who made a pact with the devil
+- obsessive-compulsive neurosis （强迫妄想型精神官能症）
+- the pattern of unwanted thoughts and the taking of undesired actions
+
+### Toward A Psychology of Evil
+
+- While some seek in religion an escape from mystery, for others religion is a way to approach mystery. The latter are not loath to employ the **reductionistic（还原论，简化论）** methods of science, but they are also not reluctant to use more integrative "right brain" means of exploration: meditation, intuition, feeling, faith, and revelation. For them bigger the mystery, the better.
+- The problem of evil can hardly be separated from the problem of goodness. Were there no goodness in the world, we would not even be considering the problem of evil.
+- It is as if we automatically assume this is a naturally good world that has somehow been contaminated by evil......If we seriously think about it, it probably makes more sense to assume this is a naturally evil world that has somehow been mysteriously "contaminated" by goodness, rather than the other way around. The mystery of goodness is even greater than the mystery of evil.
+- Thus we may "break" a horse or even a child without harming a hair on its head. Erich Fromm was acutely sensitive to this fact when he broadened the definition of **necrophilia （恋尸癖）**to include the desire of certain people to control others-----to make them controllable, to foster their dependency, to discourage their capacity to think for themselves, to diminish their unpredictability and originality, to keep them in line. Distinguishing it from a **"biophilic" person（具有生物自卫本能的人）**, one who appreciates and fosters the variety of life forms and the uniqueness of the individual, he demonstrated a "necrophilic character type" whose aim is to avoid the inconvenience of life by transforming others into obedient automatons, robbing them of their humanity.....Evil is that force, residing either inside or outside of human beings, that seeks to kill life or liveliness. Goodness is that which promotes life and liveliness.（弗洛姆广义的界定“恋尸癖”时，增列了某些人对他人的控制欲：使他人受控制，增强依赖度，削弱其主动性，接受管束。弗洛姆将“恋尸癖性格的人”和“具有生物自卫本能的人”加以区分：前者将他人改变为顺从的机器人，剥夺他们的人性，借以回避人生的艰难；而后者则承认并鼓励生命的多样变化，以及“人”独有的特性。）
+- A psychology of evil must be a religious psychology......it must not only embrace valid insights from all religious traditions but must also recognize the reality of the "supernatural".
+- Having fled the **Jewish persecution** of the Hitler regime, the psychoanalyst **Erich Fromm** spent much of the rest of his life sutdying the evil of **Naziism**. He （_原书中讲他是第一个也是唯一一个确定邪恶人格类型的科学家，此书写与1983年，这个说法已经不正确了_）.......to identify an evil personality type, to attempt to examine evil people in depth, and to suggest that they be studied still further.
+- The great Jewish theologian **Martin Buber** distinguished between two types of myths about evil. One type conerns people in the process of "sliding" into evil. The other concerns those who have already slid, "fallen victim" to and been taken over by "radical" evil.
+
+## Psychobabble [Stephen Briers]
+
+## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
+
+## Thinking Fast and Slow [Daniel Kahneman]
+## Predictable Irrational
+
+### Goal: what makes you and people around you tick?
 
 behavior economics, judgment and decision making (JDM)
 Generalized Axiom of Revealed Preference (GARF)
@@ -34,10 +63,20 @@ Anchor effect: last two digits of social security number, how much would you pay
 
 Assael anchored his pearls to the finest gems in the world and the prices followed forever
 
+# Philosophy
+
+## The Tibet Book of Live and Death
+
+# Data Science
+##Big Data (大数据的冲击)
+
+# Biology
+## The Selfish Gene
+## Sperm Wars)
+
 # [Nov2015]不畏将来不念过去
 
-- 若想改变,就从丢弃旧物开始 你留存的记忆越多,就意味着未来可以伤你的越多。你留存的记忆越细致,越是容易铸造出一个思维的牢笼,困于其中 ,越陷越深。  
-- 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。
+- 若想改变,就从丢弃旧物开始 你留存的记忆越多,就意味着未来可以伤你的越多。你留存的记忆越细致,越是容易铸造出一个思维的牢笼,困于其中 ,越陷越深。 [_Hui: 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。_]
 - 到了最后,就在那个愿意放下偏见和骄傲的时候,遇见一个同样愿意的人,在一段靠谱的感情中,走向一段靠谱的婚姻
 。然后,所有的剧情都落幕了,剩下的事,该来到的都来到了。不是因为你更爱谁,就可以不用面对那些鸡毛蒜皮,只
 是愿意和不愿意而已。
@@ -64,27 +103,7 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 
 - 作者列举了诸如律师、医生、教授和会计这些普遍被认为是专家的职业。对于法律这门职业作者提到：“从某种意义而言,法律是一个非常可怕的领域,它有可能仅仅依靠不同的解释而改变我们的人生。”对于会计（安然事件），医生（等候三个小时,看三分钟病），作者最后指出，单是国家认定的一张资格证并不能定义专家，“资格只不过是一张纸片而已,如果不成为 真正的专家,便如“脚底的米粒”,捡起来也不能吃。”。那么什么是专家呢？
 
-# People of the lie [M Scott Peck]
 
-## Introduction: Handle with care
-
-- Remember Saint Augustine's advice to hate the sin but love the sinner. [憎恨罪恶，但要爱有罪的人]
-- Great evil has been committed throughout the centuries--and is still committed--by nominal Christians, often in the name of Christ.
-- There are hundreds of thousands who go to Christian churches every Sunday who are not the least bit willing to be displeasing to themselves, serenely or otherwise, and who are not, therefore, for Jesus a pleasant place of shelter. Conversely, there are millions of Hindus, Buddhists, Muslims, Jews, atheists and agnostics who are willing to bear that trial. 
-
-## The man who made a pact with the devil
-- obsessive-compulsive neurosis （强迫妄想型精神官能症）
-- the pattern of unwanted thoughts and the taking of undesired actions
-
-## Toward A Psychology of Evil
-
-- While some seek in religion an escape from mystery, for others religion is a way to approach mystery. The latter are not loath to employ the **reductionistic（还原论，简化论）** methods of science, but they are also not reluctant to use more integrative "right brain" means of exploration: meditation, intuition, feeling, faith, and revelation. For them bigger the mystery, the better.
-- The problem of evil can hardly be separated from the problem of goodness. Were there no goodness in the world, we would not even be considering the problem of evil.
-- It is as if we automatically assume this is a naturally good world that has somehow been contaminated by evil......If we seriously think about it, it probably makes more sense to assume this is a naturally evil world that has somehow been mysteriously "contaminated" by goodness, rather than the other way around. The mystery of goodness is even greater than the mystery of evil.
-- Thus we may "break" a horse or even a child without harming a hair on its head. Erich Fromm was acutely sensitive to this fact when he broadened the definition of **necrophilia （恋尸癖）**to include the desire of certain people to control others-----to make them controllable, to foster their dependency, to discourage their capacity to think for themselves, to diminish their unpredictability and originality, to keep them in line. Distinguishing it from a **"biophilic" person（具有生物自卫本能的人）**, one who appreciates and fosters the variety of life forms and the uniqueness of the individual, he demonstrated a "necrophilic character type" whose aim is to avoid the inconvenience of life by transforming others into obedient automatons, robbing them of their humanity.....Evil is that force, residing either inside or outside of human beings, that seeks to kill life or liveliness. Goodness is that which promotes life and liveliness.（弗洛姆广义的界定“恋尸癖”时，增列了某些人对他人的控制欲：使他人受控制，增强依赖度，削弱其主动性，接受管束。弗洛姆将“恋尸癖性格的人”和“具有生物自卫本能的人”加以区分：前者将他人改变为顺从的机器人，剥夺他们的人性，借以回避人生的艰难；而后者则承认并鼓励生命的多样变化，以及“人”独有的特性。）
-- A psychology of evil must be a religious psychology......it must not only embrace valid insights from all religious traditions but must also recognize the reality of the "supernatural".
-- Having fled the **Jewish persecution** of the Hitler regime, the psychoanalyst **Erich Fromm** spent much of the rest of his life sutdying the evil of **Naziism**. He （_原书中讲他是第一个也是唯一一个确定邪恶人格类型的科学家，此书写与1983年，这个说法已经不正确了_）.......to identify an evil personality type, to attempt to examine evil people in depth, and to suggest that they be studied still further.
-- The great Jewish theologian **Martin Buber** distinguished between two types of myths about evil. One type conerns people in the process of "sliding" into evil. The other concerns those who have already slid, "fallen victim" to and been taken over by "radical" evil.
 
 # Much Depends on Dinner [Margaret Visser]
 

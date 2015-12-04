@@ -290,10 +290,31 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 培养并尊重内心的直觉。是的，在战术层面上，数据非常有用，但是，在战略层面，一个卓越的市场人的直觉同样可贵。因为他们的直觉能让公司看到数据看不到的东西——那些深藏在消费者心里的东西。例如：品牌的定位（是应该聚焦在一个诉求还是更多），品牌/产品的命名，一个品类到底需要多少个品牌才能获取最大市场份额等等。
 
 # Reading List
+
+It is my reading list after 2009. 
+
+
+
 ```{r,echo=FALSE}
 library(DT)
 dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
 #dat<-dat[order(dat$Category,decreasing=F),]
-datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
-
 ```
+
+- **Name**: Book name
+- **Category**: Book category  
+Here is a summary count table for the categories. 
+```{r, echo=FALSE}
+booktb<-data.frame(table(dat$Category))
+names(booktb)<-c("Category","Counts")
+booktb<-booktb[order(booktb$Counts,decreasing = T),]
+booktb
+```
+- **Author**: Author of the book
+- **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
+- **Priority**: My reading priority
+
+```{r,echo=FALSE}
+datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+```
+

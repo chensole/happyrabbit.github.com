@@ -47,7 +47,7 @@ datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priori
 
 ## Basic Statistical Analysis
 
-Here is a plots for counts of books in each category......Obviously, my favourite is "Philosophy and Psychology" and I am not very interested in "Politics"......
+Here is a plot for counts of books in each category......Obviously, my favourite is "Philosophy and Psychology" and I am not very interested in "Politics"......
 
 ```{r, echo=FALSE}
 booktb<-data.frame(table(dat$Category))

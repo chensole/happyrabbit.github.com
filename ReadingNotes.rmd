@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Dec 4, 2015"
+date: "Last Update: Saturday, Dec 5, 2015"
 output: 
  html_document:
   theme: united
@@ -16,7 +16,7 @@ output:
 
 # Reading List
 
-It is my reading list since 2009. The reading notes are arranged according to book category. I know nothing about library science. I just try to make things more structurized and easy to search especially when I am travelling. I will be happy if you find any of those notes useful for you as well. Good luck...... 
+It is my reading list since 2009. The reading notes are arranged according to book category.There are tons of paper notes need to be electronized and I will keep working on it in my spare time (it will be very nice if Pioneer allows me to work on my reading notes during working time......I am just dreaming.>_<) ......I know nothing about library science but the goal is to make things more structurized and easy to search which will be especially helpful when I am travelling. I will be happy if you find any of those notes useful for you as well. I thank all my friends who recommended great books to me. Good luck...... 
 
 ```{r,echo=FALSE}
 library(DT)
@@ -41,16 +41,41 @@ datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priori
 - **Name**: Book name
 - **ID**: Book index number 
 - **Category**: Book category  
+- **Author**: Author of the book
+- **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
+- **Priority**: My reading priority
+
+## Basic Statistical Analysis
+
 Here is a summary count table for the categories......Obviously, My favourite is "Philosophy and Psychology" and I don't like "Politics"......
+
 ```{r, echo=FALSE}
 booktb<-data.frame(table(dat$Category))
 names(booktb)<-c("Category","Counts")
 booktb<-booktb[order(booktb$Counts,decreasing = T),]
-booktb
+library(ggplot2)
+ggplot(booktb, aes(x=reorder(Category,Counts), y=Counts, fill=Category)) + 
+  geom_bar(stat="identity")+ coord_flip()+ ylab("Counts") + xlab("Category")+ theme(legend.position="none")
 ```
-- **Author**: Author of the book
-- **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
-- **Priority**: My reading priority
+
+Here is a plot showing the percentage of book I have started (or finished) for each category.
+
+```{r, echo=FALSE}
+Progress<-rep("Started",nrow(dat))
+idx<-which(dat$Progress=="")
+Progress[idx]<-"Not-Started"
+dat$Status<-Progress
+ggplot(dat, aes(Category,fill=Status)) +
+geom_bar(position="fill")+ coord_flip()
+
+```
+
+```{r, echo=FALSE}
+#bookp<-data.frame(table(dat$Category,dat$Progress))
+#head(bookp)
+#booktb<-booktb[order(booktb$Counts,decreasing = T),]
+#booktb
+```
 
 # Philosophy
 
@@ -115,6 +140,20 @@ Samsara: 轮回世界
 ## Psychobabble [Stephen Briers]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
+1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
+1. 游泳选手的身材错觉：混淆选择标准与结果（模特因为漂亮才选来拍化妆品广告，而非因为用了这些产品才漂亮）
+1. 过度自信效应：1）不存在不够自信效应；2）男性更加严重；3）悲观者只是高估幅度少些。
+1. 从众心理
+1. 纠缠沉没成本：all pay auction的困局
+1. 互惠偏误：互惠古来有之，是出色的生存智慧。没有互惠人类早灭绝了。但注意不要被互惠道德绑架。
+1. 确认偏误：所有思维错误之父......过滤与我们观点相矛盾的信息。宗教和哲学信念是杰出的例子。
+1. 权威偏误：对权威批判性越强，你就越自由。
+1. 对比效应/框架效应/锚定效应：这几个都类似
+1. 现成偏误：依据现成的例子来想象世界。某种东西反复出现我们的大脑就很容易重新提取（接受）它，尽管不一定是真的。
+1. 事后诸葛亮(Hindsight Bias)
+1. 司机的知识：播音员是话筒不是专家。芒格认为知识有两种：1）真知识，来自那些投入大量时间和思考获得知识的人们；2）司机的知识，装的好像知道的人，他们会模仿别人的表演，也可能有动听的声音或具有说服力的形象。但他们传播的知识是空洞的，他们高谈阔论地挥霍华丽词汇。企业越大，人们越期望它的CEO具有表演才能——交际能力。
+1. 控制错觉：你对你生活的控制比你以为的要少。(电梯上的安慰按钮。公司温度控制的按钮。)
+
 
 ## Thinking Fast and Slow [Daniel Kahneman]
 ## Predictable Irrational
@@ -151,6 +190,37 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 在美洲殖民地无所不在的玉米，除了食用之外又发展出上千种用途，其中一个用途就是用玉米穗轴制成的烟斗。(The ubiquity of the corn plant in **Colonial America** had made it standard material for a thousand uses which had nothing to do with food. One devive was the corncob smoking pipe.)
 - 玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。......通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field......by genetic manipulation, to produce no pollen.)
 - 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
+
+### Salt
+
+- 盐税，中国从公元前7世纪开始由政府垄断了盐。(China had a salt monopoly from the 7th century BC. Salt was also one of the first commodities to be taxed. "The art of taxation consists of plucking the goose so as to obtain the most feathers with the least hissing.)
+- 1825年，经过了400年的怨恨与诅咒，英国废除了盐税，是第一个废除盐税的国家。(In 1825, after four hundred years of resentment, England abolished her salt tax. She was the first country to do so.)
+- 为夺回印度的盐并在不加税的情况下进行买卖，印度人民的非暴力不合作运动开始了。(Non-violent activities undertook to get India's salt and sell it free of tax.) 
+- 盐，明亮，干燥，愉快，强悍，在许多种语言中，都是聪明与睿智的同义词。(Salt, brignt, dry, titillating, and dynamic, is synonymous in several languages with wit and wisdom.)
+
+### Ice-cream
+- 至少在1100BC，中国人就知道如何在地下建造冰库。
+
+> Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de' Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。]
+
+- 第一个影响深远并且享有声望(influential and lasting fame)的咖啡馆(Cafe)，是巴黎的Cafe Procope。Francesco Procopio dei Coltelli在1686年开办了这座咖啡馆，他是意大利人(Italian)，可能经由弗洛伦萨(Florence)从西西里岛(Sicily)而来。
+- The first automatic cane-rolling machine（蛋筒制造机）was invented in 1909.
+- 1932年，冰激凌工业进入岛一个全新的阶段(entirely new phase)，这是Clarence W. Vogt 发明了连续冰激凌冷冻制造机(continuous ice-cream freezer)。
+
+### Sugar (from an article)
+
+东汉明帝驾崩，马皇后成了马太后，大臣疑心她要专权，太后就说，咱以后，含饴弄孙——含着麦芽糖逗逗孙子，这就能过日子了。罗马帝国时期，甜品单里大多是新鲜或干透的水果，以此取甜。  
+
+用蔗糖最早的，应该是印度人。公元前三世纪，亚历山大东征，在印度发现有人嚼甘蔗取甜味，觉得有趣，便想法子移种。蔗糖提取不易，所以人类历史上大多数时候，砂糖的供应不顺畅。甜味曾经是个政治问题。跟英国人有关的糖危机，发生过两次。一次是19世纪初，英国人跟拿破仑打仗，拿破仑打不过英吉利海峡，便搞经济封锁，英国人一生气，也不给欧洲大陆供蔗糖。拿破仑御下的大陆诸国要哭了：一口甜的都吃不上！德国人这时跳出来：咱有甜菜，可以榨糖，让蔗糖去死吧！结果德国经济靠此崛起，实在是意料之外。另一次是20世纪初，《泰晤士报》连篇累牍，说只有下等阶级的人才爱吃甜喝甜，嗜糖如命。上流社会都要修身养性，减少食物含糖量还来不及呢。结果英国人对茶里放糖，依然故我。到二战时，人民需要营养和热量，支持抗击纳粹事业，实行配给制，糖不够用，怎么办？答：往茶里加牛奶，“多加些牛奶，茶就甜了。”
+
+葡萄酒发酵，酒精度和糖分此消彼长，所以爱喝偏甜葡萄酒的，就会被资深好酒者小看。南欧惯例，像葡萄牙、西班牙和南法酿葡萄酒，都喜欢加酒精强化，提前终止发酵，导致葡萄酒甜浓醉人。但这种喝法，法国北部的人就不大喜欢。德国人喝啤酒，嫌麦酒太甜，加了啤酒花，得了其中的清爽苦味才过瘾，反过来还要嘲笑：波兰这群胖子，就是爱喝甜烧酒，个个都是大冬天长个酒糟鼻子！
+
+如此，口味甜不甜，在欧洲像个阶级问题。
+
+福塞尔(Paul Fussell, American cultural and literary historian, author and university professor)《格调(Class)》里认为，现代社会，下等人才会迷恋甜味。上流社会也因此摇旗鼓吹，认为懂得品茶与咖啡的苦味，才能谏果回甘，体会到深层的味道云云……大概可以这么说：上等人觉得，甜味经常显得女性化、脆弱、下等、世俗、不够高雅，能尝得苦味才显得品味非凡、耐得住寂寞等等，但抛去一切形而上的想象，我们普通人类本性的DNA里，还就是喜欢甜的东西。
+
+> Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。**等级是一系列细微事物的组合**，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。 
+
 
 ## The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
 
@@ -209,6 +279,13 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 # Art     
 
 # Proses, Essays and Poems
+
+## The Thoughts of An Idle Fellow
+
+- There are plenty of lazy people and plenty of slow-coaches, but a genuine idler is a rarity. He is not a man who slouches about with his hands in his pockets. On the contrary, his most startling characteristic is that he is always intensely busy......**Idleness, like kisses, to be sweet must be stolen.** [Haha : )]
+- Love is like the measles; we all have to go through it.
+- No, we never sicken with love twice. Cupid spends no second arrow on the same heart. 
+
 ## Essay 送你一颗子弹（刘瑜）
 - 检验友谊的唯一标准就是两个人能否凑在一起说别人坏话
 - 被梦想俘虏的人就是在追逐他的厄运。

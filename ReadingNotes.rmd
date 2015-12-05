@@ -23,17 +23,27 @@ It is my reading list since 2009. The reading notes are ordered according to boo
 ```{r,echo=FALSE}
 library(DT)
 dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
-#dat<-dat[order(dat$Category,decreasing=F),]
+# Code used to assign ID
+#dat<-dat[order(dat$CATE_CODE,decreasing=F),]
+#library(nnet)
+#res<-class.ind(dat$CATE_CODE)
+#for (i in 1:ncol(res)){
+#res[,i]<-res[,i]*cumsum(res[,i])/100
+#}
+#dat$ID<-paste(dat$CATE_CODE,apply(res,1,sum),sep="")
+#setwd("/Users/happyrabbit/Dropbox/book/")
+#write.csv(dat,"ReadingListHui.csv",row.names=F)
 ```
 
 ```{r,echo=FALSE}
-datatable(subset(dat,select=c("Name","Category","Author","Progress","Priority")))
+datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priority")))
 ```
 
 
 - **Name**: Book name
+- **ID**: Book index number 
 - **Category**: Book category  
-Here is a summary count table for the categories. 
+Here is a summary count table for the categories......Obviously, My favourite is "Philosophy and Psychology" and I don't like "Politics"......
 ```{r, echo=FALSE}
 booktb<-data.frame(table(dat$Category))
 names(booktb)<-c("Category","Counts")
@@ -296,6 +306,7 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
      + Communication skill
      + Entrepreneuership: explore how to make data useful, lead to new data based services
      + Curiosity: not limited in art, techniques, medicine, natural science......but keenly curious about different areas. By analyzing data from differnt fields, data scientist with curiosity will find bonanza 
+     
 # Politics 
 
 # Other 

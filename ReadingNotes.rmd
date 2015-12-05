@@ -9,7 +9,7 @@ output:
   theme: united
   highlight: tango
   toc: true
-  toc_depth: 3
+  toc_depth: 5
   number_sections: true
 ---
 
@@ -18,7 +18,7 @@ output:
 
 # Reading List
 
-It is my reading list since 2009. The reading notes are ordered according to book category. I know nothing about library science. I just try to make things more structurized and easy to search when needed. Good luck...... 
+It is my reading list since 2009. The reading notes are arranged according to book category. I know nothing about library science. I just try to make things more structurized and easy to search especially when I am travelling. I will be happy if you find any of those notes useful for you as well. Good luck...... 
 
 ```{r,echo=FALSE}
 library(DT)
@@ -56,7 +56,28 @@ booktb
 
 # Philosophy
 
-## The Tibet Book of Live and Death
+## The Tibetan Book of Living and Dying(西藏生死书，Sogal Rinpoche)
+
+> Hui: 这本书让你严肃系统的思考死亡，从藏传佛教的角度讲述生死。结合了中西方思想，时而引入基督教的例子。虽然对许多地方有疑问，但还是非常推荐这本书。看过之后或许能向不畏死，亦能好好活跨进一步。
+
+### Living
+#### In the Mirror of Death
+
+
+Karma: 业力  
+Phowa: 颇瓦法 
+
+- The disastrous effects of the denial of death go far beyond the individual: They affect the whole planet. Believing fundamentally that this life is the only one, modern people have developed no long-term vision. So there is nothing to restrain them from plundering the planet for their own immediate ends and from living in a selfish way that could prove fatal for the future. （否定死亡的可怕影响力，绝不止于个人层面，它影响着整个地球。由于大多数人相信人生就只有这么一世，现代人已经丧失长远的眼光。因此，他们肆无忌惮地为着自己眼前的利益而掠夺地球。）
+- To practice death is to practice freedom. A man who has learned how to die has unlearned how to be a slave. [Montaigne]
+- Death is a vast mystery, but there are two things we can say about it: (1) It is absolutely certain that we will die; (2) It is uncertain when or how we will die.
+- Why do we live in such terror of death? Because our instinctive desire is to live and to go on living, and death is a savage end to everything we hold familiar.
+- Perhaps the deepest reason why we are afraid of death is because we do not know who we are.
+- Without our familiar props, we are faced with just ourselves, **a person we do not know, an unnerving stranger with whom we have been living all the time but we never really want to meet**.
+
+> Hui: 我们被各种各样的刺激、快感催眠(hypnotize)，生活渐渐沦为手段淹没目的的过程。不知道自己是谁，不知道为什么活着。
+
+- Just look at your mind for a few minutes. You will see that it is like a flea, constantly hopping to and fro. 
+- The birth of a man is the birth of his sorrow. The longer he lives, the more stupid he becomes, because his anxiety to avoid unavoidable death becomes more and more acute. What bitterness! He lives for what is always out of reach! His thirst for survival in the future makes him incapable of living in the present. (人之生也，与忧俱生。寿者昏昏，久忧不死。何苦也！其为形也，亦远矣！《庄子至乐篇》)
 
 # Psychology
 
@@ -107,6 +128,7 @@ Anchor effect: last two digits of social security number, how much would you pay
 Assael anchored his pearls to the finest gems in the world and the prices followed forever
 
 # Society and Culture  
+
 ## Much Depends on Dinner [Margaret Visser]
 
 ### Introduction
@@ -121,22 +143,30 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 玉米植株兼具雄性（穗）与雌性（须）两种性别，杂交玉米通过摘除自身的穗来完成，这样以来，玉米植株就不会自身授粉，而是必须接受来自其它植株的花粉。......通过受制遗传，培育出雄花不育的植株。(A corn plant is both male (its tassels) and female (its silks). Hybrid corn seed is to bear the grain, so that the plant cannot seed itself but will receive pollen from the other inbred parent chosen to be planted in the same field......by genetic manipulation, to produce no pollen.)
 - 同一性是一个现代社会特有的诅咒，它伪装着自己，以多样化的形式装在超市的罐头里，盒子里，瓶子里和纸板箱中。每一件摆在架子上的东西里都含有玉米，因此我们依赖着玉米，玉米也依赖着我们。我们自己证明出来的无能为力，却让我们承担起越来越多不可逃避的责任。(Uniformity, disguise itself as it may behind the multiplicity of cans, boxes, bottles, and cartons in our supermarkets, is a peculiarly modern curse. Everything on the shelves contains corn. We therefore depend on corn. But corn depends increasingly, because of our wanton（荒唐的） wastefulness, on us. Our own demonstrations of our incapacity to manage have placed us more exclusively and inescapably in charge.)
 
-# The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
+## The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
 
 - 根据一个有趣而且听起来可信的说法，咖啡不是由人，而是由动物发现的。大概在500年前，衣索比亚的牧羊人注意到他们的山羊吃了灌木丛中一种红色的莓子之后，突然兴奋的跳起来；牧羊人也好奇地尝尝这种看起来像樱桃的果子，结果也感受到类似的兴奋感。于是咖啡在世界各地的流传便开始了。
 
-## Venice [威尼斯]
+### Venice [威尼斯]
 
 - 弗洛里安咖啡馆：19世纪巴尔扎克用文字表达出他对弗洛里安咖啡馆的偏好
 
-## Zurich [苏黎世]
+### Zurich [苏黎世]
 欧笛翁咖啡馆
 
-## Vienna [维也纳]
+### Vienna [维也纳]
 - 维也纳的咖啡馆是咖啡馆中**独一无二**的......其独特性就如同匈牙利骑兵有其无法模仿的特色一样。[奥地利作家Johann Braun Von Braunthal]
 - 据说维也纳在**1684**年拥有第一家咖啡馆。
 - 在维也纳最早的几家咖啡馆中，**塔罗纳咖啡馆(Cafe Tarone)** 最常出现在人们话题中，它由烈酒商Johann Jacob Tarone于**1784**年成立。
 - 格林史戴德咖啡馆(Hugo von Hofmannsthal)
+
+### Hungray [匈牙利]
+- 布达佩斯的 Cafe Pilvax  
+诗人Sandor Petofi，尝试衔接存在于高尚文学与普通百姓之间的鸿沟，他将许多民间传说及神话写成诗句，这些诗句一方面保持其艺术本质，另一方面也十分浅显易懂。
+- Cafe New York  
+1894, 坐落于Erzsebet Korut 街的新巴洛克式咖啡馆
+- Roland Mischkl: "大部分的侍者都是有美丽外表的女性，她们穿着可爱的围裙，白色或蓝色，及踝的绑带高筒鞋，上了浆的衬衣及深色短裙。那种装扮引起的性感遐想，虽然没有科学解释，却人人都能感受得到。安详闲散的气氛似乎能让人的性感遐想完全释放出来。"
+
 
 # Novels and Plays          
 # History                   

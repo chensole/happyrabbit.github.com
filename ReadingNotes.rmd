@@ -47,7 +47,7 @@ datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priori
 
 ## Basic Statistical Analysis
 
-Here is a summary count table for the categories......Obviously, My favourite is "Philosophy and Psychology" and I don't like "Politics"......
+Here is a plots for counts of books in each category......Obviously, my favourite is "Philosophy and Psychology" and I don't like "Politics"......
 
 ```{r, echo=FALSE}
 booktb<-data.frame(table(dat$Category))
@@ -58,7 +58,7 @@ ggplot(booktb, aes(x=reorder(Category,Counts), y=Counts, fill=Category)) +
   geom_bar(stat="identity")+ coord_flip()+ ylab("Counts") + xlab("Category")+ theme(legend.position="none")
 ```
 
-Here is a plot showing the percentage of book I have started (or finished) for each category.
+Here is a plot showing the percentage of books I have started (or finished) for each category.
 
 ```{r, echo=FALSE}
 Progress<-rep("Started",nrow(dat))
@@ -66,7 +66,7 @@ idx<-which(dat$Progress=="")
 Progress[idx]<-"Not-Started"
 dat$Status<-Progress
 ggplot(dat, aes(Category,fill=Status)) +
-geom_bar(position="fill")+ coord_flip()
+geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 ```
 

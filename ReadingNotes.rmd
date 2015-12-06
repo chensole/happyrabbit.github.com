@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Saturday, Dec 5, 2015"
+date: "Last Update: Sunday, Dec 6, 2015"
 output: 
  html_document:
   theme: united
@@ -54,8 +54,8 @@ Here is a plot for counts of books in each category......Obviously, my favorite 
 1. Professional area/degree don't tell how a person spend time
 1. Scientists read more journal papers and technique reports in corresponding area than books
 1. There are not as many books in **SDT** as in some other areas   
-1. I didn’t spend enough time in **SDT** which explains my ignorance on them
-1. I need to work harder on **SDT** ......
+1. I didn’t spend enough time in **SDT** 
+1. I need to work harder on **SDT** 
 
 ```{r, echo=FALSE}
 dat$Category[dat$Category=="Novels and Plays-detective"]<-"Novels and Plays"
@@ -253,7 +253,10 @@ Nangpa: 佛教徒，内省的人
 
 - 我们一定是犯下了使我们被诅咒的罪过，因为我们已失去了宇宙的一切诗歌。
 - 艺术只有在大混乱中才能产生......因为不幸会使许多事情变得简单。
-- 现代生活全由过度摆布，过度侵入一切：行为和思维，公众和私人生活。由此造成艺术的堕落。任何地方都没有平衡。时光在流逝中，
+- 现代生活全由过度摆布，过度侵入一切：行为和思维，公众和私人生活。由此造成艺术的堕落。任何地方都没有平衡。时光在流逝中，销蚀，摧毁了世俗的东西。因此，在过去中有比现在更多的永恒。
+- 在人所爱和所恨之间是否有同一性？人所恨的东西，当它出现另一种形式时，人们会有必要去爱它吗？反之呢？革命的经久不灭的幻想在于认为由于权利的受害者是无辜遭受着暴力。倘若把权力放在他们手中，他们就会公正地使用它。然而除了接近神圣的人，受害者如同刽子手一样被权利玷污。剑柄上的恶传送到了尖端。如此般登上巅峰的受害者由于变化而陶醉，他们会同样作恶或是更多地作恶，然后又马上跌倒在地。
+- 劳动使人疲乏不堪地感受到了像球一样踢回来的合目的性现象。
+
 
 # Psychology
 
@@ -267,6 +270,18 @@ Nangpa: 佛教徒，内省的人
 
 ##### Of the Pleasure of Mutual Sympathy [论彼此同情的快感]
 1. 最让我们愉快的事，显然莫过于发现他人的感觉和我们自己心理全部情绪一致；而最让我们震惊的，也莫过于发现他人和我们完全没有同感......同情感活化喜悦，缓和悲伤......我们更加渴望向朋友倾诉我们心理的不愉快；他们同情我们的不愉快，比同情我们的喜悦， 会让我们得到更大的满足，而他们对我们的不愉快缺乏同情感，则比他们对我们的喜悦缺乏同情感，更加另我们震惊。
+
+## Personality [人格心理学, Jerry M. Burger, 7th Edition]
+### What is Personality?
+
+**人格**可以定义为源于个体身上的 _稳定_ 行为方式和 _内部过程_ 。该定义中有两个需要注意的点：
+
+      1. 人格是稳定的，我们可以跨时间、跨情境地来审查这些稳定的行为方式。
+      2. 内部过程， 它是从人的内心发生，影响人行为、感觉的所有情绪、动机和认知过程。
+
+> Hui: 该定义没有提到环境，而是着眼与个体层面，研究那些在不同情境下相对稳定的行为方式和内部心理过程。但是环境对人格还是会产生影响的，只是程度不同，这与背后存在共性并不矛盾。
+
+
 
 ## People of the lie [M Scott Peck]
 

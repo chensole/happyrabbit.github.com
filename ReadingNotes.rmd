@@ -16,7 +16,9 @@ output:
 
 # Reading List
 
-It is my reading list since 2009. The reading notes are arranged according to book category.There are tons of paper notes need to be electronized and I will keep working on it in my spare time (it will be very nice if Pioneer allows me to work on my reading notes during working time......I am just dreaming.>_<) ......I know nothing about library science but the goal is to make things more structurized and easy to search which will be especially helpful when I am travelling. I will be happy if you find any of those notes useful for you as well. I thank all my friends who recommended great books to me. Good luck...... 
+It is my reading list since 2009. The reading notes are arranged according to book category.There are tons of paper notes need to be electronized and I will keep working on it in my spare time (it will be very nice if Pioneer allows me to work on my reading notes during working hours......I am just dreaming.>_<) ......I know nothing about library science but the goal here is to make things more structurized and easy to search which will be especially helpful when I am travelling. Good luck......   
+
+My personal comments will start with "Hui:". Sometimes I summarize the contents with my own words. It is great if you find any of those notes useful for you as well. I thank all my friends who recommended great books to me. If you have any questions or awesome books that you keenly want to share, feel free to email me at: longqiman@gmail.com. Thank you!
 
 ```{r,echo=FALSE}
 library(DT)
@@ -79,19 +81,24 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 # Philosophy
 
-## The Tibetan Book of Living and Dying(西藏生死书，Sogal Rinpoche)
+## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 
 > Hui: 这本书让你严肃系统的思考死亡，从藏传佛教的角度讲述生死。结合了中西方思想，时而引入基督教的例子。虽然对许多地方有疑问，但还是非常推荐这本书。看过之后或许能向不畏死，亦能好好活跨进一步。
 
-### Living
-#### In the Mirror of Death
-
+### Living [生]
 
 Karma: 业力  
 Phowa: 颇瓦法  
 Samsara: 轮回世界
+Rigpa: 本觉
+Nangpa: 佛教徒，内省的人
+
+#### In the Mirror of Death [在死亡的镜子中]
 
 - The disastrous effects of the denial of death go far beyond the individual: They affect the whole planet. Believing fundamentally that this life is the only one, modern people have developed no long-term vision. So there is nothing to restrain them from plundering the planet for their own immediate ends and from living in a selfish way that could prove fatal for the future. （否定死亡的可怕影响力，绝不止于个人层面，它影响着整个地球。由于大多数人相信人生就只有这么一世，现代人已经丧失长远的眼光。因此，他们肆无忌惮地为着自己眼前的利益而掠夺地球。）
+
+#### Impermanence [无常]
+
 - To practice death is to practice freedom. A man who has learned how to die has unlearned how to be a slave. [Montaigne]
 - Death is a vast mystery, but there are two things we can say about it: (1) It is absolutely certain that we will die; (2) It is uncertain when or how we will die.
 - Why do we live in such terror of death? Because our instinctive desire is to live and to go on living, and death is a savage end to everything we hold familiar.
@@ -107,13 +114,70 @@ Samsara: 轮回世界
 - Discipline is to do what is appropriate or just; that is, in an excessively complicated age, to simplify our lives......the only serious goals in life are **"learning to love other people and acquiring knowledge(学习爱别人和获得知识)"**......**Whatever we have done with our lives makes us what we are when we die.(我们一生的所作所为，造就了我们去世时的模样。)** And everything, **absolutely everything counts**.
 - In our minds changes always equal loss and suffering. And if they come, we try to anesthetize ourselves as far as possible. We assume that permanence provides security and impermanence does not. (我们害怕变化)
 - The past is past, the future not yet risen, and even the present thought, as we experience it, becomes tha past. The only thing we really have is now......Has my understanding of death and impermanence become so keen and so urgent that I am devoting every second to the pursuit of enlighternment?
+
+#### Reflection and Changes [反省与改变]
+
 - There is one way, and one way only, out of samsara's ceaseless round of brith and death, which is the path to liberation.
 - Those with dualistic perception（分别心） regard suffering as happiness, like they who lick the honey from a razor edge.
 - We may idealize freedom, but when it comes to our habits, we are completely enslaved.
 - Learning to live is learning to let go.
 - There is nothing wrong with the desire to be happy, but what we grasp on to is by nature ungraspable. The Tibetans say you cannot wash the same dirty hand twice in the same running river, and, "No matter how much you squeeze a handful of sand, you will never get oil out of it."
+- How can we work to overcome attachment? Only by realizing its impermanent nature; this realization slowly releases us from its grip. 
+
+> Hui: understand and accept uncertainty. being mortal
+
+- Nothing has any **inherent** existence of its own when you really look at it, and this absence of independent existence is what we call "emptiness".
+
+> Hui: It reminds me the beginning of Ecclesiastes.   
+**[Ecclesiastes 1:2-10]** "Everything is meaningless", says the Teacher, "completely meaningless!" What do people get for all their hard work under the sun? Generations come and generations go, but the earth never changes. The sun rises and the sun sets, then hurries around to rise again. The wind blows sounth, and then turns north. Around and around it goes, blowing in circles. Rivers run into the sea, but the sea is never full. Then the water returns again to the rivers and flows out again to the sea. No matter how much we see, we are never satisfied. No matter how much we hear, we are not content. History merely repeats itself. It has all been done before. Nothing under the sun is truly new. Sometimes people say, "Here is something new!" But actually it is old; nothing is ever truly new.
+
+- Always recognize the dreamlike qualities of life and reduce attachment and aversion. (认知生命有如梦幻，减少执著和嗔怨)
+
+> Hui: 无所不有是**全**，一无所有是**空**。全是面子，空是里子。什么都是也就无所谓是什么，等于什么都不是，意识到这一点，就可以放下了。
+
+#### The Nature of Mind[心性]
+- "the homage of the View" It is a devotion that springs spontaneously from seeing the View of the nature of mind.(“知见皈依”这是从看到心性的知见而当下产生的恭敬心。)
+- **Life and death are in the mind, and nowhere else.**
+
+> Hui: It resonates what Bible says. Jesus came to show us the way, teach us the truth and invite us to find life. As Jesus said to the Samaritan woman:"Anyone who drinks this water will soon become thirsty again. But those who drink the water I give will never be thirsty again. It becomes a fresh, bubbling spring within them, giving them eternal life." Indeed, life and death depend on your mind, your faith. 
+
+- There are many aspects to the mind, but two stand out.   
+     1. Ordinary mind, called by the Tibetans _sem_. One master defines it:"That which possesses discriminating awareness, that which possesses a sense of duality--which grasps or rejects something external--that is mind. Fundamentally it is that which can associate with an 'other'--with any 'something', that is perceived as different from the perceiver."(凡夫心，分别，相对心)
+     1. Then there is the very nature of mind, its innermost essence, which is absolutely and always untouched by change or death. At present it is hidden within our own mind, our _sem_, enveloped and obscured by the mental scurry of our thoughts and emotions.(本性，心的底蕴，不受凡夫心影响。)
+- The nature of mind is the very root itself of understanding. In Tibetan we call it _Rigpa_, a primordial, pure, pristine awareness that is at once intelligent, cognizant, radiant, and always awake. It could be said to be the knowledge of knowledge itself. (心性是了解的基础。)
+- When a much larger number of people know the nature of their minds, they'll know also the glorious nature of the world they are in, and struggle urgently and bravely to preserve it. It's interesting that the word for "Buddhist" in Tibetan is _nangpa_. It means "insider-er": someone who seeks the truth not outside, but within the nature of mind.
+- The central truth of Buddha's teaching: that we are all already essentially perfect.
+
+> Hui: I don't agree that we are already essentially perfect.
+
+#### Bringing the Mind Home [把心带回家]
+- In fact, we are already perfectly trained by and for samsara, trained to get jealous, trained to grasp, trained to be anxious and sad and desperate and greedy, trained to react angrily to whatever provikes us. We are trained, in fact, to such an extent that these negative emotions rise spontaneously, without our even trying to generate them. 
+
+## Gravity and Grace [重负与神恩, Simone Weil] 
+
+
+> Hui: 这是我在2012年读的一本书，书很薄但很实，没有废话。Weil认为，不幸是绝对的。人的存在的不幸是无法消除的。她尖锐的地指出任何社会形态——哪怕是最近完美的社会形态都不能消除人的不幸，不幸不同于不义，所以革命不能代替人的救赎，而只能掩盖不幸，忽略看轻人的不幸，这也就是柏拉图所谓的猛兽式的社会性残忍。“爱是一种神圣的东西。若深入内心，就会将它撕裂。人心被创造出来就是供撕裂的。当它被其它东西撕裂时，就是最可悲的浪费。但它宁可被其它东西撕裂而不是被神圣的爱。因为神圣的爱只撕裂自愿被撕裂的心。这种自愿是困难的。”从一个基督徒的角度，我对这句话的理解是我们只有摒弃过去的自己（也就是所谓的撕裂），将自己交给神，相信神，才能得到永恒的神恩。神恩的翻译是Grace，我及其喜欢这个关于Grace的定义： “Grace is God's kindness, his love, his care, his work on our behalf, his blessings, his gifts, his goodness, his forgiveness, and his salvation. But it is more than that--it is all these things **when they are undeserved**, when they are **pure gift**”.   只有来自神恩的爱才能够改变我们，改变接受神恩的人，也改变了这些接受神恩后向其他人传递神恩的人。为什么放弃原来那个自己那么困难？因为骄傲，我们放不下内心的骄傲，便无法接受神的恩典。这种放下和自愿被撕裂当然是困难的，否则神恩来的太便宜了。    
+此外，作者认为包含真理的思想存在于不同的宗教经典，文学与科学著作中，真理遵循不同的途径显示在人们的精神中。比如希腊几何学和诗歌，中国的道教，埃及的俄赛里斯教，印度佛经等，都融合了圣经所包含的真理。
+
+- 两种力量主宰着宇宙：光(light)和重力(gravity)。重负，一般地说，人们期待他人的事是我们身上的重负效果决定的；人们从他人那里得到的由他人身上重负效果所决定。**为何一旦有人表示有一点，或非常需要别人时，别人会选择远离？重负所致。** 灵魂的一切自然的运动受物质万有引力一类的规律制约。唯有神恩例外。
+
+> Hui: 神的爱是无条件的。
+
+- 在这种情况下，我至少由有好几次忍不住说出伤人之语。向重负屈服了。这是大逆不道。话语的功能就是如此被滥用，话语是用来表达事物关系的。
+- 伤害他人，就是要从中得到什么。得到什么呢？当伤害他人时，赢得了什么？人们扩展了自己。发展了自己。在他人身上建立虚无以填平自身的虚无。
 
 # Psychology
+
+## The Theory of Moral Sentiments [Adam Smith]
+### Of the Propriety of Action
+#### Of the Sense of Propriety
+##### Of Sympathy
+1. Principles in the nature, the emotion which we feel for the misery of others when we either see it, or are made to conveive it in a very lively manner. (人性中的原始感情)
+1. 原因：看到引发那种感情的处境
+1. 恐惧死亡：对死者同情。我们把自己还活着的灵魂塞进他们已失去活力的躯壳里，然后设想在这种情况下我们自己将会有什么样的情绪。正是该错觉，在我们死后无疑不可能给我们带来任何痛苦的那些情况，在我们活着时想起来却让我们心痛不已。
+
+##### Of the Pleasure of Mutual Sympathy [论彼此同情的快感]
+1. 最让我们愉快的事，显然莫过于发现他人的感觉和我们自己心理全部情绪一致；而最让我们震惊的，也莫过于发现他人和我们完全没有同感......同情感活化喜悦，缓和悲伤......我们更加渴望向朋友倾诉我们心理的不愉快；他们同情我们的不愉快，比同情我们的喜悦， 会让我们得到更大的满足，而他们对我们的不愉快缺乏同情感，则比他们对我们的喜悦缺乏同情感，更加另我们震惊。
 
 ## People of the lie [M Scott Peck]
 

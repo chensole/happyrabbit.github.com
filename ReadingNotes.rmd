@@ -49,10 +49,17 @@ datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priori
 
 ## Basic Statistical Analysis
 
-Here is a plot for counts of books in each category......Obviously, my favourite is "Philosophy and Psychology" and I am not very interested in "Politics"......
+Here is a plot for counts of books in each category......Obviously, my favorite is "Philosophy and Psychology" and I am not very interested in "Politics"......Statistics (31), Data Science (5) and IT(7) [**SDT** area], all these three added together is about the size of "Business & Economics". I am a little surprised. Some possible insights are (not all of them necessary to be true):
+ 
+1. Professional area/degree don't tell how a person spend time
+1. Scientists read more journal papers and technique reports in corresponding area than books
+1. There are not as many books in **SDT** as in some other areas   
+1. I didn’t spend enough time in **SDT** which explains my ignorance on them
+1. I need to work harder on **SDT** ......
 
 ```{r, echo=FALSE}
-booktb<-data.frame(table(dat$Category))
+dat$Category[dat$Category=="Novels and Plays-detective"]<-"Novels and Plays"
+booktb<-data.frame(table(as.character(dat$Category)))
 names(booktb)<-c("Category","Counts")
 booktb<-booktb[order(booktb$Counts,decreasing = T),]
 library(ggplot2)
@@ -60,7 +67,7 @@ ggplot(booktb, aes(x=reorder(Category,Counts), y=Counts, fill=Category)) +
   geom_bar(stat="identity")+ coord_flip()+ ylab("Counts") + xlab("Category")+ theme(legend.position="none")
 ```
 
-Here is a plot showing the percentage of books I have started (or finished) for each category.
+Here is a plot showing the percentage of books I have started (or finished) across different categories.
 
 ```{r, echo=FALSE}
 Progress<-rep("Started",nrow(dat))
@@ -216,6 +223,37 @@ Nangpa: 佛教徒，内省的人
 > Hui: “自愿”源自于上帝的仁慈和爱；“身不由己”则因为人性中的罪。
 
 - 她否认上帝在自然中留下的不确定性和“无根据”的余地，而这种余地使自由和奇迹得以进入尘世。同样，在事实上，重负确实是强大无比的：圣.托马斯承认，大部分人的行为是受命于感官的盲目的欲望，并屈从于星辰的决定性的.[原编者注]
+
+- 惟一不受偶然性支配的善是尘世之外的善。要知道_**最珍贵的东西并不扎根于生存中**_。这是美的。为什么？它把灵魂抛到时间之外。想生一个白如雪，红似血的孩子的女人，得到了这样的孩子，但她死了，孩子托付给了继母。
+
+- 凡是存在的东西绝对不值得爱。因此，应爱不存在之物。
+
+> Hui:不太理解这点，那么神存不存在呢？抑或这里讲的的世俗意义的存在，而非精神。
+
+- 信念（这里所说的是对自然的一种超自然的阐释）是一种建立在超自然经验基础上的通过类比做出的**臆测**。......神秘主义是人类品性的惟一源泉。因为，不相信在尘世的幕后有无限的慈悲，或是相信这种慈悲在幕前，两者都使人变得残忍。
+
+> Hui:也就是说，以作者看信念是一种主观想象，而非客观存在。
+
+- 只有当我们在内心深处需要某种表示什么意义的声音，当我们呼叫以求得回音而我们却得不到回音时，只有这时，我们才触及上帝的沉默。
+- 在两个不曾体验过上帝的人中间，否认上帝的人也许离上帝最近。
+
+> Hui:怀疑否认比不假思索的盲信要好。
+
+- 专注，从其最高程度上来说同祈祷是一回事。它意味着信念和爱。专注丝毫不分心就是祈祷。高度的专注就是构成人的创造才能的东西，而惟有宗教的专注才是高度的专注。......若人们不把注意力从上帝的启示上挪开，若人们不拒绝这种启示，那么上帝的启示必定会不可抗拒的发生。对于上帝的启示，并无选择可做，只需要不拒绝承认它的存在。怀着爱把专注专向上帝（或转向更低层次，一切真正美的东西），这使一些事难以实现。这就是灵魂中祈祷的不起作用的行文。我不必担心不拼命努力。条件仅仅是不自欺并要专心。
+- 极端的纯洁性可注视纯洁，也可注视非纯洁；非纯洁性两者均不能；前者使它害怕，后者将它吸收。
+
+> Hui:纯洁具有包容吸收的能力。海纳百川，有容乃大。能被玷污的，是因为原本就不够干净；能被伤害的，是因为原本就不够强大。
+
+- 要触及不可能，必须完成可能。应在规定的时间完成职责，以确信外部世界的实在。应确信时间的实在，不然，就在幻想。
+- 假如在此之后和余生之中自己会成白痴，真理却继续存在。
+- 若人人都始终按照自己所读的正义来行事，公正与不公正之间的差别又是什么？
+- 美：是一种人们看着它而不向它伸手的水果。
+
+> Hui: 占有有可能既是破坏。
+
+- 我们一定是犯下了使我们被诅咒的罪过，因为我们已失去了宇宙的一切诗歌。
+- 艺术只有在大混乱中才能产生......因为不幸会使许多事情变得简单。
+- 现代生活全由过度摆布，过度侵入一切：行为和思维，公众和私人生活。由此造成艺术的堕落。任何地方都没有平衡。时光在流逝中，
 
 # Psychology
 

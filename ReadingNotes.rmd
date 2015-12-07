@@ -59,6 +59,7 @@ Here is a plot for counts of books in each category......Obviously, my favorite 
 
 ```{r, echo=FALSE}
 dat$Category[dat$Category=="Novels and Plays-detective"]<-"Novels and Plays"
+dat$Category[dat$Category=="Novel"]<-"Novels and Plays"
 booktb<-data.frame(table(as.character(dat$Category)))
 names(booktb)<-c("Category","Counts")
 booktb<-booktb[order(booktb$Counts,decreasing = T),]
@@ -435,6 +436,39 @@ Anchor effect: last two digits of social security number, how much would you pay
 
 Assael anchored his pearls to the finest gems in the world and the prices followed forever
 
+## Mind Control 
+### Ch 1 赢家不会告诉你的
+- 保证自己成功的工具并不是执行力，而是明智的态度，冷静的判断和别具一格的思维
+- 把你看到的人变成“你的人”，让更多的人想成为“你的人”， 这就是优秀领导者的魅力
+- “成功可以复制”是谎言
+- 表演的是狗熊，收钱的是驯兽师。成为“善舞的狗熊”是一个悲剧的目标
+- 黑色人种为何散漫，漠视规则，难以形成高度的组织和纪律性？
+- 白人基因有哪些与众不同的优点，又有哪些明显弱于东亚黄色人种的缺陷，从而导致了基督教文明与儒家文明的区别？
+- 基因在很大程度上决定一个人的抗洗脑能力有致命影响。相较而言，华人总是很难被洗脑，他们既依赖权威，同时又不相信权力，也从不迷信鬼神的力量，并对任何单一和极端的“信仰”敬而远之。
+
+     > Hui: I totally can't buy this point......
+
+- 金钱总是在底层群体的手中进进出出，而永远在上层少数人的口袋里驻扎。富人的智慧：
+      1. 他们不相信任何已经成功的人，从不迷信和追随某种经验。
+      1. 从不制定宏观计划，而是注重于沿着趋势去推动事情。
+      1. 他们深知金钱的用途，在滚雪球的过程中，懂得集中力量、聚成一团和重点使用的价值，不会将钱分散开来，而是能够抓住孤注一掷的时机。
+- 洗脑金字塔： 1）洗脑源；2）传教士；3）中产；4）洗脑受体。
+
+     > Hui: 信息!= 真实信息  <----- 阶层，信息源，目的，判断力
+
+- 整部人类历史的发展背后，这一洗脑原则始终被牢固地贯彻下来，每一种文明都是如此，这就是世界各地优秀文化思想全部诞生在公元前，之后就一直裹足不前的原因。
+
+     > Hui: “各地优秀文化思想都诞生在公元前”这个观点有趣，仔细想想还真是那么一回事......>_<
+
+- 一个人只有站得高才能看得远，与他是否足够努力并没有必然关系。时间未必可以换来金钱。
+
+> Hui: 上层能够获取-----> (信息，资源，人脉)------>通过资本运作致富
+
+- 专注于提升自己的生活而不是去过量入为出的日子。
+
+
+
+
 # Society and Culture  
 
 ## Much Depends on Dinner [Margaret Visser]
@@ -535,7 +569,31 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 
 # Novels and Plays          
 # History                   
-# Business & Economics      
+# Business & Economics 
+## The Wealth of Nations [Adam Smith]
+### Of the Causes of Improvement in the productive Powers of Labour, and of the Order according to which its Produce is naturally distributed among the different Ranks of the People
+#### Of the Division of Labour
+
+The author discussed the cause and effects of division of labour.
+
+- The division of labour arises from a propensity in human nature to exchange [分工不是人类智慧的结晶，是因为我们需要互相帮忙，人类这种需要交换的趋势促成了分工的产生。]
+- The division of labour (not natural differences) gives rise to differences of talent. [分工导致了人们在不同事业不同领域表现各种才能，而不是天赋的差异导致分工]
+
+#### Of the Principle which gives Occasion to the Division of Labour [论分工如何受到市场范围的限制]
+
+- 分工的程度会被当时的交换能力限制住，而分工又起因于交换能力，当然这个范围限制决定了分工的范围。市场小：不鼓励专一职业。因为人们没有能力把自己消费不了的劳动产品中的剩余部分哪去交换别人的剩余物品。
+
+## Principles of Economics [Alfred Marshall]
+### Introduction
+
+- **Political Economy** or **Economics** is a study of mankind in the ordinary business of life......it is on the one side a study of wealth; and on the other and more important side, a part of the study of man.......two great forming agencies of the world's history have been _religious_ and _economic_.
+
+> Hui: I agree. Religion and economy set the frame.
+
+### The substance of economics
+- **Econimics** is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man's conduct in the business part of his life......the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work. 
+
+
 # Art     
 
 # Proses, Essays and Poems
@@ -724,6 +782,9 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
      + Curiosity: not limited in art, techniques, medicine, natural science......but keenly curious about different areas. By analyzing data from differnt fields, data scientist with curiosity will find bonanza 
      
 # Politics 
+## Democracy in America [Tocqueville]
+
+这本书的作者是托克维尔（1805-1859），经历过法兰西第一帝国、波旁复辟王朝、七月王朝、法兰西第二共和国、法兰西第二帝国五个“朝代”。法国著名的历史学家、社会学家、政治家。《论美国的民主》是他在35岁时写的， 之后在41岁时还写了一本经典著作《旧制度与大革命》。托克维尔是法国贵族出身的，受过很好的教育， 但是他思想倾向却是自由主义的。时至今日，没有哪个国家会承认自己是不民主的，甚至朝鲜、缅甸这样的国家也都宣称自己是民主政体。金正恩全票当选，不是还沾了个“选”字么？为什么呢？ 因为今天民主似乎成为了一种普世价值，没有人敢公然去否定民主。问题是你走的是哪种民主政治？ 如果我们不接受民主普选，那否定的理由又是什么呢？从历史上看，并不是人们不知道民主有坏处， 但关键在于这些坏处是否能够掩盖民主的价值？抑或对民主的弊端，我们应该要更多的民主还是限制民主？ 要对民主这个话题深入的理解，托克维尔的《论美国的民主》不得不读。这本书是托克维尔在美国周游一圈回到法国写的， 其中讨论了民主这种政治体制在美国实行的状况如何。书中给出的答案是，要解决民主带来的问题，我们需要更多的民主。 当时欧洲有很多保守主义者反对民主，法国大革命的血腥招致各种批评，在此情况下，这可以说是一本为民主辩护的书。
 
 # Other 
 ## [Nov2015]不畏将来不念过去

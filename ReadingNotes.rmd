@@ -307,6 +307,42 @@ Nangpa: 佛教徒，内省的人
 - The great Jewish theologian **Martin Buber** distinguished between two types of myths about evil. One type conerns people in the process of "sliding" into evil. The other concerns those who have already slid, "fallen victim" to and been taken over by "radical" evil.
 
 ## Psychobabble [Stephen Briers]
+### What's so wrong with popular psychology?
+
+The author pointed out that more of us turn to self-help books for answers to lives that feel in need of fixing. The phenomenon indicates our rising levels of _insecurity_ and _self-doubt_ and the stealthy(悄然的，秘密的) psychologising of American culture as a whole. Self-help industry is meme of popular psychology. **Meme** is defined by **Richard Dawkins** in his _The Selfish Gene_ as "an idea, behaviour or style that spreads from person to person within a culture". It is like today's "Big Data" or "Data Science"......The major selling points of self-help book is to keep things simple and manageable. The social environment is complex. There are innumerable variables contribute to even a simple human activity. According to **"chaos theory"**, even small local variations can produce a truly bewildering variety of outcomes--so great in fact as to render prediction virtually impossible, even in a closed, deterministic system. 
+
+> Hui: In the era of "Internet of Things", everything is connected. A slight move in one part may affect the situation as a whole. The consequence can be amplified/changed through the network. It is getting harder to predict and control. We badly need recipe to simplify this complicating world. At least, myself always wonder. The priciple of **Occam's razor** advocates the virtue of parsimony. In statistical world, it means when two models provide similar results, always choose the simpler one. However, for our current situation, I agree with the author that even the most economical explanations at our disposal may still be too complecate. 
+
+> Oscar Wilde: The truth is rarely pure and never simple
+
+- In the mysterious world of particle physics, Superstring Theory remains the most promising candidate to provide us with a workable "Theory of Everything". This is the Grail of modern physics, the theoretical framework that will finally allow physicists to reconcile the uneasy bedfellows of quantum physics and general relativity. However as Brian Greene points out in _The Elegant Universe_, although the theory looks sound, the maths involved is proving so complex that even the best mathematical brains in the world are currently struggling to make the highly convoluted sums add up.
+
+> Hui: I don't think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information avalability complicates people's decision making may fit better here. 
+ 
+### Babble 1: The root of all your problems is low self-esteem
+### Babble 2: Let your feelings out!
+### Babble 3: Emotional intelligence is what really counts
+### Babble 4: Let your goals power you towards success!
+### Babble 5: No one can make you feel anything
+### Babble 6: Think positive ans be a winner!
+### Babble 7: We need to talk......
+### Babble 8: Whatever your problem, CBT is the answer
+### Babble 9: You can never be too assertive
+### Babble 10: Men and women live on different palnets
+### Babble 11: Your inner child needs a hug
+### Babble 12: You can learn to do anything you want
+### Babble 13: You'd better get yourself sorted
+### Babble 14: You are stronger than you know
+### Babble 15: You are a master of the universe!
+### Babble 16: There is no failure, only feedback
+### Babble 17: It's all your parents' fault
+### Babble 18: You can heal your body
+### Babble 19: You are in control of your life
+### Babble 20: Married bliss: a matter of give and take
+### Babble 21: Discover the real you!
+### Babble 22: Make every second count
+### Babble 23: We must all strive to be happy
+## The Optimism Bias [Tali Sharot]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
@@ -354,27 +390,27 @@ Nangpa: 佛教徒，内省的人
 1. 归纳法（induction）：generalize results from small sample.我们自欺欺人。很少生病的人觉得自己不会死。连续几个季度利润增长CEO觉得自己不可缺少。人类一直成功因此我们可以征服未来的挑战（只有那些幸存到现在的物种才能这么说。）**以我们存在的事实来说明将来我们也会存在，是一个严重的思维错误——估计是最严重的**。 
 1. 损失规避：人们害怕失去某种东西的想法要比获得某种同等价值的东西的想法强烈。我们无法改变：恶比善更有影响力。我们对不利的东西反应要比对有利东西反应敏感。一张凶恶的脸要比一张友善的脸更容易引起我们注意。**恶行要比善行更永久地留存在我们的记忆里。当然也有例外：事关我们自己的时候。**
 1. 社会性倦怠：责任扩散，个人效率无法直接看到，导致尸位素餐，群体效率下降（都指望别人嘛： ））。这是一种我们让自己亏欠所有人的欺骗形式。这一欺骗大多不是故意的，而是不知不觉的发生的。为什么不完全懈怠？因为0效率会引起注意——继而会带来后果，如被逐出群体或损坏名誉，我们能细腻地感觉到，懈怠到什么程度不会被看出来。出于同样的原因，团队有甘冒比个人更大风险的倾向。人们称这一效应为风险分摊。可以通过尽量彰显个人效率来缓和团队的弊病。
-- 指数增长
-- 赢家的诅咒：拍卖的赢家大多是事实上的输家。1）一种货物的真实价值是不确定的。出价方越多，报价过高的概率就越大。2）我们想排挤竞争对手。
-- 基本特征谬误：系统性地高估人的影响，在解释某些东西时低估情境因素。领导才能对经济成功的影响程度要远远小于普遍的经济形势和行业的影响力。在一个存在危机的行业里，首席执行官们常被撤换。.....极度关注他人源自我们过去的进化史，隶属于一个群体是生存所必需的，被排斥意味着死亡。繁殖、自卫和狩猎，大多是个体做不到的。我们需要别人协助。特立独行的人早就从基因池里消失了。因此我们才会这样过度地关注人。我们将90%的精力都用来关注人，只用10%的精力关注情境。不管戏剧多么让我们着迷，舞台上的人绝非孤立的，他们的表演离不开一个个情境。你若真想理解正在表演的戏剧，就请你不要只注重表演者，而是多关注他们的表演或舞蹈。
-- 错误归因
-- 光环效应
-- 替代途径：风险从来不是一眼就能看到的。因此，请你时刻考虑你有什么样的替代途径。比起你通过无惊险的平凡途径获得的成功，别拿通过冒险的替代途径获得的成功太当真。蒙田怎么说来着：“我的生命充满不幸——这些不幸大多没有发生。”
-- 预测错觉：什么可以预测，什么不可以预测？一件事情越复杂，时间跨度越长，其未来的发展变化就越多。
-- 关联谬误：大脑的系统1会自动把线索连起来编故事。
-- 框架效应：同样的内容，换个不同的说法，效果不同。
-- 行动偏误：为什么不行动光等待是中痛苦？源自远古基因。在一个狩猎采野果的环境中，行动比思考价值大得多。在古时，闪电式反应关乎生死存亡，思考则可能会致命。如果情况不明，不要采取任何行动，直到你能更好地分析形势，你要克制自己。
-- 不作为偏误：其出现在无论放弃还是行动都会带来损害地地方。在这种情况下大多数人都会选择放弃，因为这样引起地损害主观看来更无害。“如果你不是答案地一部分，就是问题地一部分[1968欧洲学生运动口号]”
-- 自利偏误：成功归于自己，失败归于外因。
-- 享乐适应：
+1. 指数增长
+1. 赢家的诅咒：拍卖的赢家大多是事实上的输家。1）一种货物的真实价值是不确定的。出价方越多，报价过高的概率就越大。2）我们想排挤竞争对手。
+1. 基本特征谬误：系统性地高估人的影响，在解释某些东西时低估情境因素。领导才能对经济成功的影响程度要远远小于普遍的经济形势和行业的影响力。在一个存在危机的行业里，首席执行官们常被撤换。.....极度关注他人源自我们过去的进化史，隶属于一个群体是生存所必需的，被排斥意味着死亡。繁殖、自卫和狩猎，大多是个体做不到的。我们需要别人协助。特立独行的人早就从基因池里消失了。因此我们才会这样过度地关注人。我们将90%的精力都用来关注人，只用10%的精力关注情境。不管戏剧多么让我们着迷，舞台上的人绝非孤立的，他们的表演离不开一个个情境。你若真想理解正在表演的戏剧，就请你不要只注重表演者，而是多关注他们的表演或舞蹈。
+1. 错误归因
+1. 光环效应
+1. 替代途径：风险从来不是一眼就能看到的。因此，请你时刻考虑你有什么样的替代途径。比起你通过无惊险的平凡途径获得的成功，别拿通过冒险的替代途径获得的成功太当真。蒙田怎么说来着：“我的生命充满不幸——这些不幸大多没有发生。”
+1. 预测错觉：什么可以预测，什么不可以预测？一件事情越复杂，时间跨度越长，其未来的发展变化就越多。
+1. 关联谬误：大脑的系统1会自动把线索连起来编故事。
+1. 框架效应：同样的内容，换个不同的说法，效果不同。
+1. 行动偏误：为什么不行动光等待是中痛苦？源自远古基因。在一个狩猎采野果的环境中，行动比思考价值大得多。在古时，闪电式反应关乎生死存亡，思考则可能会致命。如果情况不明，不要采取任何行动，直到你能更好地分析形势，你要克制自己。
+1. 不作为偏误：其出现在无论放弃还是行动都会带来损害地地方。在这种情况下大多数人都会选择放弃，因为这样引起地损害主观看来更无害。“如果你不是答案地一部分，就是问题地一部分[1968欧洲学生运动口号]”
+1. 自利偏误：成功归于自己，失败归于外因。
+1. 享乐适应：
       1. 请避免很长时间也不会习惯地负面效应，如交通，噪音，慢性疲劳等。
       1. 对物质的东西只期待短期效果，例如汽车，房屋，分红等。
       1. 持续正面效应主要与你如何利用时间有关。设法让自己得到尽可能多的自由时间和自主权。请你做最爱做的事情——哪怕你要付出部分收入。请为友谊投资。
-- 自我选择偏误：当我们本身时样品的一部分时，我们必须注意，不要掉进一种以自我选择偏误著称的思维错误陷阱中。
-- 联想偏误：影响我们决定的质量。我们倾向于不喜欢送坏消息的人（Shoot the Messenger Syndrome）
-- 新手的运气：如果你长期比其他人成功，你可以认为自己的才华可能起作用，但绝不能过于自信、自满。参与的人越多，出于纯粹运气长期成功的概率越大，也许你就是这个某人。
-- 认知失调(Cognitive Dissonance)：酸狐狸
-- 双曲贴现：一个决定离现在越近，我们的“情感利息”就越多。这是及时享乐对我们的控制，我们过去动物性的残留。动物不愿意为在将来得到更多的奖励而放弃今天的奖励。
+1. 自我选择偏误：当我们本身时样品的一部分时，我们必须注意，不要掉进一种以自我选择偏误著称的思维错误陷阱中。
+1. 联想偏误：影响我们决定的质量。我们倾向于不喜欢送坏消息的人（Shoot the Messenger Syndrome）
+1. 新手的运气：如果你长期比其他人成功，你可以认为自己的才华可能起作用，但绝不能过于自信、自满。参与的人越多，出于纯粹运气长期成功的概率越大，也许你就是这个某人。
+1. 认知失调(Cognitive Dissonance)：酸狐狸
+1. 双曲贴现：一个决定离现在越近，我们的“情感利息”就越多。这是及时享乐对我们的控制，我们过去动物性的残留。动物不愿意为在将来得到更多的奖励而放弃今天的奖励。
 
 > 在群体里容易按照他人的想法生活，在孤独中容易按照自己的想法生活，但值得记住的只是那些在群体中保持独立的人。—— 爱默生
 

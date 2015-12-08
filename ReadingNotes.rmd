@@ -290,6 +290,9 @@ Prana: 呼吸
 > Hui: 占有有可能既是破坏。
 
 - 我们一定是犯下了使我们被诅咒的罪过，因为我们已失去了宇宙的一切诗歌。
+
+> Hui: 这句话看了好难过啊。
+
 - 艺术只有在大混乱中才能产生......因为不幸会使许多事情变得简单。
 - 现代生活全由过度摆布，过度侵入一切：行为和思维，公众和私人生活。由此造成艺术的堕落。任何地方都没有平衡。时光在流逝中，销蚀，摧毁了世俗的东西。因此，在过去中有比现在更多的永恒。
 - 在人所爱和所恨之间是否有同一性？人所恨的东西，当它出现另一种形式时，人们会有必要去爱它吗？反之呢？革命的经久不灭的幻想在于认为由于权利的受害者是无辜遭受着暴力。倘若把权力放在他们手中，他们就会公正地使用它。然而除了接近神圣的人，受害者如同刽子手一样被权利玷污。剑柄上的恶传送到了尖端。如此般登上巅峰的受害者由于变化而陶醉，他们会同样作恶或是更多地作恶，然后又马上跌倒在地。
@@ -357,11 +360,11 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 > Hui: I don't think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people's decision making may fit better here. 
  
-### Babble 1: The root of all your problems is low self-esteem
-### Babble 2: Let your feelings out!
-### Babble 3: Emotional intelligence is what really counts
-### Babble 4: Let your goals power you towards success!
-### Babble 5: No one can make you feel anything
+### Myth 1: The root of all your problems is low self-esteem
+### Myth 2: Let your feelings out!
+### Myth 3: Emotional intelligence is what really counts
+### Myth 4: Let your goals power you towards success!
+### Myth 5: No one can make you feel anything
 
 - The degree to which we are affected and influenced by other people is actually quite terrifying.
 - There is evidence that just the very process of thinking things through can turn down the intensity of our emotional responses......**prefrontal cortex(前额皮质) helps us regulate our emotional reactions**. Keeping a cool head, thinking things through, trying to be objective -- all of these things can genuinely help us to some degree.
@@ -373,27 +376,34 @@ The author pointed out that more of us turn to self-help books for answers to li
 - We should recognise just how vulnerable and open we are to the invisible and unconscious influence of those around us.
 - Our spontaneous internal reactions to the people around us and the things that happen to us are an important part of being fully alive.
 
-### Babble 6: Think positive ans be a winner!
+### Myth 6: Think positive ans be a winner!
 
 - Independent studies have shown that while for non-depressed people positive affirmations do appear to dampen down levels of responsiveness in the amygdala (_effectively the 'fear center' of the brain_), for depressed people the opposite effect is produced: the amygdala becomes more rather than less active while the affirmations are being rehearsed. 
+- Whereas positive mood seems to **promote creativity, flexibility, cooperation and reliance on mental shortcuts**, negative mood trigger more attentive, careful thinking, paying greater attention to the external world [Joseph Forgas, professor of social psychology]
 
-### Babble 7: We need to talk......
-### Babble 8: Whatever your problem, CBT is the answer
-### Babble 9: You can never be too assertive
-### Babble 10: Men and women live on different planets
-### Babble 11: Your inner child needs a hug
-### Babble 12: You can learn to do anything you want
-### Babble 13: You'd better get yourself sorted
-### Babble 14: You are stronger than you know
-### Babble 15: You are a master of the universe!
-### Babble 16: There is no failure, only feedback
-### Babble 17: It's all your parents' fault
-### Babble 18: You can heal your body
-### Babble 19: You are in control of your life
-### Babble 20: Married bliss: a matter of give and take
-### Babble 21: Discover the real you!
-### Babble 22: Make every second count
-### Babble 23: We must all strive to be happy
+> Hui: There is a reason for everything's existence. We need both sides and the key is to keep balance as in a million other situations.
+
+- Depressed people are also better at sequential decision-making. they accept options less readily which led to longer search and better choices. Depression, by fostering greater persistence many improve performance in certain task.
+
+> Hui: I doubt it. 1) how to define better choice? 2) does longer search lead to better choice or increase the likelihood of making better choice? I think the ability of making choice is developed overtime. 3) persistence is personality which is relative stable across time and situation. I can’t imagine depressed people are more persistent or being depressed will make you hold on longer. How they collected the data and do analysis? How they choose samples? Are those samples representative?
+
+### Myth 7: We need to talk......
+### Myth 8: Whatever your problem, CBT is the answer
+### Myth 9: You can never be too assertive
+### Myth 10: Men and women live on different planets
+### Myth 11: Your inner child needs a hug
+### Myth 12: You can learn to do anything you want
+### Myth 13: You'd better get yourself sorted
+### Myth 14: You are stronger than you know
+### Myth 15: You are a master of the universe!
+### Myth 16: There is no failure, only feedback
+### Myth 17: It's all your parents' fault
+### Myth 18: You can heal your body
+### Myth 19: You are in control of your life
+### Myth 20: Married bliss: a matter of give and take
+### Myth 21: Discover the real you!
+### Myth 22: Make every second count
+### Myth 23: We must all strive to be happy
 ## The Optimism Bias [Tali Sharot]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
@@ -516,8 +526,26 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 > Hui: 上层能够获取-----> (信息，资源，人脉)------>通过资本运作致富
 
 - 专注于提升自己的生活而不是去过量入为出的日子。
+- 赢家法则 （Hui: 看到这样的标题感觉是传销，之前都说了成功不可复制不是么？怎么又来这么多法则？）
+     - **在改变规则前遵循规则，重要的是前者**
+     - 不要重复任何一件事情，即使是必要的（Hui: 太武断了）
+     - **主动收集信息，尽可能去的一手资料，而非经由他人** （Hui: 有时间精力是该尽量要一手资料的）
+     - **简练，直接，命中要害**
+     - 结盟而非敌对
+     - 看到问题是开始，解决问题是目的
+     - 善于谈判，和每个人保持互相理解的心态
+     - **如果一开始就看到的方案，自动跨越所有步骤**
 
+- 弱者（没有精气神，不敢竞争，羞于展示才华）  
+强者（耐心，恒心，勇气）
+- 人们进行判断的原则常带有浓厚主观色彩
 
+### Ch2 苹果的滋味
+- 任何行为和思维，通过不断重复都会得到加强，并最终成为本能。
+- 每件事情都有联系，把它们联系起来，就成了一张符合逻辑的大网
+- 打造一个让人深度信任的平台环境，对方深信在你这儿他可以赢（Hui: 如何做？）
+     
+      
 
 
 # Society and Culture  

@@ -315,6 +315,26 @@ Voltaire 伏尔泰
 - 在人所爱和所恨之间是否有同一性？人所恨的东西，当它出现另一种形式时，人们会有必要去爱它吗？反之呢？革命的经久不灭的幻想在于认为由于权利的受害者是无辜遭受着暴力。倘若把权力放在他们手中，他们就会公正地使用它。然而除了接近神圣的人，受害者如同刽子手一样被权利玷污。剑柄上的恶传送到了尖端。如此般登上巅峰的受害者由于变化而陶醉，他们会同样作恶或是更多地作恶，然后又马上跌倒在地。
 - 劳动使人疲乏不堪地感受到了像球一样踢回来的合目的性现象。
 
+## Tolerence [宽容，Van Loon]
+### The Tyranny of Ignorance [无知的暴君]
+
+- It follows that a society in which everything happens as the result of the direct personal interference on the part of an invisible being must depend for its continuted existence upon a strict obedience of such laws as seem to appease the wrath of the Gods.  
+The word **taboo** is of Australian origin.
+[在一个社会中，如果任何事情都被认为是由看不见的生灵操纵的，那么社会要维持下去，就必须绝对服从能平息神灵怒火的律法。]
+
+> Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don't want to worry about the necessity of laws.
+
+- Whether the taboo was an _**invention of the priests**_ or _**the priesthood was created to maintain the taboo**_ is a problem which had not yet been solved. As tradition is much older than religion, it seems more than likely that taboos existed long before the world had heard of sorcerers and witchdoctors. [究竟是祭司发明了禁忌，还是为了维护禁忌才产生了祭司，这是尚待解决的问题。由于传统比宗教更为源远流长，因此很可能早在男巫师和女巫婆问世之前禁忌就存在了。]
+
+> Hui: According to the author, does he mean that **the priesthood was created to maintain the taboo**?
+
+What we sometimes mistake for tolerance was merely indifference caused by ignorance. The struggle for tolerance did not begin until after the discovery of the individual. And the credit for this, the greatest of all modern revelations, belongs to the Greeks. [我们有时看到的宽容，实际上是由于无知导致的漠不关心。为宽容的斗争直到个性被发现后才开始，在现代最伟大的新发现中，个性发现这一荣誉应归功于希腊人。]
+
+### The Greeks [希腊人]
+
+According to the best knowledge of modern scientists, life (animate existence as differentiated from inanimate existence) began when for once all physical and chemical elements were present in the ideal proportion necessary for the creation of the first living cell. Translate this into terms of history and you get this: _“A sudden and apparently spontaneous outbreak of a very high form of civilization is only possible when all the racial, climatic, economic and political conditions are present in an ideal proportion or in as nearly an ideal condition and proportion as they can be in this imperfect world."_
+
+[根据现代科学家的研究成果：当所有物理和化学的成分都达到形成第一个细胞的理想比例时，生命便开始了。把上面的话应用到历史学的概念，就是：“只有当所有种族、气候、经济和政治条件在不健全的世界中都达到或接近一种理想比例时，高级形式的文明才会突然地貌似自发地脱颖而出。”]
 
 # Psychology
 
@@ -911,8 +931,17 @@ The author discussed the cause and effects of division of labour.
 
 - 作者列举了诸如律师、医生、教授和会计这些普遍被认为是专家的职业。对于法律这门职业作者提到：“从某种意义而言,法律是一个非常可怕的领域,它有可能仅仅依靠不同的解释而改变我们的人生。”对于会计（安然事件），医生（等候三个小时,看三分钟病），作者最后指出，单是国家认定的一张资格证并不能定义专家，“资格只不过是一张纸片而已,如果不成为 真正的专家,便如“脚底的米粒”,捡起来也不能吃。”。那么什么是专家呢？
 
+## Love cultivation [好好修养爱，素黑]
 
-# Biography                 
+- 先懂得为自己寻找一条路，安放好自己，追求在恋爱以外其它有意义的事情，你的心才能强壮起来，才能处理万变，才有条件和本钱去恋爱。分散恋爱的精力，才能看穿自己和爱人之间的问题。
+- 谨记别强求，两个人的离合有太多无法解释或被清楚理解的原因，有种智慧需要学习，就是随缘也是爱的方式。
+- 自爱应该是无条件的，正如父母应该无条件的爱孩子一样，这是天职。爱自己的人面上散发的光芒是骗不了别人的，你会活在平静，淡定，喜悦种，绝少埋怨，鲜有不满，没有太多话需要澄清，内心是一片宁静而有力量的海。
+- 自爱的人不乞求被爱，反而会乐于把自己丰富的爱向别人分享，因此，自爱的人会平易近人，让人喜欢亲近，因为你的爱带着很强的感染力，等待被爱的人是焦虑的，自爱爱人的人是平和的。能爱便能被爱。  
+爱是自然的发生，强求不来。
+- 想获得爱情，感受活在安全感里，必须先热爱生命，这是每一个人一生必须学习和经历的成长过程。学习承受得失成败，才能变得成熟，懂得自处，然后懂得和别人相处，孕育爱。  
+最好的伴侣不是别人，而是自己的内心。不能享受孤独便不能接受生命，无法好好爱自己。
+
+# Biography    
 # Beauty&Health             
 # Gender                    
 # IT                        
@@ -921,7 +950,13 @@ The author discussed the cause and effects of division of labour.
 # Biology      
 ## The Selfish Gene
 ## Sperm Wars
-## What is life (生命是什么)
+## What is life [生命是什么]
+### Ch1: 经典物理学家走进这个主题
+
+- 如果给一杯水中的所有分子都做上记号，再把这杯水倒进海洋，经过彻底搅拌后使得这杯水均匀地分布在世界七大洋中；如果你从海洋中的随意一处舀出一杯水来，将会发现这杯水中大约有100个有记号的分子。  
+原子用“埃”度量，1米的百亿分之一，$10^{-10}$
+
+- 有机体的活动需要精确的物理学定义
 
 # Data Science
 
@@ -1075,6 +1110,6 @@ The author discussed the cause and effects of division of labour.
       2.空间尺度——多观世界。
       3.观念尺度——聆听高人。
 认知没有正误之别。但确实有高下之分。因为所在尺度层次有异。
-
+- **[机会成本]** 我做的事情价值多少，是由我放弃的事情反映出来的，而我放弃的事情，也是由我做的事情的价值反映的。同样的资源你怎么分，同样的抉择你怎么选，将一个人的层次或者说特质表露无疑。在你实际行动的诠释下，一切的言语都是很苍白无力的： _你做了什么，你就是什么，值什么_。
 
 

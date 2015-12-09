@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Dec 8, 2015"
+date: "Last Update: Wednesday, Dec 9, 2015"
 output: 
  html_document:
   theme: united
@@ -973,7 +973,8 @@ The author discussed the cause and effects of division of labour.
       - 我的谈判目标是什么？
       - 他们是谁？
       - 要想说服他们，需要采用哪些策略和技巧？
-
+1. 你的态度，可信度和透明度
+      - 做真实的自己
 ## Professionalism [专业主义]
 ### What is professionalism? 什么是专业主义
 - The Oath of Hippocrates

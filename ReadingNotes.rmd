@@ -397,6 +397,8 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 > Hui: I don't think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people's decision making may fit better here. 
  
+> Hui: I agree that the world is complicated. But what can we do?
+
 ### Myth 1: The root of all your problems is low self-esteem
 ### Myth 2: Let your feelings out!
 ### Myth 3: Emotional intelligence is what really counts
@@ -581,8 +583,6 @@ Assael anchored his pearls to the finest gems in the world and the prices follow
 - 任何行为和思维，通过不断重复都会得到加强，并最终成为本能。
 - 每件事情都有联系，把它们联系起来，就成了一张符合逻辑的大网
 - 打造一个让人深度信任的平台环境，对方深信在你这儿他可以赢（Hui: 如何做？）
-     
-      
 
 
 # Society and Culture  
@@ -941,6 +941,38 @@ The author discussed the cause and effects of division of labour.
 # Statistics                
 
 # Self-development 
+
+## Getting More [谈判，Stuart Diamond]
+### Preface
+1. 本书独特之处
+      - 目标至上
+      - 情感投资
+      - 谈判形势判断
+      - 循序渐进
+      - 交换评价不同的东西：对方在意什么？
+      - 对方谈判准则
+      - 积极，诚心，避免操纵谈判
+      - 找出问题的结症并将其转化成机会
+      - 接受双方差异
+      - 准备清单
+1. 无形的谈判技巧
+     - 同仇敌忾可以顺利建立人际关系（找到共同点：都喜欢夏天，喜欢看书等等）
+     - 关注他人的想法，需求
+1. 本书反对使用的技巧：赤裸裸应用权力
+1. 谈判新定义
+     - 迫使对方按照你的意愿行事
+     - 让对方按照你的思路思考
+     - 让对方理解你想让他们理解的挂念
+     - 让对方感受到你想让他们感受的：出现压力风险时，人容易感情用事。当对方意识到你在意他们感受时，他们会更愿意倾听，更容易被说服。
+1. 谈判目标：确定自己的谈判目标时什么，在谈判一开始就要对此做到心中有数，而且还要在谈判过程中不断提醒自己：“什么是我想在这次会议结束时想要得到而现在尚未得到的东西？”
+      - 谈判目标越具体越好
+      - 帮助所有相关的人实现他们的目标
+      - 目标写下来随时查看
+1. 步子迈小些：贪婪会让对方厌恶你，不信任你，从而使你得到的更少。本书的主题是强调“争取更多”不是“获得一切”。
+1. 一切谈判与情境密切相关
+      - 我的谈判目标是什么？
+      - 他们是谁？
+      - 要想说服他们，需要采用哪些策略和技巧？
 
 ## Professionalism [专业主义]
 ### What is professionalism? 什么是专业主义

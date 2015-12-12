@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Dec 10, 2015"
+date: "Last Update: Friday, Dec 11, 2015"
 output: 
  html_document:
   theme: united
@@ -517,6 +517,9 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 
 ## Thinking Fast and Slow [Daniel Kahneman]
+
+这是Dan Kahneman关于他对判断和决策研究结果的书。
+
 ## Predictable Irrational
 
 - Goal: what makes you and people around you tick?
@@ -601,6 +604,13 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 ### Summary
 1. 我们的知觉和决策环境是通过眼、耳、味觉和触觉, 还有主宰一切思想的大脑,经过过滤才形成的。等到我们对信息作了理解和消化,它已经不 一定是现实的真实反映了。相反,它只是我们对现实的诠释,而它就是我们形成决策的基础。 从本质上来说,我们被自然赋予的工具所限制,我们决策的方式又受限于这些工具的质量与 精确程度。
 1. 尽管非理性司空见惯,但并不是说我们都不可救药了。一旦我们明 白了自己的错误决定会发生在什么时间,起源自什么地方,就可以提高警惕,强制自己从不 同角度、用不同方式重新考虑这些决定,或者用科技手段来克服与生俱来的缺点。企业决策 者们也可以在这些方面改变他们的思维方式,考虑怎样制定政策,设计产品,创造免费午餐。
+ 
+## Quirkology [怪诞心理学，Richard Wiseman]
+
+本书是关于日常生活中稀奇古怪的事情的研究，揭示了不同层面的秘密心理，包括欺骗、决策、自私和迷信等。
+
+### Ch1 时间心理学
+
 
 ## Mind Control 
 ### Ch 1 赢家不会告诉你的
@@ -1272,4 +1282,5 @@ The author discussed the cause and effects of division of labour.
 - 期末考啦，老娘不给你露一手，你还以为你教的好呢！
 - 毕业不分手，异地绿成狗
 - 千万不要以为你高中单身是因为学校禁止早恋......
+- 婚姻就像围城，城里外的人想进去，城里的人玩的好开心。
 

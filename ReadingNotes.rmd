@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Dec 11, 2015"
+date: "Last Update: Wednesday, Dec 16, 2015"
 output: 
  html_document:
   theme: united
@@ -520,6 +520,11 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 这是Dan Kahneman关于他对判断和决策研究结果的书。
 
+### Ch1: 一张愤怒的脸和一道乘法题
+
+系统1: 毫不费力的直觉性思考，如识别一张愤怒的脸
+系统2: 需要自我控制，如做乘法题目（自我控制的典型实验是延迟性满足）
+
 ## Predictable Irrational
 
 - Goal: what makes you and people around you tick?
@@ -551,7 +556,7 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 
 ### The cost of free
    - 免费使人拿一大堆不要的东西？为什么？多数交易都有有利的一面和不利的一面,但免费使我们忘记了不 利的一面。免费给我们造成一种情绪冲动,让我们误认为免费物品大大高于它的真正价值。为什么?我认为是由于人类本能地惧怕损失。免费的真正诱惑力是与这种惧怕心理联系在一 起的。我们选择某一免费的物品不会有显而易见的损失。但是假如我们选择的物品是不免费 的,那就有会有风险,可能做出错误决定,可能蒙受损失。于是,如果让我们选择,我们就尽量朝免费的方向去找。
-  - 我们同时生 活在两个不同的世界里——其中一个世界由社会规范主导,另一个则由市场规范来制定法则。
+  - 我们同时生活在两个不同的世界里——其中一个世界由社会规范主导,另一个则由市场规范来制定法则。
   - 日托所罚金案例： 一旦社会规范与市场规范发生碰撞,社会规范就会退出。换言之,社会规范很难重建。一旦这朵盛开的玫瑰从枝头落下——一旦社会规范被市 场规范打败——它很难发挥任何效力。
   - 强调雇佣关系中社会性的一面所能营造出的亲善氛围。社会规范(例如共同创业的兴奋)强于市场规范(例如薪金随晋升而增加)时,员工能为公司(特 别是那些刚起步的公司)创造的价值的确令人瞩目。如果企业开始从社会规范角度思考,实际上,它们会认识到社会规范可以建立忠诚,更重要的是,它使人们自我发展,达到如今企业的要求:实行弹性工作制,关心公司,并且积 极参与公司事务。这正是社会性关系带来的。......多一些社会规范,少一些市场规范,我们的生活会变得更惬意,更有创造力,更充实,而且更有乐趣。
   
@@ -1195,6 +1200,16 @@ The author discussed the cause and effects of division of labour.
 **Foodways**: The Ioway made use of Iowa’s prairies, rivers and wooded valleys to find food. They hunted and fished for meat. They gathered wild plants. The Ioway farmed along the rivers. Many foods were eaten fresh, while others were dried and stored for the rest of the year. The Ioway ate fresh food in season. They ate some foods raw, but also cooked many foods at ta fire pit. Each family prepared their own daily meals. Iowa women preserved food by drying it. They cut fresh meat into thin slices and hung it to dry in the sun. Ears of corn were hung from poles or speed on platforms to dry on the vine and then shell them. Squash were sliced into thin rings and hung on frames to dry. The Ioway used dried foods to make stews, the main dish in their diet. Dried meat was also pulverized and mixed with berries and animal fat to make pemmican. Dried corn could be ground into flour for breads and thickeners.
 
 **Storing Food**: The Ioway stored dried foods in cache pits, bell-shaped holes dug into the ground. The cache pit could be up to five feet deep. Women first lined the pit with bark or grass to keep put moisture and pests. The Ioway then added ears of corn along the outside, filling the center with ben and then squash. The opening was covered by layers of animal hide, grass, planks and ashes.
+
+## Knowledge Graph [知识图谱]
+
+- 知识图谱就是把不同种类的信息(Heterogeneous Information) 
+- 连接在一起而得到的一个关系网络。知识图谱提供了从“关系”的角度去分析问题的能力。
+- 知识图谱是基于图的数据结构，它的储存方式有两种形式：RDF存储格式和图数据库(Graph Database)。
+
+> Hui: 如何将网络上的非结构化数据，利用机器学习、自然语言处理技术变成结构化数据？
+
+- 所谓的生态闭环，指的是构建有效的自反馈系统使其能够实时地反馈给我们的模型，并使得模型不断地自我优化从而提升准确率。
 
 ## Other Notes
 

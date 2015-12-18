@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Wednesday, Dec 16, 2015"
+date: "Last Update: Thursday, Dec 17, 2015"
 output: 
  html_document:
   theme: united
@@ -517,6 +517,8 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 
 ## Thinking Fast and Slow [Daniel Kahneman]
+
+belladona: 一种使人瞳孔变大的物质
 
 这是Dan Kahneman关于他对判断和决策研究结果的书。
 

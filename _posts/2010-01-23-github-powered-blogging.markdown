@@ -11,6 +11,7 @@ Some have been staying ever since. I thank all who have come to me and taught me
 
 I used wordpress before and moved to Github since the previous server was hacked. 
 Most of the old records were lost which is not a bad thing. This website layout is a fork of 
-[Sreejith Kesavan](http://foobarnbaz.com/) with some minor modifications. I really like this clean and simple style. Thanks a lot Sreejith Kesavan!
+[Sreejith Kesavan](http://foobarnbaz.com/) with some minor modifications. I really like the clean and simple style. 
+Thanks a lot Sreejith Kesavan!
 
 Hui

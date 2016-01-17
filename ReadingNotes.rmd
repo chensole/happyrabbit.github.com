@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Jan 14, 2015"
+date: "Last Update: Saturday, Jan 16, 2015"
 output: 
  html_document:
   theme: united
@@ -332,9 +332,13 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 ### The Greeks [希腊人]
 
-According to the best knowledge of modern scientists, life (animate existence as differentiated from inanimate existence) began when for once all physical and chemical elements were present in the ideal proportion necessary for the creation of the first living cell. Translate this into terms of history and you get this: _“A sudden and apparently spontaneous outbreak of a very high form of civilization is only possible when all the racial, climatic, economic and political conditions are present in an ideal proportion or in as nearly an ideal condition and proportion as they can be in this imperfect world."_
+－ According to the best knowledge of modern scientists, life (animate existence as differentiated from inanimate existence) began when for once all physical and chemical elements were present in the ideal proportion necessary for the creation of the first living cell. Translate this into terms of history and you get this: _“A sudden and apparently spontaneous outbreak of a very high form of civilization is only possible when all the racial, climatic, economic and political conditions are present in an ideal proportion or in as nearly an ideal condition and proportion as they can be in this imperfect world."_
 
 [根据现代科学家的研究成果：当所有物理和化学的成分都达到形成第一个细胞的理想比例时，生命便开始了。把上面的话应用到历史学的概念，就是：“只有当所有种族、气候、经济和政治条件在不健全的世界中都达到或接近一种理想比例时，高级形式的文明才会突然地貌似自发地脱颖而出。”]
+
+－ Those farfamed heros were still the product of an exceedingly primitive form of civilization. They were over-grown children who regarded life as one long, glorified rough-house, full of excitement and wrestling matches and running races and all the many things which we ourselves would dearly love to do if we were not forced to stick to the rountine jobs which provide us with bread and bananas.
+
+[当时那些远近闻名的英雄不过是最初级文明的产物，他们犹如四肢过于发达的孩子，生命在他们眼里只是一场漫长而有关荣的搏斗，充满了刺激、角斗、赛跑，以及所有诸如此类的竞技。]
 
 # Psychology
 
@@ -1257,6 +1261,16 @@ The author discussed the cause and effects of division of labour.
 - 对于富人来说，他们一旦体会到统治的乐趣，就会鄙弃其他一切乐趣，就像一群饿狼，一旦尝到人肉的滋味，就再也不想吃其他食物了。......很难使一个没有野心控制别人的人去服从别人。
 
 - 所有现在盛行的不平等来源于人类能力的发展和思想的进步，并随着这二者的发展而逐渐加深，最终在私有制和法律建立之后，确立为永恒的合法现象。
+
+## The Machiavellian Enterprise [马基雅维利的事业]
+
+- Preface
+     - Machiavelli轻视人们一般指望得到和之后得到的东西。...他说道，崇高的事物，头衔也罢，品质也罢，都是用来装潢门面的。崇高的人要装出样子，自己无匮乏之虞；他们关心的是美的事物而非匮乏和实用之物。Machiavelli似乎觉得，**所有的人，无论高低都会有匮乏之物；人真实状况就是不断欲求和之后解决匮乏的状况。**
+
+- Ch1:君主国的类别极其获得方式
+     - 《君主论》开篇促请年轻人明白，一心觊觎权位就是有德。
+- Ch2:世袭君主国
+     - 非自然的君主引来了革新，废除了自然君主的先人留下的法律和规章。革新也可能由世袭君主引进，只是这些不明显表现为革新罢了。...不能不做的变动就是革新。 
 
 
 

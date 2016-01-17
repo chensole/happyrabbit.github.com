@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Saturday, Jan 16, 2015"
+date: "Last Update: Sunday, Jan 17, 2015"
 output: 
  html_document:
   theme: united
@@ -31,6 +31,7 @@ dat<-read.csv("/Users/happyrabbit/Dropbox/book/ReadingListHui.csv")
 #res[,i]<-res[,i]*cumsum(res[,i])/100
 #}
 #dat$ID<-paste(dat$CATE_CODE,apply(res,1,sum),sep="")
+#summary(dat)
 #setwd("/Users/happyrabbit/Dropbox/book/")
 #write.csv(dat,"ReadingListHui.csv",row.names=F)
 ```
@@ -47,9 +48,17 @@ datatable(subset(dat,select=c("Name","ID","Category","Author","Progress","Priori
 - **Progress**: My reading progress(from 0% [haven't started] to 100% [finished])
 - **Priority**: My reading priority
 
+## Rules of Generating book ID
+
+1. **Category code** + **Number**
+1. **Number** was origionally assigned as the rank of the book in its category devided by 100 (i.e rank/100)
+1. For new book
+      1. search for the maximum number in that category (`mn`)
+      1. use `mn+0.01` as number for the new book
+      
 ## Basic Statistical Analysis
 
-Here is a plot for counts of books in each category......Obviously, my favorite is "Philosophy and Psychology" and I am not very interested in "Politics"......Statistics (31), Data Science (5) and IT(7) [**SDT** area], all these three added together is about the size of "Business & Economics". I am a little surprised. Some possible insights are (not all of them necessary to be true):
+Here is a plot for counts of books in each category......Obviously, my favorite is "Philosophy and Psychology" .  I have few books on "Politics","Law", "Gender", "Data Science" and "Medicine"......Statistics (31), Data Science (5) and IT(7) [**SDT** area], all these three added together is about the size of "Business & Economics". I am a little surprised. Some possible insights are (not all of them necessary to be true):
  
 1. Professional area/degree don't tell how a person spend time
 1. Scientists read more journal papers and technique reports in corresponding area than books
@@ -57,7 +66,7 @@ Here is a plot for counts of books in each category......Obviously, my favorite 
 1. I didn’t spend enough time in **SDT** 
 1. I need to work harder on **SDT** 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
 dat$Category[dat$Category=="Novels and Plays-detective"]<-"Novels and Plays"
 dat$Category[dat$Category=="Novel"]<-"Novels and Plays"
 booktb<-data.frame(table(as.character(dat$Category)))
@@ -70,7 +79,7 @@ ggplot(booktb, aes(x=reorder(Category,Counts), y=Counts, fill=Category)) +
 
 Here is a plot showing the percentage of books I have started (or finished) across different categories.
 
-```{r, echo=FALSE}
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
 Progress<-rep("Started",nrow(dat))
 idx<-which(dat$Progress=="")
 Progress[idx]<-"Not-Started"

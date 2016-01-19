@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Jan 18, 2015"
+date: "Last Update: Tuesday, Jan 19, 2015"
 output: 
  html_document:
   theme: united
@@ -232,6 +232,8 @@ Voltaire 伏尔泰
 - Our whole colture is based on the appetite for buying, on the idea of mutually favorable exchange...."Attractive" usually means a nice package of qualities which are popular and sought after on the personality market.
 
 ### The theory of love
+
+- The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety...The awareness of human separation, without reunion by love--is the source of shame. It is at the same time the source of guilt and anxiety...Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement...The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man...The answer depends, to some extent, on the degree of individuation which an individual has reached...The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.One way of achieving this aim lies in all kinds of orgiastic states…All forms of orgiastic union have three characteristics: they are intense, even violent; they occur in the total personality, mind and body; they are transitory and periodical.
 
 ## Escape from Freedom [逃避自由, Erich Fromm]
 ### Ch3 现代人的两种自由观念

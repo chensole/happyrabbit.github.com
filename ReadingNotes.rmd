@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Jan 26, 2016"
+date: "Last Update: Wednesday, Jan 27, 2016"
 output: 
  html_document:
   theme: united
@@ -96,6 +96,75 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 ```
 
 # Philosophy
+
+## The art of loving [Erich Fromm]
+### Is love an art?
+
+- Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is matter of chance, something one "falls into" if one is lucky?
+
+> Hui: The author answered this question in the next Chapter "The Theory of love". he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in **freedom** never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can't give. 
+
+- What most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal...Our whole culture is based on the appetite for buying, on the idea of mutually favorable exchange...."Attractive" usually means **a nice package of qualities** which are popular and sought after on the **personality market**.
+
+### The theory of love
+#### Love, the answer to the problem of human existence
+
+- The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety...The awareness of human separation, without reunion by love--is the source of shame. It is at the same time the source of guilt and anxiety...Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement...The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man...The answer depends, to some extent, on the degree of individuation which an individual has reached...The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.
+
+> Hui: "Separateness" is a key concept in Erich Fromm's work. In his book "Escape from freedom", Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:  
+
+1. In all kinds of orgiastic state...orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) **the unity is transitory**.  
+
+1. Based on **conformity** with the group, its customs, practices and beliefs. It is the most frequent solution chosen by man in the past and in the present. It is **pseudo-unity**.   
+
+1. In creative activity (artist, artisan). In any kind of creative work the creating person unites himself with his material, which represents the world outside of himself. It is **not interpersonal**  
+
+> Hui: In the author's view, all the three are only partial answers to the problem of existence. The full answer is the **interpersonal union by love** which is the most powerful striving in man. Failing to achieve means destruction (self or others).
+     
+- The **dictatorial system** use threats and terror to induce this conformity; the **democratic countries**, suggestion and propaganda.There is, indeed, one great difference between the two systems...But actually people want to conform to a much higher degree than they are forced to conform, at least in the Western democracies.
+     
+- **Symbiotic union [共生性结合]**
+     1. Biological pattern: mother and foetus, they need each other
+     1. Psychic symbiotic union: the two bodies are independent, psychological attachment
+     1. Passive form: masochism [ˈma-sə-ˌki-zəm 受虐狂]
+     1. Active form: sadism
+     
+- **Mature love** is union under the condition of _preserving one's integrity, one's individuality_. (contrast to symbiotic union). Two beings become one and yet remain two. 
+
+> Hui: Discussion around "giving":
+
+- Giving is the highest expression of **potency**.
+- It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that **it deprives the poor of the joy of giving**.
+- **Love is a power which produces love; impotence is the inability to produce love.**
+
+> Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive. 
+
+
+## Escape from Freedom [逃避自由, Erich Fromm]
+### Ch3 现代人的两种自由观念
+
+- 如果我们对于工作缺乏高度的热心以及对积极投资以发挥最高生产力的推进毫无野心，则绝无进步的可能。
+- 无资者是受雇于人的，也就是说，他无须顾虑市场问题，无须为营运之好坏担忧，也不必考虑祈求进步的技术问题，这些都是资本家的责任。受雇佣的人，只是默默的遵循。
+- 对于这种一面牺牲自我为整个社会的机器献身，另一方面趋于追求自我利益的矛盾，我们如何去协调呢？我们只有从心理上的基本因素才能寻求解答。
+
+## Maxims [La Rochefoucauld, 1613-1680, French]
+
+- The constancy of the wise is only the talent of concealing the agitation of their hearts.
+- Neither the sun nor death can be looked at without winking.[直视太阳和死亡，不能不眨眼。]
+- If we had no pride we should not complain about that of others.
+- _**We have not enough strength to follow all our reason**_
+- We are never so happy or so unhappy as we suppose.
+- What grace is to the body, good sense is to the mind.[优雅之于身体，犹如良知之于精神。]
+- Our distrust of another justifies his deceit.
+- In the intercourse of life, we please more by our faults than by our good qualities.
+- There are different kinds of curiosity: one springs from interest, which makes us desire to know everything that may be profitable to us; another from pride, which springs from a desire of knowing what others are ignorant of.
+- There are relapses in the diseases of the mind as in those of the body; what we call a cure is often no more than an intermission or change of disease. 
+- We easily forget those faults which are known only to ourselves.
+- **Sovereign ability consists in knowing the value of things.**
+- There is great ability in knowing how to conceal one’s ability.
+- Interest sets at work all sorts of virtues and vices.
+- Humility is often a feigned （\fend\ 假装的）submission which we employ to supplant others. It is one of the devices of pride to lower us to raise us; and truly pride transforms itself in a thousand ways, and is never so well disguised and more able to deceive than when it hides itself under the form of humility. [谦卑往往是一种假装的顺从，人们利用它来排挤掉别人。谦虚还是骄傲的一种诡计，它以退为进，以贬求扬。虽然骄傲形式各异，却没有任何一种能比隐藏在谦卑的形象下更具隐蔽性和欺骗性了。]
+- Good taste arises more from judgment than wit. 
 
 ## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 
@@ -246,56 +315,6 @@ Voltaire 伏尔泰
 ## On the Immortality of the Soul [论灵魂, Marcus Tullius Cicero]
 
 - 荣誉滋养艺术，声名激励每个人去从事它们，**任何东西凡不受人重视，总是处于可怜的状态。**
-## The art of loving [Erich Fromm]
-### Is love an art?
-
-- Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is matter of chance, something one "falls into" if one is lucky?
-
-> Hui: The author answered this question in the next Chapter "The Theory of love". he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in **freedom** never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can't give. 
-
-- What most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal...Our whole culture is based on the appetite for buying, on the idea of mutually favorable exchange...."Attractive" usually means **a nice package of qualities** which are popular and sought after on the **personality market**.
-
-### The theory of love
-#### Love, the answer to the problem of human existence
-
-- The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety...The awareness of human separation, without reunion by love--is the source of shame. It is at the same time the source of guilt and anxiety...Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement...The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man...The answer depends, to some extent, on the degree of individuation which an individual has reached...The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.
-
-> Hui: "Separateness" is a key concept in Erich Fromm's work. In his book "Escape from freedom", Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:  
-
-1. In all kinds of orgiastic state...orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) **the unity is transitory**.  
-
-1. Based on **conformity** with the group, its customs, practices and beliefs. It is the most frequent solution chosen by man in the past and in the present. It is **pseudo-unity**.   
-
-1. In creative activity (artist, artisan). In any kind of creative work the creating person unites himself with his material, which represents the world outside of himself. It is **not interpersonal**  
-
-> Hui: In the author's view, all the three are only partial answers to the problem of existence. The full answer is the **interpersonal union by love** which is the most powerful striving in man. Failing to achieve means destruction (self or others).
-     
-- The **dictatorial system** use threats and terror to induce this conformity; the **democratic countries**, suggestion and propaganda.There is, indeed, one great difference between the two systems...But actually people want to conform to a much higher degree than they are forced to conform, at least in the Western democracies.
-     
-- **Symbiotic union [共生性结合]**
-     1. Biological pattern: mother and foetus, they need each other
-     1. Psychic symbiotic union: the two bodies are independent, psychological attachment
-     1. Passive form: masochism [ˈma-sə-ˌki-zəm 受虐狂]
-     1. Active form: sadism
-     
-- **Mature love** is union under the condition of _preserving one's integrity, one's individuality_. (contrast to symbiotic union). Two beings become one and yet remain two. 
-
-> Hui: Discussion around "giving":
-
-- Giving is the highest expression of **potency**.
-- It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that **it deprives the poor of the joy of giving**.
-- **Love is a power which produces love; impotence is the inability to produce love.**
-
-> Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive. 
-
-
-## Escape from Freedom [逃避自由, Erich Fromm]
-### Ch3 现代人的两种自由观念
-
-- 如果我们对于工作缺乏高度的热心以及对积极投资以发挥最高生产力的推进毫无野心，则绝无进步的可能。
-- 无资者是受雇于人的，也就是说，他无须顾虑市场问题，无须为营运之好坏担忧，也不必考虑祈求进步的技术问题，这些都是资本家的责任。受雇佣的人，只是默默的遵循。
-- 对于这种一面牺牲自我为整个社会的机器献身，另一方面趋于追求自我利益的矛盾，我们如何去协调呢？我们只有从心理上的基本因素才能寻求解答。
-
 
 ## An Insight of Chung-yung [中庸洞见]
 
@@ -473,6 +492,24 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
       - 人格影响人际关系的程度远大于人际关系影响人格的程度。人们是否会结婚，似乎有部分是由基因决定的。某些人生而具有的人格使得他们比其他人更可能晚婚，而且这种倾向不大会受到他们后来经历的影响。
       - **自尊**：对自我的评价。 人际间的拒绝会损害人们的自尊，而其他沮丧事件则不会。
       - 低自尊的人有时低谷伴侣对他们的爱，从而损害亲密关系，还觉知到根本就不存在的伴侣的模式。
+
+## Road Less Travelled [M Scott Peck]
+
+- Discipline  is the basic set of tools we require to solve life’s problems. Without discipline we can solve nothing.
+
+- Franklin:”Those things that hurt, instruct.” It is for this reason that wise people learn not to dread but actually to welcome problems and actually to welcome the pain of problems.
+
+- In the succinctly elegant words of Carl Jung: “Neruosis [精神官能症] is always a substitute for legitimate suffering.”
+
+- The neurosis assumes too much responsibility; the person with a character disorder [人格失调] not enough. 
+
+- Few of us can escape being neurosis or character disordered to at least some degree. The reason for this is that **the problem of distinguishing what we are and what we are not responsible for in this life is one of the greatest problems of human existence.**
+
+- It is for this reason that Erich Fromm so aptly (恰当地) titled his study of Nazism  and authoritarianism “Escape from Freedom”. In attempting to avoid the pain of responsibility, millions and even billions daily attempt to escape from freedom.
+
+- Our view of reality is like a map with which to negotiate the terrain of life. If the map is true and accurate, we will generally know where we are, and if we have decided where we want to go, we will generally  know who to get there. If the map is false and inaccurate, we generally will be lost.
+
+- The more honest one is, the easier it is to continue being honest, just as the more lies one has told, the more necessary it is to lie again. **By their opens, people dedicated to the truth live in the open, and through the exercise of their courage to live in the open, they become free from fear. **[一个人越是诚实，保持诚实就越容易，而谎言说的越多，则越要编造更过的谎言自圆其说。敢于面对事实的人能够心胸坦荡地生活，不必面临良心的折磨和恐惧的威胁。]
 
 ## People of the lie [M Scott Peck]
 

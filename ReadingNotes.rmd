@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Wednesday, Jan 27, 2016"
+date: "Last Update: Thursday, Jan 28, 2016"
 output: 
  html_document:
   theme: united
@@ -945,9 +945,35 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 ### France [法国]
 
 # Novels and Plays 
-## Slowness [慢，Milan Kundera]
 
 > Hui: Milan Kundera is my favorite novelist!
+
+## Immortality [不朽，Milan Kundera]
+
+- 我们身上有一部分东西始终生活在时间之外；也许我们只有在某些特定时刻——大部分是没有年龄的时刻——才会意识到自己的年龄。
+
+- 编制电子计算机的程序并不意味着未来的细节都得详细规划，也并不意味着一切都被写进“上天”这个程序里。譬如说，程序并未规定1815年要发生滑铁卢战役，也没有注定法国人要遭败绩，只是规定了人类的进攻本性。有人就有战争，技术进步将使战争日益残酷。从造物主的观点看，所有其他一切都是无足轻重的，只不过规定了可能性的范围。在这些范围内，它完全然偶然性来七作用。
+> Hui: Kundera would be a good statistician......
+
+- 这些谈话现在只记得一些零星的片段了，就像一些摔碎的盘子的碎片。在他成年以后，她想把这些碎片粘补起来。
+
+- 她的裸露着的白色腿肚，就像一只农村里用的瓦罐，上面装饰着一些凸出的、淡紫色的、像纠缠在一起的小蛇。......这些人不想在人群中显得美丽也就罢了，他们甚至不像掩盖自己的丑态！她心里想：当她有一天丑得使人不能忍受时，她要到花店里去买一株勿忘我。只要一株，细细的茎上一朵小花。她要把这株草举在前面走到街上去，眼睛紧盯着它，除了这点美丽得蓝色以外什么也看不到。
+
+- 仇恨得圈套，就在于它把我们和我们得敌手拴得太紧了，这就是战争得下流之处。...她突然想，我不能恨他们，因为没有任何东西把我和他们连在一起，我们毫无共同之处。
+
+- 自有地生活，愿意怎样就怎样生活，愿意到哪儿去就到哪儿去。而他，他却从来也未曾有过这样得胆量，所以他把所有得资财都给了他的女儿，让她，让她敢于去做她想做得事情。
+
+- 清静就是不被人注视得那种温馨感觉。
+
+- 最近以来，她总是被一个念头纠缠着，她对保罗得爱情仅仅是建立在一种意愿之上，一种爱他的意愿之上，一种需要有一个幸福的家庭的意愿之上。如果这种意愿稍许有所松懈，她这种爱情就会像看到笼子打开了的小鸟一样飞走。
+
+- 人们指望不朽，可是忽视了不朽只有与死亡在一起才有意义。
+
+- 人在做了什么蠢事或者在失意的时候，风度会大受损害。
+
+- 他在20岁时曾庄严地向他的姓名许诺要终生为善而奋斗；可是他很快便认识到要区别善恶是很困难的。
+
+## Slowness [慢，Milan Kundera]
 
 - The source of  fear is in the future, and a person freed of the future has nothing to fear.</li>
 - A person with nothing to do is frustrated, bored, is constantly searching for the activity he lacks.

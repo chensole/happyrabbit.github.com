@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Jan 29, 2016"
+date: "Last Update: Saturday, Jan 30, 2016"
 output: 
  html_document:
   theme: united
@@ -135,6 +135,9 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 - Giving is the highest expression of **potency**.
 - It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that **it deprives the poor of the joy of giving**.
+
+> Hui: It reminds me a sentence from the book “Maxims” which says:"What we call liberality is often but the vanity of giving which we like more than that we give away." The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people's mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason." We are too stupid to be complicated. We are just sinful and making each other’s life tough.
+
 - **Love is a power which produces love; impotence is the inability to produce love.**
 
 > Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive. 
@@ -178,6 +181,23 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 - The desire of talking about ourselves, and of putting our fault in the light we wish them be seem, forms a great part of our sincerity. [谈论自己和把我们愿给别人看的那些缺点亮出来的欲望，构成了我们的真诚的一大部分]
 - A man is often more clever than one other, but not than all others.
 - It appears that nature has hidden at the bottom of our hearts talents and abilities unknown to us. It is only the passions that have the power of bringing them to light, and sometimes give us views more true and more perfect than art could possibly do. [本性是潜藏在我们心灵深处的不为我们所知的各种才智和能力，有能力揭开它面纱的只有激情]
+-  We reach quite inexperienced the different stages of life, and often, in spite of the number of our years, we lack experience. [我们毫无经验地抵达人生的不同时期，而且无论我们在哪个年龄阶段，我们总是缺少那一时期的经验] "To most men experience is like the stern lights of a ship which illumine only the track it has passed———Coleridge"
+
+- The most dangerous folly of old persons who have been lovable is to forget that they are no longer so. 
+
+> Hui: hope it is not that bad……
+
+- In love the quickest is always the best cure. 
+- **Few knows how to be old.**
+- Penetration has a spice of divination in it which tickles our vanity more than any other quality of the mind. [洞察力有一副预言家的神奇，它比精神的其它特性都更能满足我们的虚荣心。]
+- In the old age of love as in life we still survive for the evils, though no longer for the pleasure.
+- **Nothing prevents our being unaffected so much as our desire to seem so.[没有什么比期望看起来不矫揉造作更加矫揉造作的了]**
+- However disposed the world may be to judge wrongly, it far often favors false merit than than does justice to true. [无论这个世界如何规划布置，它仍可能是不公平的，它总是宠爱伪善的德行，而非公正地对待真正的德行]
+- **There are few women whose charm survives their beauty.**
+- It is only people who possess firmness who can possess true gentleness. In those who appear gentle, it is generally only weakness, which is readily converted into harshness.[只有那些拥有坚强力量的人，才能拥有真正的温文尔雅。那些仅仅外表表现为温文尔雅的人，通常不过是软弱而已，并且这种文雅会轻易地转变为粗俗不堪]
+- Usually we are more satirical \sə'tɪrɪkl\ from vanity than malice. [一般来说人们的尖酸刻薄主要来自虚荣心而非心怀恶意]
+- We have more idleness in the mind than in the body.
+- **Quarrels would not last long if the fault was only on one side.**
 
 ## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 

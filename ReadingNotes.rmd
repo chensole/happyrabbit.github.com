@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Jan 28, 2016"
+date: "Last Update: Friday, Jan 29, 2016"
 output: 
  html_document:
   theme: united
@@ -164,7 +164,21 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 - There is great ability in knowing how to conceal one’s ability.
 - Interest sets at work all sorts of virtues and vices.
 - Humility is often a feigned （\fend\ 假装的）submission which we employ to supplant others. It is one of the devices of pride to lower us to raise us; and truly pride transforms itself in a thousand ways, and is never so well disguised and more able to deceive than when it hides itself under the form of humility. [谦卑往往是一种假装的顺从，人们利用它来排挤掉别人。谦虚还是骄傲的一种诡计，它以退为进，以贬求扬。虽然骄傲形式各异，却没有任何一种能比隐藏在谦卑的形象下更具隐蔽性和欺骗性了。]
-- Good taste arises more from judgment than wit. 
+- Good taste arises more from judgment than wit. [良好的品味更多来自判断而非理性]
+- What we call liberality is often but the vanity of giving which we like more than that we give away. [被称之为“慷慨”，往往不过是赠予者的虚荣心，人们对这种虚荣心花费的心思远远超过自己所赠送出去的东西]
+- Absence extinguishes small passions and increases great one as the wind blow out a candle, and blow in a fire.
+- Pride, which inspires, often serves to moderate envy. [骄傲，既激起我们对他人的嫉妒心，也不断地帮助我们缓和它。]
+- **What commonly hinders us from showing the recesses of our heart to our friends is not the distrust we have of them, but that we have of ourself. [能阻止人们向朋友透露自己内心隐私的，通常不是对朋友的不信任，而是对自己的不信任。]**
+- **Weak persons can’t be sincere.**
+- **We pardon in the degree that we love.**
+- To be a great man one should know how to profit by every phase of fortune. 
+- We hardly find any persons of good sense, except those who agree with us.
+- The greatest miracle of love is to eradicate flirtation. [爱情的最大奇迹在于它杜绝了调情]
+- Ordinary men commonly condemn what is beyond them. 
+- The desire of talking about ourselves, and of putting our fault in the light we wish them be seem, forms a great part of our sincerity. [谈论自己和把我们愿给别人看的那些缺点亮出来的欲望，构成了我们的真诚的一大部分]
+- A man is often more clever than one other, but not than all others.
+- It appears that nature has hidden at the bottom of our hearts talents and abilities unknown to us. It is only the passions that have the power of bringing them to light, and sometimes give us views more true and more perfect than art could possibly do. [本性是潜藏在我们心灵深处的不为我们所知的各种才智和能力，有能力揭开它面纱的只有激情]
+
 
 ## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 

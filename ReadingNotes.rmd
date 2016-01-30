@@ -179,7 +179,6 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 - A man is often more clever than one other, but not than all others.
 - It appears that nature has hidden at the bottom of our hearts talents and abilities unknown to us. It is only the passions that have the power of bringing them to light, and sometimes give us views more true and more perfect than art could possibly do. [本性是潜藏在我们心灵深处的不为我们所知的各种才智和能力，有能力揭开它面纱的只有激情]
 
-
 ## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 
 > Hui: 这本书让你严肃系统的思考死亡，从藏传佛教的角度讲述生死。这本书意在写给西方人看的，结合了中西方思想，时而引入基督教的例子，相对其它佛教书籍更加通俗易懂。书的核心观点是我们从出生的那一刻开始就在准备死亡，好好活着是为了最终能够好好死去。书中指出一切都是无常，看穿我执的虚妄，理解无常，回归本性。虽然对许多地方有疑问，但还是非常推荐这本书。看过之后或许能向不畏死，亦能好好活跨进一步。

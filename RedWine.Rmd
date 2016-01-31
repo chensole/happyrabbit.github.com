@@ -1,0 +1,45 @@
+---
+title: "Red Wind"
+author: "Hui Lin"
+date: "Last Update: Sunday, Jan 31, 2016"
+output: 
+ html_document:
+  theme: united
+  highlight: tango
+  toc: true
+  toc_depth: 5
+  number_sections: true
+---
+
+# France
+## Rhone
+### Le Prince de Courthezon Cotes du Rhone 2013
+
+![](http://linhui.org/images/Wine/LePrinceDeCourthezonCotesDuRhone2013.jpeg)
+
+- Made by Thierry Ferlay in a village cellar specializing in Châteauneuf-du-Pape as well as Côtes-du-Rhône.
+     
+     > Châteauneuf-du-Pape is a French wine Appellation d'origine contrôlée (AOC) located around the village of Châteauneuf-du-Pape in the Rhône wine region in southeastern France. It is one of the most renowned appellations of the southern part of the Rhône Valley. [沙托纳迪帕普（法语：Châteauneuf-du-Pape）是法国普罗旺斯-阿尔卑斯-蓝色海岸大区 沃克吕兹省的一个市镇，属于阿维尼翁区 奥朗热西县。该市镇2009年时的人口 为2130人。 法语"Châteauneuf-du-Pape"意思实为“教皇新堡”，故而亦有此译名。]
+     
+- The same mix of grapes – juicy, ripe **Grenache** backed up by spicy Syrah and full-bodied Mourvédre. It’s a formula that gives his Côtes-du-Rhône waves of rich, yet elegant character.
+
+Type: Red
+Style/Body: Red - Medium Bodied
+Country: France
+Region: Rhône
+Alcohol: 14.0 %
+Grape: Grenache
+Year: 2013
+Appellation: Cotes du Rhone AOC
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

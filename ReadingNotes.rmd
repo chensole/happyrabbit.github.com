@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Saturday, Jan 30, 2016"
+date: "Last Update: Sunday, Jan 31, 2016"
 output: 
  html_document:
   theme: united
@@ -555,6 +555,22 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 - One measure—and perhaps the best measure—of a person’s greatness is the capacity for suffering. Yet the great are also joyful. This then is the paradox. [一个人是否杰出和伟大，视其承受痛苦的能力决定，而杰出伟大本身，则会给人带来快乐和幸福－－－表面是悖论，其实不然。]
 
 - A final word on this discipline of balancing and its essence of giving up: you must have something in order to give it up.
+
+- It is the difference between the peak experience, typified by falling in love, and what Abraham Maslow has referred to as the “plateau /ˈplætəʊ/ experience”. The heights are not suddenly glimpsed and lost again; they are attained forever.
+
+- **Seneca** said two millennia ago “Throughout the whole of life one must continue to learn to live and what will amaze you even more, throughout life one must learn to die.”
+
+- The child’s speech patterns are uneven—occasional rushes of words interspersed with pauses and repetitions—which makes concentration difficult.
+
+- Courage is not the absence of fear; it is the making of action in spite of fear, the moving out against the resistance engendered by fear into the unknown and into the future. 
+
+- The highest forms of love are inevitably totally free choices and not acts of conformity. [放弃真正的自我，我们就无法进入爱的至高境界。至高境界的爱，必然是自由状态下的自主选择，而不是墨守成规，被动而消极地抗拒心灵的状态]
+
+- Problems of commitment are a major, inherent part of most psychiatric disorders and issues of commitment are crucial in the course of psychotherapy. Character-disordered individuals tend to form only shallow commitments, and when their disorders are severe /səˈvɪr/ these individuals seems to lack totally the capacity to form commitments at all. 
+
+- The fact that a feeling is uncontrolled is no indication whatsoever that it is any deeper than a feeling that is disciplined. To the contrary, psychiatrists know well the truth of the old proverb:”Shallow brooks  are noisy and still waters run deep.” We must not assume that someone whose feelings are modulated and controlled is not a passionate person. [恣意放纵，漫无节制的情感，绝不会自制的情感更为深刻。俗语说：“静水流深”。真正掌握和控制情感的人，不仅不缺少激情和活力，而且能使情感更为深刻和成熟。] 
+
+
 
 ## People of the lie [M Scott Peck]
 
@@ -1285,6 +1301,9 @@ The author discussed the cause and effects of division of labour.
 # Statistics                
 
 # Self-development 
+## Red Wine
+ 
+See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 
 ## Getting More [谈判，Stuart Diamond]
 ### Preface

@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Jan 31, 2016"
+date: "Last Update: Monday, Feb 1, 2016"
 output: 
  html_document:
   theme: united
@@ -477,6 +477,8 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 [当时那些远近闻名的英雄不过是最初级文明的产物，他们犹如四肢过于发达的孩子，生命在他们眼里只是一场漫长而有关荣的搏斗，充满了刺激、角斗、赛跑，以及所有诸如此类的竞技。]
 
+## Why does the world exist? [世界为何存在]
+
 # Psychology
 
 ## The Theory of Moral Sentiments [Adam Smith]
@@ -570,7 +572,18 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 - The fact that a feeling is uncontrolled is no indication whatsoever that it is any deeper than a feeling that is disciplined. To the contrary, psychiatrists know well the truth of the old proverb:”Shallow brooks  are noisy and still waters run deep.” We must not assume that someone whose feelings are modulated and controlled is not a passionate person. [恣意放纵，漫无节制的情感，绝不会自制的情感更为深刻。俗语说：“静水流深”。真正掌握和控制情感的人，不仅不缺少激情和活力，而且能使情感更为深刻和成熟。] 
 
+- While one should not be a slave to one’s feelings, self-discipline does not mean the squashing of one’s feelings into non-existence. I frequently tell my patients that their feelings are their salves and that the art of self-discipline is like the art of slave-owning.
 
+- One set of such questions derives rather logically from the material thus far discussed. It has been made clear, for instance, that self-discipline develops from the foundation of love. But this leaves unanswered question of where love itself comes from. And if we ask that, we must also ask what are the sources of the absence of love. It has been further suggested that **the absence of love is the major cause of mental illness** and that the absence of love is consequently the essential healing element in psychotherapy. This being so, who is it that certain individuals, born and raised in an environment of non love, of unremitting neglect and casual brutality, somehow manage to transcend their childhood, sometimes even without the loving assistance of psychotherapy, and become mature, healthy and perhaps even saintly people? Conversely, how is it that some patients, apparently no more ill than others, fail partially or totally to respond to psychotherapeutic treatment by even the most wise and loving therapist? 
+
+- I believe that an understanding of the phenomenon of grace is essential to complete understanding of the process of growth in human being. 
+
+- 随着爱河人生经验的增长，我们会越来越了解周围的世界，以及自己在世界中的位置。由于天赋以及成长环境的不同，每个人认识的广度和深度常常有着天壤之别。  
+我们对于人生都有各自的认识，有着或广阔或狭隘的人生观和世界观，可以说，人人都有自己的信仰，对人生的认识和了解就属于信仰的范畴…两个完全不同的人，为什么都以基督徒自居？为什么和某些经常做弥撒的天主教徒相比，某些无神论者更能遵守宗教的道德规范？
+
+- 我们通常很容易接纳周围人的信仰，把口耳相传的东西视为真理
+
+- 许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。
 
 ## People of the lie [M Scott Peck]
 
@@ -1158,7 +1171,7 @@ She kept a distance to world around. There were two things kept the distance not
 - 她停下来，踌躇不定，转回头，猜想着在这雪帘子后有开阔的大街，有一排排望不到头的煤气路灯。还有沉睡的巴黎无限的黑暗与荒凉。
 
 # History 
-##  American History: 总统是靠不住的
+##  US History: 总统是靠不住的
 
 - P30 回顾殖民时期的北美历史，几乎是一部充满了各种理想实验又同时充满了妥协、退让、放弃和变通的历史。
 - P33 **1912**年才算是真正统一了国旗；   
@@ -1169,6 +1182,12 @@ She kept a distance to world around. There were two things kept the distance not
 - P51 **1789**: 宪法正式被宣布为美国的基本大法
 - P54 **1951**: 宪法第22条修正案中，规定了一个人在总统的职位上只能任职两次。
 
+## CN History [春秋大义]
+## The Rational Optimist [理性乐观派]
+## War Made New [战争改变历史]
+## Egypt History: 木乃伊——法老时代的生与死
+## The Rise and Fall of the Third Reich
+## A Brief History of Religion [宗教简史]
 
 # Business & Economics 
 ## The Wealth of Nations [Adam Smith]

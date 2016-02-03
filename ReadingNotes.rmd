@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Feb 1, 2016"
+date: "Last Update: Tuesday, Feb 2, 2016"
 output: 
  html_document:
   theme: united
@@ -578,12 +578,20 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 - I believe that an understanding of the phenomenon of grace is essential to complete understanding of the process of growth in human being. 
 
-- 随着爱河人生经验的增长，我们会越来越了解周围的世界，以及自己在世界中的位置。由于天赋以及成长环境的不同，每个人认识的广度和深度常常有着天壤之别。  
-我们对于人生都有各自的认识，有着或广阔或狭隘的人生观和世界观，可以说，人人都有自己的信仰，对人生的认识和了解就属于信仰的范畴…两个完全不同的人，为什么都以基督徒自居？为什么和某些经常做弥撒的天主教徒相比，某些无神论者更能遵守宗教的道德规范？
+- As human beings grow in discipline and love and life experience, their understanding of the world and their place in it naturally grows apace. Conversely, as people fail to grow in discipline, love and life experience, so does their understanding fail to grow. Consequently, **among the members of the human race there exists an extraordinary variability in the breadth and sophistication of our understanding of what life is all about.  This understanding is our religion.** Since everyone has some understanding—some world view, no matter how limited or primitive or inaccurate— everyone has a religion. This face, not widely recognized, is of the utmost importance: **everyone has a religion**.  
+We suffer from a tendency to define religion too narrowly. We tend to think that religion must include a belief in God or some ritualistic practice or membership in worshiping group……We are puzzled as to how two very different people can both call themselves Christians. or Jews, or how an atheist might have a more highly developed sense of Christian morality than a Catholic who routinely attends mass. [随着爱和人生经验的增长，我们会越来越了解周围的世界，以及自己在世界中的位置。由于天赋以及成长环境的不同，每个人认识的广度和深度常常有着天壤之别。  
+我们对于人生都有各自的认识，有着或广阔或狭隘的人生观和世界观，可以说，人人都有自己的信仰，对人生的认识和了解就属于信仰的范畴…两个完全不同的人，为什么都以基督徒自居？为什么和某些经常做弥撒的天主教徒相比，某些无神论者更能遵守宗教的道德规范？]
 
-- 我们通常很容易接纳周围人的信仰，把口耳相传的东西视为真理
+- We tend to believe what the people around us believe, and we tend to accept as truth what these people tell us of the nature of  the world as we listen to them during our formative year.[我们通常很容易接纳周围人的信仰，把口耳相传的东西视为真理]
 
-- 许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。
+- To some extent the religion of most adults is a product of transference [移情].Most of us operate from a narrower frame of reference than that of which we are capable, failing to transcend the influence of our particular culture, our particular set of parents and our particular childhood experience upon our understanding. **It is no wonder that the world of humanity is so full of conflict. We have a situation in which human being, who must deal with each other, have vastly different views as to the nature of reality, yet  each one believes his/her own view to be the correct one since it is based on the microcosm of personal experience. And to make matters worse, most of us are not even fully aware of our own world views, much less the uniqueness of the experience from which they are derived.**  
+[许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。]
+
+> Hui:  Here is a short conversation with my best friend:  
+Q: What is wrong with the world?  
+A: There are people.  
+
+- 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。...我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。
 
 ## People of the lie [M Scott Peck]
 
@@ -1169,6 +1177,48 @@ She kept a distance to world around. There were two things kept the distance not
 - 她看着他，仿佛要寻找那条她抛弃过尊严的沟渠。
 - 这是一场真正的风雪，在广阔无垠的天空中，细雪飞旋着，仿佛从天空的四个角同时吹来。
 - 她停下来，踌躇不定，转回头，猜想着在这雪帘子后有开阔的大街，有一排排望不到头的煤气路灯。还有沉睡的巴黎无限的黑暗与荒凉。
+
+## The Little Prince
+## White Death
+## Mark Twain: Pudd' nhead Wilson 
+## Selected Short Stories of O Henry
+## NovCN: 动物凶猛
+## NovCN: 水岸
+
+## NovCN:女记
+
+- 女人永远都无力抗拒任何呼唤着她受惊灵魂的声音，而男人则无力阻挡任何灵魂正在相应呼唤的女人。
+
+> Hui:上半句和下半句结合起来不就是在说：只要男人呼唤，女人一定回应，男人一定无法阻挡。换句话说，我们都是毫无自制力的动物......
+
+- 一个女人，而且是一个漂着的离婚女人，在这个陌生的城市里带着一个烧残的孩子，生存都是一个问题。
+
+> Hui: 这句话没有出彩的地方，摘抄下来只是因为它太没有艺术性，很多时候，生活让你感觉就是这样，现实的毫无艺术可言。
+
+- 千家万户新桃换旧符时，刘心香和胡闹闹就这样在病房中度过。
+- 发生的事情就发生了，不要想着任何事情都会有补偿，没有，损失的永远就是损失，伤害的永远就是伤害，你不可能修复，你不可能回到从前。只能是徒劳地浪费时间和精力。
+- 她知道一旦一个女人没有秘密的站在一个男人面前时，女人就没有味了。
+- 刘心香就感到自己似乎真的是那罂粟花正在风中疯长，让陈丽害怕，让陈丽不得不拔掉迎风而长的花儿，否则安达就没有命了。
+- 人说女人出水如芙蓉，水使女人水灵，水使女人美丽漂亮，女人离不开水就如鱼儿离不开水。在水里女人才有了生命，同样，在水里，女人的优点和缺点都无可隐藏，美的更美，丑的更丑。
+- 刘心香看着自己后面孤零零的脚印一个一个深陷在雪地里，有泪水咸咸地流进嘴里，她搞到后腰隐隐的疼，想想今天是24日，唉，那个老朋友又要来了。抬头看着满天的雪花，刘心香狠狠地擦了擦脸上的泪水，骂道：妈的，怎么这么多的贱泪！
+
+## Selected Short Stories of Washington Irving
+## NovEU History:安格思首部曲:传奇初现
+
+> Hui: 不是太喜欢这本书，只记录了这两句。
+
+- 那是一种奇妙的祥和，就像在风中飞翔，在海面上走路，在云端驰骋，在面对威胁毫不犹豫。
+- 在风云变色的战场里要精心算计根本是不可能的事。战场上真正的计算就是求生存。
+
+
+## NovCN:小人得志
+
+- 在官场上，你一旦得势，你的权势周围很快就会形成一个生态圈，衍生各类的物种。趋炎附势就像初生的婴儿走出母体时的第一声啼哭一样，在许多人而言时与生具来的。当你走了霉运，不再拥有了权势时，衍生在你周围的那许多物种也就很快地变种甚至绝迹了。官场的丑恶是多种多样的，而趋炎附势，人走茶凉只是其中的一种，自古皆然，生生不息。 
+
+## Nov: 世事如烟
+## Nov: 灵魂饭
+## Nov: 琴声如诉
+## Nov: 美国佬
 
 # History 
 ##  US History: 总统是靠不住的

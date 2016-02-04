@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Feb 2, 2016"
+date: "Last Update: Thursday, Feb 4, 2016"
 output: 
  html_document:
   theme: united
@@ -591,7 +591,16 @@ We suffer from a tendency to define religion too narrowly. We tend to think that
 Q: What is wrong with the world?  
 A: There are people.  
 
-- 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。...我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。
+- 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。...我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。[To be vital, to be best of which we are capable, our religion must be a wholly personal one, forged entirely through the fire of our questioning and doubting in the crucible of our own experience of reality…So for mental health and spiritual growth we must develop our own personal religion and not rely on that of our parents.]
+
+- We see dogmatism and proceeding from dogmatism, we see wars and inquisitions and persecutions. We see hypocrisy behind faith.[过分信仰上帝，容易使我们更加教条。正是从这样的教条主义中，曾产生过无数战争，宗教裁判所乃至各种迫害。在信仰的背后，曾隐藏着无数伪善的嘴脸。]
+
+- There is clearly a lot of dirty bath water surrounding the reality of God [不夸张地说，在真实的上帝周围，其实流淌着大量肮脏的洗澡水]： Holy wars [残酷的圣战], Inquisitions [宗教审判], Animal sacrifice [动物牺牲], Human sacrifice [活人献祭], Superstition [极度的迷信], Stultification [愚民政策], Dogmatism [教条主义], Ignorance [极端无知], Hypocrisy [伪装虔诚], Self-righteousness [自以为是], Rigidity [顽固不化], Cruelty, Book-buring [焚书坑儒], Witch burning [把女巫处以火刑], Inhibition, Fear, Conformity, Morbid guilt, Insanity [阻碍人类思维进步，制造恐惧，强迫服从，病态的原罪，疯狂的朝拜等等]. The list is almost endless. But is all this what God has done to humans or what humans have done to God? It is abundantly evident that belief in God is often destructively dogmatic. Is the problem, then, that humans tend to believe in God, or is the problem that human tend to be dogmatic? [可谓不可胜数。追根溯源，这一切究竟是上帝有负于人类，还是人类对不起上帝呢？无数宗教信仰都是以毁灭性的教条主义为特征，那么，问题出在我们过于信仰上帝，还是我们天生就容易流于教条主义呢?] Anyone who has known a died-in-the-wool  atheist will know that such an individual can be dogmatic about unbelief we need to get  rid of, or is it dogmatism? [熟悉顽固无神论者的人都知道，他们从不信仰神灵，以打破神灵崇拜为荣，乃至到了独断专行的程度。他们实际上并不比狂热的宗教信徒好到哪里。那么我们该屏蔽的是信仰本身还是教条主义呢？]
+
+- Another reason that scientists are so prone to throw the baby out with the bath water is that science itself, as I have suggested, is a religion. [科学家容易把婴儿和洗澡水一道泼掉的原因，还在于科学本身就是一种宗教。] The neophyte scientist, recently come or converted to the world view of science, can be every bit as fanatical \fə’nætɪkəl\ as Christian crusader or a soldier of Allah. [刚刚接受科学启蒙的新生科学家，其狂妄和偏执的程度，可能丝毫不逊于基督教的十字军，或者真主安拉的圣战勇士。
+] This is particularly the case when we have come to science from a culture and home in which belief in God is firmly hypocrisy. The we have emotional as well as intellectual motives to smash the idols of primitive faith. A mark of maturity in scientist, however, is their awareness that science may be as subject to dogmatism as any other religion.  [如果他们的家庭或文化背景原本就带有宗教的无知，迷信，顽固与伪善成分，他们的狂妄和偏执就可能更严重。在破除原有的信仰崇拜方面，我们的动机不仅有知性因素，也含有情感成分。科学家成熟的标志之一就是能够意识到，像其他任何宗教一样，科学也可能流于教条主义。]
+
+- I have firmly stated that it is essential to our spiritual growth for us to become scientists who are skeptical of what we have been taught—that is , the common notions and assumptions of our culture idols, and it is necessary that we become skeptical of these as well. [我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是心智成熟不可或缺的元素。科学本身很容易成为一种文化偶像，我们亦应该保持怀疑态度。]
 
 ## People of the lie [M Scott Peck]
 

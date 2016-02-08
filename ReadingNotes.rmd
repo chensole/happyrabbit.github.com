@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Feb 4, 2016"
+date: "Last Update: Sunday, Feb 7, 2016"
 output: 
  html_document:
   theme: united
@@ -601,6 +601,8 @@ A: There are people.
 ] This is particularly the case when we have come to science from a culture and home in which belief in God is firmly hypocrisy. The we have emotional as well as intellectual motives to smash the idols of primitive faith. A mark of maturity in scientist, however, is their awareness that science may be as subject to dogmatism as any other religion.  [如果他们的家庭或文化背景原本就带有宗教的无知，迷信，顽固与伪善成分，他们的狂妄和偏执就可能更严重。在破除原有的信仰崇拜方面，我们的动机不仅有知性因素，也含有情感成分。科学家成熟的标志之一就是能够意识到，像其他任何宗教一样，科学也可能流于教条主义。]
 
 - I have firmly stated that it is essential to our spiritual growth for us to become scientists who are skeptical of what we have been taught—that is , the common notions and assumptions of our culture idols, and it is necessary that we become skeptical of these as well. [我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是心智成熟不可或缺的元素。科学本身很容易成为一种文化偶像，我们亦应该保持怀疑态度。]
+
+- A third way in which the unconscious manifests itself and speaks to us if we care to listen is through our behavior. I am referring to slips of the tongue and other “mistakes” in behavior or "freudian slips”, which Freud, in his “Psychopathology of everyday life”, initially  demonstrated to be manifestations of the unconscious [虽然常常对潜意识不予理会，但它仍时刻渴望与我们对话。我们的言行足以暴露一切。我们经常说错话，也就是弗洛伊德所说的“说漏嘴”。我们在个人行为上所犯的可笑“错误”也会揭示出潜意识与我们沟通的渴望]……Not all slips express hostility or denied “negative” feelings. They express all denied feelings, negative or positive. They express the truth, the way things really are as opposed to the way we like to think they are.[人们不经意间说出某些奇怪的话，做出异于平常的举动，原因各种各样，但往往是受到压抑的东西的一种自然流露，其中既包括消极的东西，也包括积极的东西。它们是客观而真实的，尽管我们可能不想公之于众。] The fact of the matter is that our unconscious is wiser than we are about everything. 
 
 ## People of the lie [M Scott Peck]
 
@@ -1432,10 +1434,10 @@ See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 
 - 作者列举了诸如律师、医生、教授和会计这些普遍被认为是专家的职业。对于法律这门职业作者提到：“从某种意义而言,法律是一个非常可怕的领域,它有可能仅仅依靠不同的解释而改变我们的人生。”对于会计（安然事件），医生（等候三个小时,看三分钟病），作者最后指出，单是国家认定的一张资格证并不能定义专家，“资格只不过是一张纸片而已,如果不成为 真正的专家,便如“脚底的米粒”,捡起来也不能吃。”。那么什么是专家呢？
 
-## Love cultivation [好好修养爱，素黑]
+## About Love [素黑]
 
 - 先懂得为自己寻找一条路，安放好自己，追求在恋爱以外其它有意义的事情，你的心才能强壮起来，才能处理万变，才有条件和本钱去恋爱。分散恋爱的精力，才能看穿自己和爱人之间的问题。
-- 谨记别强求，两个人的离合有太多无法解释或被清楚理解的原因，有种智慧需要学习，就是随缘也是爱的方式。
+- 谨记别强求，两个人的离合有太多无法解释或被清楚理解的原因，有种智慧需要学习，就是随缘也是爱的方式。爱必须心安理得，顾己及人。最大的幸福是活得自在、自由和喜乐，心安理得，不否定关系，也不泥守关系。当你能无须害怕或隐瞒什么，保持清醒和觉知，接受命运发生在你身上的一切，你便自由了。人要面对爱，得先接受无常和变幻，知道养活爱得靠自我提升和进步。
 - 自爱应该是无条件的，正如父母应该无条件的爱孩子一样，这是天职。爱自己的人面上散发的光芒是骗不了别人的，你会活在平静，淡定，喜悦种，绝少埋怨，鲜有不满，没有太多话需要澄清，内心是一片宁静而有力量的海。
 - 自爱的人不乞求被爱，反而会乐于把自己丰富的爱向别人分享，因此，自爱的人会平易近人，让人喜欢亲近，因为你的爱带着很强的感染力，等待被爱的人是焦虑的，自爱爱人的人是平和的。能爱便能被爱。  
 爱是自然的发生，强求不来。
@@ -1443,7 +1445,30 @@ See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 最好的伴侣不是别人，而是自己的内心。不能享受孤独便不能接受生命，无法好好爱自己。  
 别人不好过绝对不会让你更好过。成熟的爱是在稳定的情绪，良好的身体和理性的状况下，先了解怎样爱自己，才能从容地相处，知道要和什么样的人在一起。人，从来都是孤独面对自己。未曾孤独过，捱不过孤独的人，永远不知爱的滋味，有的只是依赖的味道，跟香水差不多。涂上去的东西，都不能长久。
 - 感到优越是可耻的，在这个疯狂到不可理喻的世界，麻木到只剩下互相消费的贪欲爱恨，我只感到比海更深的无助。
-- 最大的幸福是活得自在、自由和喜乐，心安理得，不否定关系，也不泥守关系。当你能无须害怕或隐瞒什么，保持清醒和觉知，接受命运发生在你身上的一切，你便自由了。
+- 爱是一生修行的路，相爱时享受，相处时互相尊重，即使没有缘分走在一起，这份爱已一生一世。
+- 恋爱让我们看透自己的盲目和软弱，是脱胎换骨的起点。
+- 对方只是反映你的内在问题，对方的问题可以影响你，但关键是你为何被影响？你缺失了什么而心乱，能量被干扰？先处理你自己的问题。
+- 学习适应跟最爱的人生离死别，正是修养自己，提升生命的机缘。爱，就是这个意思。
+- 人在干涸的感情世界里容易堕入一厢情愿的幻想中。
+- 人与人之间的聚散有时却无期。
+- 经历就是爱的厚度和层次，无须任何意义。爱不靠认知，需要经历和修养。
+- 爱永远是大方的呈现和分享。
+- 人缘上太多无法解释的矛盾，每个人最终只能诚实面对自己的生命，体谅一切不如意的发生。
+- 如果对方需要找个弱者平衡自己的话，那是他的选择。
+- 希望和很多女人只有性关系的欲望和生理本能，是男人最大也最无助的秘密欲望，只能转化为权力和名利的追求。于是，男人永远具有侵略性，永远是伤害者。
+- 男人的沟通基础是当下的意愿，尽快解决问题离开对话和关系。女人的沟通基础是制造永恒感觉、意义和记忆，尽量延长对话关系。
+- 对话是假的，只是独白的变相。
+- 每句话都有期限，不在时间，在感情的极限。
+- 学习成熟处理感情问题，尊重他人，照顾别人的感受。
+- 口不对心，心不对脑，是很多女人感情问题的真相。
+- 女人需要的是有能力爱女人的男人，而不是借女人安慰自己的男人。
+ 
+> Hui: 什么样的男人是有能力爱女人的？怎么识别这样的男人？
+
+- 调情这种游戏的背后并不纯粹，它附带了性挑逗、性幻想、性贪婪、性打猎和性虚荣的隐藏意识，超越了一般交际的言行。
+
+- 性能量很重要，其重点不是做爱，而是创造性。身体蕴藏无穷的创造力，而性爱是最容易震撼体验的身体状态之一。身体是我们最大的筹码，让我们享受生命，享受性和爱。爱惜身体，尊重身体，才有资格要求做爱。
+
 
 ## Others
 
@@ -1772,6 +1797,7 @@ See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 - School is learning things you don't want to know, surrounded by people you wish you didn't know, while working toward a future you don't know will ever come.[Dave Kellett]
 - Every person takes the limits of their own field of vision for the limits of the world.[Arthur Schopenhauer]
 - 情绪成熟的人走进屋里说的第一句话不是“宝贝，我来了”，而是“亲爱的，你在这儿！”。他们可能不是很有趣或者亮眼，但他们不是每分每秒都需要其他人的鼓励。他们愿意给你鼓励。当你成功时，他们为你开心，但不是因为他为你的成功奉献了很多，而是单纯地为了这件事情本身。**爱情的最高境界是对方可以看到你是谁，而这就要求他们愿意放弃对自我的过度关注。**
+- Reading makes a full man, conference a ready man, and writing an exact man.[Bacon]
       
 # Jokes
 
@@ -1793,4 +1819,19 @@ See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 - 一帮老头儿老太太无所事事，就去上老年大学，有一天集体忘记做作业了…… 校长闻知大怒，罚他们集体操场罚站，同时还带来了一个道士，好一阵的舞剑、画符、念咒、烧纸……老人们都看的不明就里，就问这是要干啥，校长很严肃的说道：干啥？请家长！
 - 从来扯着嗓门喊着要走的人，都是最后自己把摔了一地的玻璃碎片，闷头弯腰一片一片拾了起来。而真正想离开的人，只是挑了一个风和日丽的下午，裹了件最常穿的大衣，出了门，然后就再也没有回来过。
 - 刚刚一个很帅的帅哥在我面前，我们相视了很久，谁都没有打破这份平静。直到手累，我才慢慢的放下了镜子。
-
+- 生子当如孙仲谋,找爹就找金日成。
+- 这小伙子长得,把脸挡上跟个演员似的…
+- 有刺青的不一定是流氓,他可能是岳飞。
+- 都说女人是一本书，姑娘，您这身材，是合订本…… 
+- 一个和尚挑水喝,两个和尚抬水喝,三个和尚没水喝,四个和尚斗地主,五个和尚可以去扮福娃了
+- 拿什么来拯救你你这个贱人。 
+- 您真是贱人多忘事啊 
+- 黑猩猩不小心踩到了长臂猿拉的大便，长臂猿温柔细心地帮其擦洗干净后它们相爱了。别人问起他们是怎么走到一起的？黑猩猩感慨地说：猿粪！都是猿粪啊！
+- 明天你醒来，枕边躺着一只蚊子，身边有一封遗书，上书：我奋斗了一晚，也没能刺破你的脸，你的脸皮厚得让我无颜活在这世上！主啊~宽恕他吧！我是自杀的。
+- 一日 一对苍蝇母 子在一起吃午餐, 儿子问苍蝇妈妈:为什么我们每天都吃大便啊?苍蝇妈妈生气的说:吃饭的时候不要说这么恶心的话,趁热吃!!
+- 两个饺子结婚了，送走客人后新郎回到卧室，竟发现床上躺着一个肉丸子！新郎大惊，忙问新娘在哪？肉丸子害羞的说：讨厌，人家脱了衣服你就不认识啦!
+- 某晚，一裸男叫了一辆出租车，女司机目不转睛盯着看他，裸男大怒，吼道：你他妈没见过裸男呀！女司机也大怒：我看你他妈从哪儿掏钱！
+- 狼崽从出生就吃素。狼爸狼妈绞尽脑汁训练狼崽捕猎。终于有天狼爸狼妈欣慰地看到儿子狂追兔子。狼崽抓住兔子凶相毕露恶狠狠地说：小子！把胡萝卜交出来！
+- 巴黎圣母院少个敲钟的，就你了。
+- 你出生时是不是被扔上去过３次而只被接住过２次？
+- 你的牙如同天上的繁星，色泽鲜艳，相距甚远

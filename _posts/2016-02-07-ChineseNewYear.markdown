@@ -6,7 +6,7 @@ layout: post
 
 Today is [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year
 ) Eve and 2016 is Monkey year [[The 12 Chiense Zodiac](https://en.wikipedia.org/wiki/Zodiac
-)]. How big holiday is it in China? Dear American friends, it is your Thanksgiving, Christmas and New Year all combined. Since it is such a big deal, something called **Chunyun** happens every year:
+)]. How big holiday is it in China? It is Thanksgiving, Christmas and New Year all combined. Since it is such a big deal, something called **Chunyun** happens every year:
 
 > "Chunyun (traditional Chinese: 春運; simplified Chinese: 春运; pinyin: Chūnyùn), also referred to as the Spring Festival travel season or the Chunyun period, is a period of travel in China with extremely high traffic load around the time of the Chinese New Year. The period usually begins 15 days before the Lunar New Year's Day and lasts for around 40 days."
 

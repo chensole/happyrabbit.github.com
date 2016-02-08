@@ -16,7 +16,7 @@ Now back to real life, last night I spent two hours sending/receiving all kinds 
 
 After I talked to parents, it was late Sunday night in China. My cell phone finally fell asleep with them. I took a deep breath and set out for Church. Then the magic happened. All of a sudden,  everything about the big festival stopped. Everyone around me was taking about Super Bowl Sunday……It was like the spring festival has never existed. For a second, I thought that I might be in a dream. Either one hour ago I talked to people in China in my dream, or now people were talking about Super Bowl in my dream.
 
-During today’s sermon, Pastor Bill said: “We should listen to people more!” I think that is a great idea. If my friends ask me again: 
+Pastor Bill said in today’s sermon: “We should listen to other people more!” I think that is a great idea. If my friends ask me again: 
 
 > "Hui, how do you celebrate Spring Festival in US?" 
 
@@ -24,6 +24,13 @@ I will reply:
 
 > “Listen to people talking about Super Bowl."
 
-It is called culture difference which is the beauty of the world: we are different! By living in another country, you not only extend your microcosm, the more important is that you know you are only part of the world, a tiny part.  We are in such a situation that human must deal with each other who  have vastly different views as to the nature of reality. However, our particular culture, our family and childhood experience influence our understanding so much because these happened during our formative years. As a consequence, each one believes his/her own view to be the correct one. "The world should function like this." Mom used to say :"I can’t believe there are people in the world don’t eat rice everyday." And I replied: "Sorry Mom, but there are plenty people here can get away with bread. And I am not joking."
+It is called culture difference which is the beauty of the world: we are different! By living in another country, you not only extend your microcosm, the more important is that you know you are only part of the world, a tiny part. People don't necessary care what you care and they don't have to. We are in such a situation that human must deal with each other who  have vastly different views as to the nature of reality. However, our particular culture, our family and childhood experience influence our understanding so much because these happened during our formative years. As a consequence, each one believes his/her own view to be the correct one. "The world should function like this." Mom used to say :"I can’t believe there are people in the world don’t eat rice everyday." And I replied: "Sorry Mom, but there are plenty people here can get away with bread. And I am not joking." 
 
-This is the paradox. When you make effort to resist being self-centric, you are actually on a process of self-enlarging. Put yourself down, then you can start to learn more about the world. Those are words I give to myself at the beginning of 2016.
+> Common sense is the collection of prejudices acquired by age eighteen.
+– Albert Einstein
+
+This is the paradox. When you make effort to resist being self-centric, you are actually on a process of self-enlarging. Put yourself down, then you can start to learn more about the world. Why should we learn more about the world? Because it gives us better understanding of our place in the world and deepens our understanding of what life is all about. We all want to be understood. We all want to meet  people who can understand us, care for our feeling and love us. But do we understand ourself? do we love ourself? If even we can't do these to ourself, how can we put the responsibility on others? If we need to understand ourself, then can we do that without understanding the world we are at? Can we do that without undersatnding people around us? In order to understand ourself, we have to learn more about the world. In order to learn the world, we need to be open to people with different mind. In order to be open, we have to put ourself down. Thers is no contradiction. It is an aggregating process. I like the way Erich Fromm defines **Mature Love**:
+
+> Mature love is **union** under the condition of **preserving one’s integrity, one’s individuality**.
+
+We are together but we preserve our own integrity. By learning from the difference among us, we improve our perception of the world and make one another better human. Those are words I give to myself at the beginning of 2016. All my best wishes to my family and friends. Thank you for all your help and love during the way.  

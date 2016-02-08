@@ -33,4 +33,4 @@ This is the paradox. When you make effort to resist being self-centric, you are 
 
 > Mature love is **union** under the condition of **preserving one’s integrity, one’s individuality**.
 
-We are together but we preserve our own integrity. By learning from the difference among us, we improve our perception of the world and make one another better human. Those are words I give to myself at the beginning of 2016. All my best wishes to my family and friends. Thank you for all your help and love during the way.  
+We are together but we preserve our own integrity. By learning from the difference among us, we improve our perception of the world and make one another better human. Those are words I give to myself at the beginning of 2016. All the best wishes to my family and friends. Thank you for all your help and love during the way.  

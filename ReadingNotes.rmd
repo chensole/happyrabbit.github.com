@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Feb 7, 2016"
+date: "Last Update: Monday, Feb 8, 2016"
 output: 
  html_document:
   theme: united
@@ -603,6 +603,10 @@ A: There are people.
 - I have firmly stated that it is essential to our spiritual growth for us to become scientists who are skeptical of what we have been taught—that is , the common notions and assumptions of our culture idols, and it is necessary that we become skeptical of these as well. [我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是心智成熟不可或缺的元素。科学本身很容易成为一种文化偶像，我们亦应该保持怀疑态度。]
 
 - A third way in which the unconscious manifests itself and speaks to us if we care to listen is through our behavior. I am referring to slips of the tongue and other “mistakes” in behavior or "freudian slips”, which Freud, in his “Psychopathology of everyday life”, initially  demonstrated to be manifestations of the unconscious [虽然常常对潜意识不予理会，但它仍时刻渴望与我们对话。我们的言行足以暴露一切。我们经常说错话，也就是弗洛伊德所说的“说漏嘴”。我们在个人行为上所犯的可笑“错误”也会揭示出潜意识与我们沟通的渴望]……Not all slips express hostility or denied “negative” feelings. They express all denied feelings, negative or positive. They express the truth, the way things really are as opposed to the way we like to think they are.[人们不经意间说出某些奇怪的话，做出异于平常的举动，原因各种各样，但往往是受到压抑的东西的一种自然流露，其中既包括消极的东西，也包括积极的东西。它们是客观而真实的，尽管我们可能不想公之于众。] The fact of the matter is that our unconscious is wiser than we are about everything. 
+
+- Jung’s theory of the collective unconscious suggests that our wisdom is inherited. Recent scientific experiments with genetic material in conjunction with the phenomenon of memory suggest that it is indeed possible to inherit knowledge, which is stored in the form of nucleic acid codes within cells. [荣格的“集体无意识”理论暗示出，我们的智慧来自于对全人类智慧的继承。最近的科学实验把遗传物质痛记忆现象结合起来进行研究，结论证明我们的基因很可能继承了某些知识，并在细胞里以核酸遗传密码的形式储存。]
+
+- Decline of physical competence in old age is an inevitability. Within an individual lifetime, however, the human spirit may evolve dramatically…One of the basic natural laws is the second law of thermodynamics, which states that every naturally flows from a state of greater organization to a state of lesser organization, from a state of higher differentiation to a state of lower differentiation. In other words, the universe is in a process of winding down…Some other energy system has to be depleted if this one is to be maintained. Ultimately, according to the second law of thermodynamics, in billions and billions of years, the universe will completely wind down until it reaches the lowest point as as amorphous, totally disorganized, totally undifferentiated “blob” in which nothing happens any more. This state of total disorganization and undifferentiation is  termed entropy. [随着年龄的增长，肉体的衰老是不可避免的结果，但在人的一生中，心灵却可以不断进化，乃至发生根本性的改变......按照热力学第二定律，能量会自然地从有序状态流向混乱状态，从分化状态流向均一状态。换句话说，宇宙的秩序处于持续不断的崩解之中…为维持某处的秩序保持不变，必须以其他地方的秩序崩解为代价。这样下去，经过数十亿年，整个宇宙会完全分解，其秩序降至最低点，成为没有任何形状和结构，不再发生分化的死寂状态，我们称之为“熵”。]
 
 ## People of the lie [M Scott Peck]
 

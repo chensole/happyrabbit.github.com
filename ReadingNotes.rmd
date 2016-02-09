@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Feb 8, 2016"
+date: "Last Update: Tuesday, Feb 9, 2016"
 output: 
  html_document:
   theme: united
@@ -607,6 +607,10 @@ A: There are people.
 - Jung’s theory of the collective unconscious suggests that our wisdom is inherited. Recent scientific experiments with genetic material in conjunction with the phenomenon of memory suggest that it is indeed possible to inherit knowledge, which is stored in the form of nucleic acid codes within cells. [荣格的“集体无意识”理论暗示出，我们的智慧来自于对全人类智慧的继承。最近的科学实验把遗传物质痛记忆现象结合起来进行研究，结论证明我们的基因很可能继承了某些知识，并在细胞里以核酸遗传密码的形式储存。]
 
 - Decline of physical competence in old age is an inevitability. Within an individual lifetime, however, the human spirit may evolve dramatically…One of the basic natural laws is the second law of thermodynamics, which states that every naturally flows from a state of greater organization to a state of lesser organization, from a state of higher differentiation to a state of lower differentiation. In other words, the universe is in a process of winding down…Some other energy system has to be depleted if this one is to be maintained. Ultimately, according to the second law of thermodynamics, in billions and billions of years, the universe will completely wind down until it reaches the lowest point as as amorphous, totally disorganized, totally undifferentiated “blob” in which nothing happens any more. This state of total disorganization and undifferentiation is  termed entropy. [随着年龄的增长，肉体的衰老是不可避免的结果，但在人的一生中，心灵却可以不断进化，乃至发生根本性的改变......按照热力学第二定律，能量会自然地从有序状态流向混乱状态，从分化状态流向均一状态。换句话说，宇宙的秩序处于持续不断的崩解之中…为维持某处的秩序保持不变，必须以其他地方的秩序崩解为代价。这样下去，经过数十亿年，整个宇宙会完全分解，其秩序降至最低点，成为没有任何形状和结构，不再发生分化的死寂状态，我们称之为“熵”。]
+
+- The process of spiritual growth is an effortful and difficult one. This is because it is conducted against a natural resistance, against a natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things, to take the easy path……But as in the case of physical evolution, [心灵的成长，心智的成熟需要不断努力，而且必然是艰苦的过程。它必须与自然法则对抗，必须跟循规蹈矩的自然倾向背道而驰...我们习惯于走平坦的道路，害怕道路熵荆棘遍布。在反抗自然法则的过程中，心灵需要同熵的力量对抗，就如同生物进化一样，我们的心灵克服了熵的力量，才一直成长到今天。]
+
+- 归根结底，推动个人乃至整个物种克服懒惰和其它自然阻力的力量究竟是什么？其实我们已经给它取了名字，那就是“爱”。我们之所以能够成长，在于持续的努力，我们之所以能够付出努力，是因为懂得自尊自爱。对自己的爱是我们愿意遵循规矩去生活，对别人的爱让我们帮助他们去自我完善。自我完善的爱是一种典型的进化行为，具有生生不息的特征。在生物世界中存在着永久儿普遍的进化力量，体现在人类身上，就是具有人性的爱。它违反熵增的自然规律，是一种永远走向进步的神奇力量。
 
 ## People of the lie [M Scott Peck]
 

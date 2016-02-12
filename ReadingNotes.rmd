@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Wednesday, Feb 10, 2016"
+date: "Last Update: Thuersday, Feb 11, 2016"
 output: 
  html_document:
   theme: united
@@ -719,6 +719,20 @@ The author pointed out that more of us turn to self-help books for answers to li
 ### Myth 22: Make every second count
 ### Myth 23: We must all strive to be happy
 ## The Optimism Bias [Tali Sharot]
+
+### Illusions of the Human Brain
+
+- During spatial disorientation, also known as vertigo, a pilot is unable to detect the position of the aircraft relative to the ground. [空间定向障碍，又称“晕眩”，飞行员无法正确判断飞机对地面的位置。]
+
+- During a rapid deceleration, a pilot sometimes feels the plane is facing downward. To rectify this illusion, the pilot may then pull up the nose of the plane, which often leads the aircraft to fall into a catastrophic spin known as the “graveyard spin”. [在急剧减速时，飞行员有时会觉得飞机正机头向下飞行。为了纠正这一错觉，飞行员可能会拉升机头，这常常会导致飞机灾难地旋转，也叫做“死亡螺旋”。]
+
+- The human brain’s navigational system has evolved to detect our movement on earth, not in the sky. It calculates our position by comparing signals from the inner ear (which has tubes of liquid that shift when we move) to the fixed sensation of gravity that points down to the center of the earth. [人类大脑进化后的导航系统适用于地面上的行动，而非空中。它通过比较内耳中的信号（内耳里的小管含有液体，会随着我们的行动而变化），可以判断我们相对指向地心的重力感受。]
+
+- Our brain interprets irregular signals, such as angular accelerations or centrifugal force, as the normal force of gravity.[一个人的大脑会把不合常规的信号（例如角加速度或离心力）]
+
+- Humans are very good at perceiving the emotional state of others. We do so unconsciously all the time. [人类很擅长察言观色，我们毫无意识地重复这一技能。]
+
+- We can do so for familiar faces, faces we have not previously encountered, faces from our own culture or a foreign one, because emotional expressions are universal. [所有人体现情绪的表情是一样的] The capability to convey and detect emotion is critical to our existence. [表现和体察情绪的能力对我们的生存至关重要。]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）

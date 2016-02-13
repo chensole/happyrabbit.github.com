@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thuersday, Feb 11, 2016"
+date: "Last Update: Friday, Feb 12, 2016"
 output: 
  html_document:
   theme: united
@@ -659,6 +659,87 @@ A: There are people.
 　
 ### The encounter with evil in everyday life
 
+## The paradox of choice [选择的悖论, Barry Schwartz]
+
+### 自由的重担
+
+- 大名鼎鼎的政治哲学家Isaiah Berlin提出一个重要观点，他把自由划分为消极自由（negative liberty）和积极自由（positive liberty）。消极自由是一种“不做”（liberty from）的自由，人们有免受他人强制的自由，不按他人意愿来做事的自由。而积极自由是一种“去做”（liberty to）的自由，做自己生活的主人，让自己的生活变得更有意义、更有分量。
+
+- 如果人类是理性的，那么增加选项就会让社会更美好。那些在意自己有没有选择权的人会从中获益，而那些不在乎选择权的人可以自觉忽略这些多余的选项。这种观点在理论上很有说服力，不过在现实中却行不通。
+
+- 选择过多不仅使人们做决定的过程更艰难，因而感到更沮丧，还会让最终被选中的“幸运儿”魅力大减，导致满足感更低。
+
+- 在这个缺乏监督的时代，如果你持续使用某个产品而不考虑其他选择，结果可能是，你将会长期支付更高昂的价格来买一样的服务。
+
+### 是什么在操控你的行为
+
+- peak-end-rule: 我们对过去体验的记忆由两种因素决定，事情达到极限（最好或最坏）时我们的感受，以及事情结束后我们的感受。
+
+- 逻辑和记忆的鸿沟说明，我们实际上没有想象中那么了解自己。
+
+- availability heuristic: 人们的判断推理过程常常受到可获得的记忆的影响，倾向于认为容易想起的事件比不容易想起的事件更常见。
+
+- framing effect: 同一个问题的两种逻辑意义相似的说法会导致不同的决策判断，当消费者认为某一价格带来的是“损失”而非“收益”时，他们对价格就非常敏感。
+
+- 当决定自己的收益时，人们倾向于规避风险，都有风险厌恶症。而当人们面对损失时，一个个都变得极具冒险精神，都是寻求风险的冒险家。
+
+- psychological accounts：人的头脑中存在一种心理账户，会讲现实中客观等价的支出或收益在心理上划分到不同的账户中，做出不同的决策。
+
+- law of diminish marginal utility：当人们连续消费同一种物品或服务时，其总效用虽然在增加，但边际效应，既每单位物品或服务带来的效用增加量却在递减。
+
+- endowment effect: 人们更愿意持有自己已经拥有的东西，而不愿意用它交换另一个可能更好的替代物。
+
+- 即便只需要考虑有限几个选项，人们也就容易犯错。而随着选择的数量和复杂度的上升，人们犯错的可能性就会不断增大。没有人有时间和精力对每个选项仔细琢磨、全面推敲，随着需要做的决定和选择的数量越来越大，决策难度会大大增加。
+
+- 选项越多，付出越多，犯错就会让人更痛苦。选项增加会产生3个相互关联的不幸后果：
+     1. 需要付出更多努力来做选择；
+     1. 犯错的可能性更大
+     1. 犯错会造成更大的负面影响
+
+- 满足者最终会为很不错的选择感到满意，而最大化者追求的是绝对的最佳选择。我相信最大化者追求的目标正是导致他们不满的根源，尤其是在一个方方面面选择都多如牛毛的社会。虽然最大化者总是朝着“最好”努力，但几乎永远无法对最终的选择感到满意，因此，最大化者可能更容易成功，但满足者更容易幸福。
+     1. 最大化者对好事的感觉没满足者那么强烈，对坏事的应对能力也没有满足者那么强。
+     1. 坏事发生后，最大化者要经历较长的时间才能恢复。
+     1. 最大化者比满足者花更多的时间深思熟虑。
+     
+- 所谓的最佳选择根本不存在。
+
+### 行为经济学背后的心理奥秘
+
+- learned helplessness: 当人或者动物接连不断地遭受挫折，就会丧失控制感，感到自己对一切都无能为力，陷入一种无助的心理状态。
+
+- 可以毫不夸张地说，我们最基本的幸福感在很大程度上正是基于我们对环境的控制能力，以及是否知道自己拥有这种能力。
+
+看来更多的选择机会并没有让人们感觉更好，有两种可能：
+
+    1. 随着选择和控制的体验越发广泛而深入，人们对选择和控制的期望也在增加。对控制的渴望和期待也总是跑在现实的前面，无论有多大的自由都无法完全满足。
+    2. 更多的选择并不意味着更多的控制。当选择增加到某个临界点时，我们反而会感到无力应对。
+     
+- 要在选择自由与承诺忠诚之间获得平衡简直是不可能的任务。... 那些热爱选择和行动自由的人就应该远离错综复杂的关系；那些看重稳定和忠诚的人就应该努力追求它。
+
+- 如果“限制”可以接纳有限的自由，“自由”也可以受到一定的“限制”，人们就会逐渐变聪明，懂得衡量什么才是适度的限制。
+
+- “需要”和“喜欢”其实是由两个完全不同的大脑系统掌管的，两个系统之间可以写作，但大部分时间是单独运作的。
+
+- 最终决定决策质量的是人们做选择时的主观感受。如果选项数目多到会让主观满意度降低，我们的感觉往往更加糟糕。
+
+- 消极情绪导致注意力范围缩小，无法全面考虑影响选择的各个因素。相反，心情越好，思维就越灵活，能考虑到更多的可能性。
+
+- 如果选项增加，被拒选项的优点就会强化，导致最终选定的选项带来的满意度降低。
+
+- 考虑机会成本时作出明智选择的必经之路。
+
+- 最容易说出来的原因并不一定是真正重要的。但是话一旦说出口，它的重要性就会陡然增加。
+
+- 想说明分析过后再做决定很容易犯错。随着选择数目的增加，做决定时要做的价值判断也增多了。尽管千方百计挤出的理由可能让你的决定在当下显得十分正确，但长远看来没什么特别大的好处。
+
+- 作出重大选择之所以困难，可能就是因为它们时不可逆转的。婚姻没有退货保证，职业亦然。任何改变都意味着巨大的代价——时间、经历、情感和金钱。
+
+- postdecision regret V.S. anticipated regret: 决定后懊悔是做了某个决定后，因为结果不理想而产生的后悔。预期性懊悔是指做选择之前，因为预计到结果不好或者还有更好的选择而感到后悔。
+
+- omission bias: 人们更容易接受由于自己的忽略或不作为导致的损失，而不愿意接受自己的行为导致的同等损失。
+
+
+
 ## Psychobabble [Stephen Briers]
 ### What's so wrong with popular psychology?
 
@@ -730,9 +811,20 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 - Our brain interprets irregular signals, such as angular accelerations or centrifugal force, as the normal force of gravity.[一个人的大脑会把不合常规的信号（例如角加速度或离心力）]
 
+- Like our navigation system, our visual system was developed to interpret the world it would encounter most frequently. To do so, it developed some shortcuts, some assumptions about the world, which it uses to function. These allow our brain to work efficiently in almost all situations. However it does leave room for errors when those assumptions are not met.[和导航系统一样，视觉系统发展到企图识别熟悉的万事万物。为了做到这一点，视觉系统发展出了一条捷径，那就是先入为主的假设这个世界是什么样的，然后基于这一点展开工作。这让大脑在几乎所有的情况下都能有效运作。]
+
+- Thatcher illusion, as it was first demonstrated in 1980 on a photo of former British prime minister Margaret Thatcher.
+
+- To get along in this world, we need to remember and distinguish thousands of faces. Luckily, most of us do so with ease, thanks to the part of the brain known as the **Fusiform Face Area** (FFA), which is located in a region of the brain called the fusiform gyrus. The FFA is the part of our visual system that allows us to recognize that a face is a face, and to distinguish between the many faces we encounter on a daily basis.  Without a functioning FFA, we may all become prosopagnosic, which means we will be face-blind. People who suffer from lesions to their fusiform gyrus have difficulty identifying faces and may even be unable to recognize their own face. 
+
 - Humans are very good at perceiving the emotional state of others. We do so unconsciously all the time. [人类很擅长察言观色，我们毫无意识地重复这一技能。]
 
 - We can do so for familiar faces, faces we have not previously encountered, faces from our own culture or a foreign one, because emotional expressions are universal. [所有人体现情绪的表情是一样的] The capability to convey and detect emotion is critical to our existence. [表现和体察情绪的能力对我们的生存至关重要。]
+
+- The brain is used to detect upright faces and expressions. It processes the parts of  the face in unison, as this is the most efficient way to do so. In other words, rather than identifying each part separately, the brain processed the face and its expression as a whole. [大脑习惯观察端正的面孔和表情，并且能同时分辨脸庞的各个部分，因为这是最有效率的方式。大脑并不是逐一区分，而是把脸庞和表情当作整体进行处理。]
+
+- As in most illusion, learning of the illusion and its roots does not erase the illusion....Cognitive  illusion, rather than sensory ones, are much harder to accept. As in any complex system, the brain has built-in defects. These defects are overpowering; we live with them every day without being aware of them. We rarely doubt that our perception is accurate reflection of the world, when, in fact, our brains can often provide us with a distorted sense of reality. 
+
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）

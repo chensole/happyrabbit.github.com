@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Feb 12, 2016"
+date: "Last Update: Sunday, Feb 14, 2016"
 output: 
  html_document:
   theme: united
@@ -823,7 +823,24 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 - The brain is used to detect upright faces and expressions. It processes the parts of  the face in unison, as this is the most efficient way to do so. In other words, rather than identifying each part separately, the brain processed the face and its expression as a whole. [大脑习惯观察端正的面孔和表情，并且能同时分辨脸庞的各个部分，因为这是最有效率的方式。大脑并不是逐一区分，而是把脸庞和表情当作整体进行处理。]
 
-- As in most illusion, learning of the illusion and its roots does not erase the illusion....Cognitive  illusion, rather than sensory ones, are much harder to accept. As in any complex system, the brain has built-in defects. These defects are overpowering; we live with them every day without being aware of them. We rarely doubt that our perception is accurate reflection of the world, when, in fact, our brains can often provide us with a distorted sense of reality. 
+- As in most illusion, learning of the illusion and its roots does not erase the illusion....Cognitive  illusion, rather than sensory ones, are much harder to accept. **As in any complex system, the brain has built-in defects. These defects are overpowering; we live with them every day without being aware of them. We rarely doubt that our perception is accurate reflection of the world, when, in fact, our brains can often provide us with a distorted sense of reality.** 
+
+- This illusion is known as the superiority illusion (or the superiority bias). We are quite confident that we are more interesting, attractive, friendly, and successful than the average person. We are quite confident that we are more interesting, attractive, friendly, and successful than the average person. We may not admit it openly when questioned, but we have a strong sense that this is correct. [这种错觉称为“优势错觉”。我们信心十足地认为自己比一般人更有趣，更有魅力，更友好，更成功。当人问起时，我们表面不会承认，但是内心却对自己的判断笃信不疑。]
+
+- While we do not recognize our own biases, we can often detect biases in others.[我们并不知道这是自己的错觉，不过虽然我们意识不到自己的偏见，但却能发现别人的偏见。]
+
+- Most of us believe we are superior in many ways to other individuals. This means we see ourselves as better, not everyone else as better. Therefore, (a) we all have a slightly different views the world, and (b) we are able to detect cognitive illusions, such as the superiority illusion, in others. Because we can identify these illusion and biases in others but not in ourselves, we conclude that we are less susceptible to bias than most other people. In essence, this means we hold the illusion that we are immune to illusions. This is the irony of cognitive illusions. Our tendency to perceive ourselves as less susceptible to bias than the rest of the human race was termed the bias blind spot by the psychologist Emily Pronin of Princeton University. [大多数人相信自己在很多方面比其他人优秀，这意味着我们认为自己优于别人。这揭示了1）我们对世界的看法会稍有不同；2）我们还能够发现他人的认知错觉，如优势错觉。因为我们能够分辨出别人的错觉和偏见，却发现不了自己的，所以我们认定自己比大多数人更少出现错觉和偏见。我们实际上有这样的错觉，并对这样的错觉是免疫的。这正是认知错觉的讽刺之处。我们自认为比别人有更少的偏见，这称为“偏向盲点”。]
+
+- People tend to judge the extent of other people’s bias according to their behavior but judge their own biases according to their internal  feelings, thoughts, and motivations.[大家根据别人的行为来判断其偏见程度，却根据内心感受，想法和动机来判断自己的偏见。]
+Scalia seems to have experienced an **introspection illusion**. An introspection illusion is the strong sense people have that they can directly access the processes underlying their mental states. Most mental processes, however, are largely unavailable for conscious interpretation. The catch is that people are unaware of their unawareness.[内省错觉是指人们的一种强烈感觉，认为自己能够了解决定心理状态的心理过程。大多数心理过程是无法用理性解释的，潜在的不利因素是大家不知道自己的无知。]
+
+- We can unknowingly create verbal rationalizations for preferences and intentions that we do not actually possess.[我们会无意识地口头解释未曾有过的偏好和动机。]
+Often, we are wasting valuable time. Studies show that **thinking too much can lead to suboptimal judgments. **
+
+### The Evolution pf Prospection
+
+- Mental time travel—going back and forth through time and space in one’s mind—may be the most extraordinary of human talents. It is also one that seems necessary for optimism. If we are unable to imagine ourselves in the future, we may not be able to be positive about our prospects, either. [思想上的时间旅行，让思维穿梭于时间和空间，这可能是人类最卓越的才能。对于乐观而言，这个才能必不可少。如果我们无法想象未来的自己，或许也就无法想象美好的前景。]
+
 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]

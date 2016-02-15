@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Feb 14, 2016"
+date: "Last Update: Monday, Feb 15, 2016"
 output: 
  html_document:
   theme: united
@@ -1071,8 +1071,20 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 ## 直面内心的恐惧                                 
 ## Predictably Irrational2 [Ariely, Dan]
 ## 三十六计                                 
-## 心理学与生活                                 
-## Outliers [异类]                                
+## 心理学与生活  
+
+## Outliers [异类]   
+
+- 在斯腾伯格看来,“为了达到最佳效果,知道自己应该在什么时候,应该怎样和他人说出自己应该说的话”,是实用智商的一个方面。 这更像是一个程序上的概念:它指的是你应该怎样去做一件事情,和你是否清楚自己为什么要这样做或者能否提供这种行为的合理解释并无必然联系。它的本质是实践性的:它不是解 释自我的能力,它是一种让你正确认识自身处境,并且达到自己目的的能力。并且,更为关键的是,它是一种有别于IQ测试中,一个人的分析能力之外的智商。在运用这个术语的时 候,一个人的一般智商和实用智商常常是“两两不相交”的:一种智商的存在并不意味着另一种智商就必定存在。你也许拥有很高的分析推理智商,但实用智商却可能比较低;或者你 拥有高的实用智商,但分析推理智商却偏低;或者——就像罗伯特·奥本海默这样的幸运儿 一样——你两个方面的智商都很高。
+
+- 拉里奥把中产阶层父母的教育方式称为“协同培养”,其目的是积极地“培养并评估一个孩子的才能、观念和技能”。相反,穷人们遵循的是“自然成长”的策略,他们虽然认为自己的责任是照看孩子,但是应该让孩子自由自在地发育成长。
+
+- 我一直认为一个人越是接近事物的本质,他就越是生活得更好。
+
+> Hui: 生活的本质是什么？
+
+- 智慧是一码事,精通世故又是一码事,较低的智力却可能精通世故。成就事情少不了智商之外的其他能力。
+
 ## 叙事疗法                                 
 ## 正义之心                                 
 ## 做一名优秀的心理咨询师                                 
@@ -1507,6 +1519,7 @@ The author discussed the cause and effects of division of labour.
 - There are plenty of lazy people and plenty of slow-coaches, but a genuine idler is a rarity. He is not a man who slouches about with his hands in his pockets. On the contrary, his most startling characteristic is that he is always intensely busy......**Idleness, like kisses, to be sweet must be stolen.** [Haha : )]
 - Love is like the measles; we all have to go through it.
 - No, we never sicken with love twice. Cupid spends no second arrow on the same heart. 
+- Love is too pure a light to burn long among noisome gases that we breathe, but before it is choked out we may use it as a torch to ignite the cozy fire of affection. [爱情之火太纯洁了，它无法在我们呼吸的污浊空气里长久燃烧。但在它熄灭之前，我们可以用它为火种点燃温暖的情爱之火。]
 
 ## Essay 送你一颗子弹（刘瑜）
 - 检验友谊的唯一标准就是两个人能否凑在一起说别人坏话
@@ -2038,7 +2051,57 @@ See the notes on [Red Wine]([http://linhui.org/RedWine) page.
 - Every person takes the limits of their own field of vision for the limits of the world.[Arthur Schopenhauer]
 - 情绪成熟的人走进屋里说的第一句话不是“宝贝，我来了”，而是“亲爱的，你在这儿！”。他们可能不是很有趣或者亮眼，但他们不是每分每秒都需要其他人的鼓励。他们愿意给你鼓励。当你成功时，他们为你开心，但不是因为他为你的成功奉献了很多，而是单纯地为了这件事情本身。**爱情的最高境界是对方可以看到你是谁，而这就要求他们愿意放弃对自我的过度关注。**
 - Reading makes a full man, conference a ready man, and writing an exact man.[Bacon]
-      
+- 尊重生命本身，多去感受其中有趣的体验，而非简单快速的生活方式。...生活的意义是即使一个人，也能把日子过得热气腾腾的情趣。
+- 如何获取知识
+
+   > 1. 投入感情：人会对某些瞬间记忆犹新，因为在投入时大脑会建立更深厚的情感关系，强化人回忆事情的能力。因此我们在阅读时投入感情有利于记住东西，日后积累的基础上创新。
+1.  学习金字塔理论：学习金字塔理论认为，学习最有效的方式是将学到的知识传授给别人或马上付诸事件。学习源于犯错，犯错源于行动。
+1.  猎奇：让思想碰撞：研究发现特殊经历能产生新的神经联络，会和你已有的思想碰撞。与不同的人交往，或者尝试新的事情往往能产生新观点。  
+以上3个方面也解释了为什么人们在旅行或者留学的时候能够产出更多的东西。
+ 
+- 如何构建知识体系
+
+   > 1. 建立知识之间的联系——阅读时问自己，还有什么现象可以被这个知识解释？
+1. 构思知识的多种用法——问自己，这个知识可以用于做那些事情？
+1. 探索事物背后的原因——遇到反常或有趣的事情，问自己：为什么会这样？哪些理论可解释？相似的事件？
+
+- 大城市 v.s 小地方
+    - 自己要什么？
+    - 长期生活能给自己带来什么？
+    - 自身能力能否在此安身立命
+    - 代价 
+有的人想要的就是安稳，希望今天的样子就是生命的终点的样子。但有的人就要“无限的可能性”，那会让你觉得刺激而充满希望。
+
+   > 一线城市
+- 以能力而非资历，背景去判断一个人
+- 尊重生活方式和文化的多元性
+- 丰富的公共生活和以尊重隐私为前提的人际关系
+- 每天变化，总遇见不同的人和事
+
+   > 小城市: 安稳，安全，可控, 人际关系的亲疏更倾向于对血缘，地缘的依赖
+
+- 山泉绕屋知深浅，微念沧波感不平；小院西风向晚晴，嚣嚣恩怨未分明。
+
+- 大家一定要小心那些有六块腹肌的男人和永远保持好身材的女人，这些人拥有你所想不到的决心和意志力。想一想大白天里，他们能“唰”的一下从床上爬起来，到外面跑上几圈。多可怕啊！他们什么事都能干得出来。这绝对不是一个笑话，但凡是有一副好身材的人，活得都不会太差。
+
+- Aren’t entrepreneurs supposed to be gregarious and commanding-----verbally adept and able to inspire employees, clients and investors with the sheer force of their personality?
+
+- 一百个变淡的朋友就有一百种变淡的原因，但本质都是“道不同”。我们的机遇再也无交汇，我们的经历再无相似，你的苦闷我无法理解，我的彷惶于你而言是变相的炫耀。
+
+- 有欲望的人注定痛苦，因为有华丽的梦就有贫瘠的现实。当欲望时刻鼓励着你本该平静的心，你就很难低下头来，老老实实接受目前没有起色，甚至很长一段时间都没有起色的生活。大城市的可怕之处不在于高消费，快节奏和复杂的人脉，更在于你视野开阔之后不断膨胀的欲望和野心。
+
+- 在性行为上，人类有两大发明——
+   1. 延缓性过程的时间，以获取更多快乐
+   1. 发明正面性交姿势，以获取更多快乐
+
+- 为什么要快乐？作为以生存繁衍为第一目标的生物，要那么多快乐有毛线用？答案也许是——
+   1. 协作是人这个种群的首要生存法则。
+   1. 快乐可以增进协作。
+
+- John Carter 发现，取得伟大成就的人和取得一般成就的人最大的区别有两点：  
+   1. 他们相信自己，他们认为自己可以改变什么
+   1. 他们喜欢问为什么，无法容忍自相矛盾，模糊性和不清不明。保持对世界的好奇心。
+   
 # Jokes
 
 - 56个民族55个加分

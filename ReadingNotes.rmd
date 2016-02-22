@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Feb 19, 2016"
+date: "Last Update: Sunday, Feb 21, 2016"
 output: 
  html_document:
   theme: united
@@ -354,7 +354,7 @@ Voltaire 伏尔泰
 
 
 ## An Insight of Chung-yung [中庸洞见]
-
+## 推理的迷宫 [Labyrinths  of Reason, William Poundstone]
 
 ## Gravity and Grace [重负与神恩, Simone Weil] 
 
@@ -1528,7 +1528,7 @@ She kept a distance to world around. There were two things kept the distance not
 ##  忽必烈大帝                                                           
 ##  邓小平时代 [傅高义]                                                       
 ##  论中国(On China) [基辛格]                        
-
+## 人类简史——从动物到上帝 [尤瓦尔·赫拉利 ]
 
 
 # Business & Economics 
@@ -1555,6 +1555,7 @@ The author discussed the cause and effects of division of labour.
 ### The substance of economics
 - **Economics** is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man's conduct in the business part of his life......the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work. 
 
+## 品牌洗脑 [Brand Washed, Martin Lindstrom]
 
 # Art     
 

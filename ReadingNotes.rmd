@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Feb 21, 2016"
+date: "Last Update: Monday, Feb 22, 2016"
 output: 
  html_document:
   theme: united
@@ -1041,7 +1041,7 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 ## 幸福之路 [罗素]
 ## Bushido [武士道, Jnazo Nitobe]                        
 ## 博伽梵歌 [印度经典]                               
-## Idle Thoughts of an Idle Fellow [Jerome K.Jerome]
+
 ## 南怀瑾谈心兵难防 [南怀瑾]
 
 - 所谓“喜怒哀乐之未发谓之中”，是指“情绪”没有发动的境界。
@@ -1561,12 +1561,18 @@ The author discussed the cause and effects of division of labour.
 
 # Proses, Essays and Poems
 
-## The Thoughts of An Idle Fellow
+## The Thoughts of An Idle Fellow [Jerome K.Jerome]
 
 - There are plenty of lazy people and plenty of slow-coaches, but a genuine idler is a rarity. He is not a man who slouches about with his hands in his pockets. On the contrary, his most startling characteristic is that he is always intensely busy......**Idleness, like kisses, to be sweet must be stolen.** [Haha : )]
 - Love is like the measles; we all have to go through it.
 - No, we never sicken with love twice. Cupid spends no second arrow on the same heart. 
 - Love is too pure a light to burn long among noisome gases that we breathe, but before it is choked out we may use it as a torch to ignite the cozy fire of affection. [爱情之火太纯洁了，它无法在我们呼吸的污浊空气里长久燃烧。但在它熄灭之前，我们可以用它为火种点燃温暖的情爱之火。]
+
+- That warming glow is more suited to our cold little back parlor of a world than is the burning spirit love. Love should be the vestal fire of some mighty temple—some vast dim fane whose organ music is the rolling of the spheres. [这样的温和之光比起热烈燃烧的爱情之火，也许更适合世俗间寒冷仄狭的小客厅，爱情是那些非同寻常的高庙大殿里的贞洁之火，宏大幽暗的穹顶上，回荡着管风琴的音乐声]
+
+- We take all things in a minor key as we grow older. There are few majestic passages in the later acts of life’s opera. Ambition takes a less ambitious aim. Honer becomes more reasonable and conveniently adapts itself to circumstances. And love-love dies. [到了这个岁数，我们已经学会低姿态处事。在生活这场戏剧的后半场再难寻觅雄奇壮丽的篇章。追求远大目标的壮志雄心也日渐消沉。时过境迁，对待荣誉能以理性也能合乎环境生存了。至于爱情——爱情已经死去。]
+
+- This blase old beau loves with an hysterical fervor that requires four adjective to every noun to properly describe. [那些耽于享乐的花花公子的爱情是如此狂热炽烈，需要在每个名词前加上四个形容词，才能恰如其分地加以描述。]
 
 ## Essay 送你一颗子弹（刘瑜）
 - 检验友谊的唯一标准就是两个人能否凑在一起说别人坏话
@@ -1680,10 +1686,19 @@ The author discussed the cause and effects of division of labour.
      - 希望自己的欲望马上获得满足是大多数人的天性
      - 野心永远是少数人的天性
 - “推迟满足”是心智成熟的人必备的能力，也是需要挣扎和锻炼才可以习得的能力 。
+- 把每天的时间开销记录下来，一方面可以培养自己的成就感，另一方面可以避免轻易地原谅自己。
+- 不要害怕修改，完成任何一个任务的过程中，修改都是不可或缺的。你在修改说明你在进步。很多人一生最终一事无成的原因，就是因为他们是**脆弱的完美主义者**，天真地希望自己可以在这个不完美的世界里完美地生存——所以注定以失败告终。
+- 养成任何一个哪怕是很小的习惯，都需要挣扎。然而，貌似痛苦的挣扎过程，在将来的某个时刻终归会变得其乐无穷。
+- “浪费时间”这个说法是基于过程的，“成功失败”这个说法是基于结果的。对一个血肉之躯来说，最终的结果其实只有一个，就是死亡。失败从来都不是结果，因为绝大多数情况下，对大多数人来说，失败并不意味着死亡。人做事的时候，成也好、败也罢，通常还是要继续活下去。活下去，就意味着说还要不停地做很多事。
+-  获得知识得途径：
+    - 体验
+    - 试错（Trial and error）
+    - 观察
+    - 阅读
 
 ## Red Wine
  
-See the notes on [Red Wine]([http://linhui.org/RedWine) page.
+See the notes on [Red Wine](http://linhui.org/RedWine) page.
 
 ## Getting More [谈判，Stuart Diamond]
 ### Preface

@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Feb 22, 2016"
+date: "Last Update: Tuesday, Feb 23, 2016"
 output: 
  html_document:
   theme: united
@@ -1695,7 +1695,10 @@ The author discussed the cause and effects of division of labour.
     - 试错（Trial and error）
     - 观察
     - 阅读
-
+- 面对无法亲身体验得知识，人们往往会心存恐惧，因为人们害怕未知。而群体面临无法体验得知识，往往会表现为疯狂。“很多时候人们的善良出自于软弱，而残暴不过来自于恐惧。”
+- 日常生活中几乎所有主要的“沟通障碍”本质上都是因为沟通双方无法让对方理解与他们的经验相悖的知识或者信息造成的。
+- 大脑中储存的信息要多到一定程度才有能力“融会贯通”。
+- 自学能力：阅读，写作，检索。
 ## Red Wine
  
 See the notes on [Red Wine](http://linhui.org/RedWine) page.

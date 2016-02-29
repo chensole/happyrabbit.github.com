@@ -4,7 +4,11 @@ output: html_document
 layout: post
 ---
 
-I first read the poem  “Autobiography in Five Short Chapters" by Portia Nelson in 2015. Sogyal Rinpoche adopted the poem in his book “The Tibetan Book of Living and Dying”. Several days ago, I read the poem again in an article. It describes the growth process of many.  It is difficult and effortful to grow because we have the natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things even after we fall. La Rochefoucauld says: “We have more idleness in the mind than in the body.”  Portia Nelson was lucky to have the whole five chapters in her life. Unfortunately, many people simply repeat the first two chapters all their lives. But there are people do grow. What is the force that push those people to change, to walk down another street? It is love. 
+I first read the poem  “Autobiography in Five Short Chapters" by Portia Nelson in 2015. Sogyal Rinpoche adopted the poem in his book “The Tibetan Book of Living and Dying”. Several days ago, I read the poem again in an article. It describes the growth process of many.  It is difficult and effortful to grow because we have the natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things even after we fall. La Rochefoucauld says:
+
+<blockquote> We have more idleness in the mind than in the body.</blockquote>
+
+Portia Nelson was lucky to have the whole five chapters in her life. Unfortunately, many people simply repeat the first two chapters all their lives. But there are people do grow. What is the force that push those people to change, to walk down another street? It is love. 
 
 
 <blockquote>  Love was defined as “the will to extend one’s self for the purpose of nurturing one’s own or another’s spiritual growth”. When we grow, it is because we are working at it, and we are working at it because we love ourselves. It is through love that we elevate ourselves. And it is through our love for others that we assist others to elevate themselves. Love, the extension of the self, is the very act of evolution. It is evolution in progress. The exclusionary force, present in all of life, manifest itself in mankind as human love. Among humanity love is the miraculous force that defies the natural law of entropy.

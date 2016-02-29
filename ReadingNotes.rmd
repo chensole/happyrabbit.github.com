@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Saturday, Feb 27, 2016"
+date: "Last Update: Sunday, Feb 28, 2016"
 output: 
  html_document:
   theme: united
@@ -838,6 +838,11 @@ Scalia seems to have experienced an **introspection illusion**. An introspection
 
 - We can unknowingly create verbal rationalizations for preferences and intentions that we do not actually possess.[我们会无意识地口头解释未曾有过的偏好和动机。]
 Often, we are wasting valuable time. Studies show that **thinking too much can lead to suboptimal judgments. **
+
+
+- Our capacity to envision a different time and place is critical for our survival. It allows us to plan ahead, greatly increasing our odds of sticking around this planet. It motivates us to save food and resources for a time when we expect them to be less available. It enables us to endure hard work in the present in anticipation of a future reward, or to search for an appropriate long-term partner. Our voyage is hardly limited to the recent past and future. It can expand to a time before and after out own existence. This allows us to forecast how our current behavior may influence future generations. [畅想不同的时空对我们的生存至关重要，让我们能够未雨绸缪，大大提高我们在这个星球的生存机会。这种能力促使我们储备食物和资源，应对可能出现的短缺。这种能力让我们能够承受眼前的工作压力，因为内心期待着未来的犒赏，或者也会让我们去寻找一个合适的长期合作伙伴。这种能力会超越我们自身存在的时段，让我们能够预见当下的行为怎样影响后世。]
+
+- Are we the only ones with a capacity for prospection? Do we share this ability with other species? ...  Certain animal behaviors, such as storing food or seasonal migration, do not necessarily involve an understanding of future need. These tendencies can simply reflect an evolved **genetic predisposition**. [储备食物或者季节性迁徙，并不一定是考虑未来的需求。这些行为只不过体现了进化后的遗传易感性。] 
 
 ### The Evolution pf Prospection
 
@@ -2258,6 +2263,11 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 - 婚姻中掺杂了太多柴米油盐，你越努力感情才能越纯粹，你才能有底气去找找鸡毛蒜皮之后的浪漫，这才是婚姻的潜规则。
 - 自证预言的运作机理颇有些令人迷惑：好事很少心想事成，坏事往往无中生有。但这也不是不能解释：或许这与人类大脑中根深蒂固的“恐惧情绪”有关——喜悦会使一个人停下行动去享受喜悦，而恐惧却恰恰相反，会引发一个人马上采取行动去避免危险。事实上，这种出于恐惧的决策几乎总是事与愿违。
 自证预言几乎无所不在，它也使因果分析变得更为复杂：**自证预言实现的那一瞬间，一个原本并不存在的原因竟然“无中生有”变成了真正的原因。**
+
+- 兰陵美酒郁金香，玉碗盛来琥珀光。 但使主人能醉客，不知何处是他乡。
+-  人事有代谢，往来成古今。 江山留胜迹，我辈复登临。 水落鱼梁浅，天寒梦泽深。 羊公碑尚在，读罢泪沾襟！[孟浩然 《与诸子登岘山》]
+- 岭深常得蛟龙在，梧高自有凤凰栖
+
 
 # Jokes
 

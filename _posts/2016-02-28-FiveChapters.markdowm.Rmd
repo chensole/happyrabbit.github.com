@@ -4,7 +4,7 @@ output: html_document
 layout: post
 ---
 
-I first read the poem  “Autobiography in Five Short Chapters" by Portia Nelson in 2015. Sogyal Rinpoche adopted the poem in his book “The Tibetan Book of Living and Dying”. Several days ago, I read the poem again in an article. It describes the growth process of many.  It is difficult and effortful to grow because we have the natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things even after we fall. La Rochefoucauld says:
+I first read the poem  “Autobiography in Five Short Chapters" by Portia Nelson in 2015. Sogyal Rinpoche adopted it in his book “The Tibetan Book of Living and Dying”. Several days ago, I read it the second time in an article. It describes the growth process of many.  It is difficult and effortful to grow because we have the natural inclination to keep things the way they were, to cling to the old maps and old ways of doing things even after we fall. La Rochefoucauld says:
 
 <blockquote> We have more idleness in the mind than in the body.</blockquote>
 

@@ -19,45 +19,45 @@ According to the second law of thermodynamics, in billions and billions of years
 
  <p> Autobiography In Five Short Chapters </p>
 
-<p> By  Portia Nelson </p>
+ By  Portia Nelson </br>
 
 <p> Chapter I </p>
 
-<p> I walk down the street.  </p>
-<p>There is a deep hole in the sidewalk. </p> 
-<p>I fall in.  </p>
-<p>I am lost... I am hopeless.  </p>
-<p>It isn't my fault.  </p>
-<p>It takes forever to find a way out.   </p> 
+ I walk down the street.  </br>
+There is a deep hole in the sidewalk. </br> 
+I fall in.  </br>
+I am lost... I am hopeless.  </br>
+It isn't my fault.  </br>
+It takes forever to find a way out.   </br> 
 
 <p>Chapter II</p>
 
-<p>I walk down the same street.  </p>
-<p>There is a deep hole in the sidewalk.  </p>
-<p>I pretend I don't see it.  </p>
-<p>I fall in again.  </p>
-<p>I can't believe I am in this same place.  </p>
-<p>But it isn't my fault.  </p>
-<p>It still takes a long time to get out.  </p>
+I walk down the same street.  </br>
+There is a deep hole in the sidewalk.  </br>
+I pretend I don't see it.  </br>
+I fall in again.  </br>
+I can't believe I am in this same place.  </br>
+But it isn't my fault.  </br>
+It still takes a long time to get out.  </br>
 
 <p>Chapter III</p>
 
-<p>I walk down the same street.  </p>
-<p>There is a deep hole in the sidewalk.  </p>
-<p>I see it there.  </p>
-<p>I still fall in... it's a habit... but, </p> 
-<p>my eyes are open.  </p>
-<p>I know where I am. </p> 
-<p>It is my fault.  </p>
-<p>I get out immediately.  </p>
+I walk down the same street.  </br>
+There is a deep hole in the sidewalk.  </br>
+I see it there.  </br>
+I still fall in... it's a habit... but, </br> 
+my eyes are open.  </br>
+I know where I am. </br> 
+It is my fault.  </br>
+I get out immediately.  </br>
 
 <p>Chapter IV  </p>
 
-<p>I walk down the same street.  </p>
-<p>There is a deep hole in the sidewalk.  </p>
-<p>I walk around it.  </p>
+I walk down the same street.  </br>
+There is a deep hole in the sidewalk.  </br>
+I walk around it.  </br>
 
-<p> Chapter V  </p>
+ </p>Chapter V  </p>
 
-<p>I walk down another street.  </p>
+I walk down another street.  </br>
 </blockquote>

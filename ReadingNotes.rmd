@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Feb 28, 2016"
+date: "Last Update: Monday, Feb 29, 2016"
 output: 
  html_document:
   theme: united
@@ -847,6 +847,11 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 ### The Evolution pf Prospection
 
 - Mental time travel—going back and forth through time and space in one’s mind—may be the most extraordinary of human talents. It is also one that seems necessary for optimism. If we are unable to imagine ourselves in the future, we may not be able to be positive about our prospects, either. [思想上的时间旅行，让思维穿梭于时间和空间，这可能是人类最卓越的才能。对于乐观而言，这个才能必不可少。如果我们无法想象未来的自己，或许也就无法想象美好的前景。]
+
+- The posterior part of the cabdrivers’ hippocampi was larger than average. The hippocampus (there is one on each side of the brain) is a region that is crucial for memory. The posterior bit is particularly important for spatial memory. [出租车司机大脑海马体的后部比一般人大。海马体是有关记忆的重要区域，对空间记忆来说尤其重要。]
+
+
+- The term mental time travel was first coined by the Canadian psychologist Endel Tulving to refer to **our capacity for revisiting the past and imaging the future. ** K.C had suffered damage to his frontal and temporal lobes [大脑额叶和颞叶都遭到了损伤], including a lesion in his hippocampus. Two decades laters, Eleanor Maguire examined amnesiac patients with brain damage confined to their hippocampi. She found that those patients, just like K.C,. were not able to construct detailed images of future scenarios. Without working hippocampi, the patients appeared to be stuck in time— unable to revisit the past or mentally explore the future. 
 
 
 
@@ -2267,6 +2272,15 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 - 兰陵美酒郁金香，玉碗盛来琥珀光。 但使主人能醉客，不知何处是他乡。
 -  人事有代谢，往来成古今。 江山留胜迹，我辈复登临。 水落鱼梁浅，天寒梦泽深。 羊公碑尚在，读罢泪沾襟！[孟浩然 《与诸子登岘山》]
 - 岭深常得蛟龙在，梧高自有凤凰栖
+- 制定“互联网+”行动计划，推动移动互联网、云计算、大数据、物联网等与现代制造业结合，促进电子商务、工业互联网和互联网金融健康发展，引导互联网企业拓展国际市场。
+     —— 全国人大会上，李克强在《政府工作报告》中首次提出“互联网+”行动计划。
+- 朝阳区有30万仁波切，10万国学大师，10万易经风水大师，10万养生大师。
+     ——媒体人刘春的一条微博。网民纷纷补充道：还有50万VC和PE投资人、50万朝阳群众、10万影视从业者、10万公知……
+     
+- 参与广场舞的许多女性都可以被称作中国历史上“第一代孤独母亲”。
+     ——《污名与冲突：时代夹缝中的广场舞》一文作者、香港中文大学人类学硕士生王芊霓认为广场舞大妈们不应该成为笑料。
+
+- One night ,we can build a nouveau |nu:'vəu|, three generations to cultivate an aristocart |ə'rɪstəkræt|
 
 
 # Jokes

@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Feb 29, 2016"
+date: "Last Update: Tuesday, Mar 1, 2016"
 output: 
  html_document:
   theme: united
@@ -844,7 +844,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - Are we the only ones with a capacity for prospection? Do we share this ability with other species? ...  Certain animal behaviors, such as storing food or seasonal migration, do not necessarily involve an understanding of future need. These tendencies can simply reflect an evolved **genetic predisposition**. [储备食物或者季节性迁徙，并不一定是考虑未来的需求。这些行为只不过体现了进化后的遗传易感性。] 
 
-### The Evolution pf Prospection
+### The Evolution of Prospection
 
 - Mental time travel—going back and forth through time and space in one’s mind—may be the most extraordinary of human talents. It is also one that seems necessary for optimism. If we are unable to imagine ourselves in the future, we may not be able to be positive about our prospects, either. [思想上的时间旅行，让思维穿梭于时间和空间，这可能是人类最卓越的才能。对于乐观而言，这个才能必不可少。如果我们无法想象未来的自己，或许也就无法想象美好的前景。]
 
@@ -853,6 +853,11 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - The term mental time travel was first coined by the Canadian psychologist Endel Tulving to refer to **our capacity for revisiting the past and imaging the future. ** K.C had suffered damage to his frontal and temporal lobes [大脑额叶和颞叶都遭到了损伤], including a lesion in his hippocampus. Two decades laters, Eleanor Maguire examined amnesiac patients with brain damage confined to their hippocampi. She found that those patients, just like K.C,. were not able to construct detailed images of future scenarios. Without working hippocampi, the patients appeared to be stuck in time— unable to revisit the past or mentally explore the future. 
 
+- The vital difference in the level of sophistication of future thinking between humans and birds lies in our frontal lobes [额叶]…The rapid development of human frontal lobes allowed for the ability to make tools, find novel solutions to old problems, plan steps that would make goals more achievable, see far into the future, and possess self-awareness. [额叶的快速发展，让人类能够制作工具，能够为旧问题寻找新的解决方式，能够制定步骤实现目标，能够用长远眼光看待未来，能够有自知之明。]
+
+- The only way conscious mental time travel could have been selected for over the course of evolution is if it had merged at the same time as false beliefs. In other words,** an ability to imagine the future had to develop side by side with positive biases. The knowledge of death had to emerge at the same time as its irrational denial.** [在进化过程中，思维时光穿梭的能力想要发展，必须满足一个条件才行，那就是这种能力必须和错误的信念共存。换句话说，想象未来的能力必须与乐观偏见并驾齐驱。对死亡的认识必须与不理智的否认态度同时出现。]
+
+- Optimism does not exist without at least an elementary ability to consider the future, as optimism is by definition a positive belief about what is yet to come, and without optimism, prospection would be devastating. [如果缺少思考未来的基本能力，乐观将不复存在，因为从定义上讲，乐观就是对尚未发生的事情持积极态度；而如果没有乐观，展望未来的能力就会毁灭一切。] 
 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
@@ -2282,6 +2287,9 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 
 - One night ,we can build a nouveau |nu:'vəu|, three generations to cultivate an aristocart |ə'rɪstəkræt|
 
+- 事实上，超强记忆法不但对学习无益，而且可能有害。我们所学的知识往往有很强的结构性，正确的学习方法，是根据知识原本的逻辑和原理记忆。而正如我们前面介绍过的，超强记忆法追求的是用想象力另外建立一个联系！这是把已经搭好了的乐高积木先拆开再重新排列，不但多此一举，而且是破坏性的。超强记忆法用得越多，理解度可能就越差。所以练习超强记忆力不是做学问的正途，而是邪道。... [Hui: ？？不是太赞同，谁说记忆和理解是此消彼长的关系？脑子里要有足够多的东西才能彼此连接，融会贯通，看到事物内部的联系才能加强理解能力，这是一个良性循环。作者这里可能专门指代死记硬背，感觉例子太极端。] 知识和信息的区别是什么？知识不是信息。知识是有价值观基础的、逻辑化、结构化了的信息。正如爱因斯坦的名言——“所谓教育，就是当一个人把在学校所学全部忘光之后剩下的东西。”
+
+- 一个人可以做成一些事，但是很少能够做成一些大事。我们需要的是主动走出去，大胆寻求帮助，建立起关联，从而实现更大的愿景。在这个过程中，我收获的不仅是更多优秀的人、更多的资源支持，不仅是在企业管理方面的实践和积累，最最重要的是，我的人生边界得以不断扩大，生命变得更加丰富，视野和格局也更加的开阔。正是这些经历为我构建了一个更大、更高的平台，使我能够在更高的层次上去与这个世界对话。
 
 # Jokes
 

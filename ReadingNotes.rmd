@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Mar 1, 2016"
+date: "Last Update: Wednesday, Mar 12 2016"
 output: 
  html_document:
   theme: united
@@ -509,9 +509,18 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
 
 ## Intimate Relationship [亲密关系, Rowland S Miller & Daniel Perlman]
 
-### Ch1: 人际关系的构成
+### The Building Blocks of Relationships 
 
-- 人类社会属性的核心部分正是**对亲密关系的需要**。Solitary confinement [单独监禁]作为惩罚手段。
+The book is about:
+
+> What  are intimate relationships? why do they matter so much? Fundamental building blocks of close relationships: the cultures we inhabit, the experiences we encounter, the personalities we possess, the human origins we all share, and the interactions we conduct.
+
+- Most of us need others even more than we realize, and there is a reason prisons sometimes use _solitary confinement [单独监禁]_ as a form of punishment: Human beings are a very social species. People suffer when they are deprived of close contact with others, and at the core of our social nature is our need for intimate relationships.
+
+#### The nature and importance of intimacy
+
+- 人类社会属性的核心部分正是**对亲密关系的需要**。
+
 - What is Intimate Relationship?
       1. Knowledge
       1. Care
@@ -2287,7 +2296,7 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 
 - One night ,we can build a nouveau |nu:'vəu|, three generations to cultivate an aristocart |ə'rɪstəkræt|
 
-- 事实上，超强记忆法不但对学习无益，而且可能有害。我们所学的知识往往有很强的结构性，正确的学习方法，是根据知识原本的逻辑和原理记忆。而正如我们前面介绍过的，超强记忆法追求的是用想象力另外建立一个联系！这是把已经搭好了的乐高积木先拆开再重新排列，不但多此一举，而且是破坏性的。超强记忆法用得越多，理解度可能就越差。所以练习超强记忆力不是做学问的正途，而是邪道。... [Hui: ？？不是太赞同，谁说记忆和理解是此消彼长的关系？脑子里要有足够多的东西才能彼此连接，融会贯通，看到事物内部的联系才能加强理解能力，这是一个良性循环。作者这里可能专门指代死记硬背，感觉例子太极端。] 知识和信息的区别是什么？知识不是信息。知识是有价值观基础的、逻辑化、结构化了的信息。正如爱因斯坦的名言——“所谓教育，就是当一个人把在学校所学全部忘光之后剩下的东西。”
+- 事实上，超强记忆法不但对学习无益，而且可能有害。我们所学的知识往往有很强的结构性，正确的学习方法，是根据知识原本的逻辑和原理记忆。而正如我们前面介绍过的，超强记忆法追求的是用想象力另外建立一个联系！这是把已经搭好了的乐高积木先拆开再重新排列，不但多此一举，而且是破坏性的。超强记忆法用得越多，理解度可能就越差。所以练习超强记忆力不是做学问的正途，而是邪道。... [Hui: ？？不是太赞同，谁说记忆和理解是此消彼长的关系？脑子里要有足够多的东西才能彼此连接，融会贯通，看到事物内部的联系才能加强理解能力，这是一个良性循环。作者这里可能专门指代死记硬背，感觉例子太极端。] 知识和信息的区别是什么？**知识不是信息。知识是有价值观基础的、逻辑化、结构化了的信息。**正如爱因斯坦的名言——“所谓教育，就是当一个人把在学校所学全部忘光之后剩下的东西。”
 
 - 一个人可以做成一些事，但是很少能够做成一些大事。我们需要的是主动走出去，大胆寻求帮助，建立起关联，从而实现更大的愿景。在这个过程中，我收获的不仅是更多优秀的人、更多的资源支持，不仅是在企业管理方面的实践和积累，最最重要的是，我的人生边界得以不断扩大，生命变得更加丰富，视野和格局也更加的开阔。正是这些经历为我构建了一个更大、更高的平台，使我能够在更高的层次上去与这个世界对话。
 

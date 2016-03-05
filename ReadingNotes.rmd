@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Wednesday, Mar 2, 2016"
+date: "Last Update: Friday, Mar 4, 2016"
 output: 
  html_document:
   theme: united
@@ -868,6 +868,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - Optimism does not exist without at least an elementary ability to consider the future, as optimism is by definition a positive belief about what is yet to come, and without optimism, prospection would be devastating. [如果缺少思考未来的基本能力，乐观将不复存在，因为从定义上讲，乐观就是对尚未发生的事情持积极态度；而如果没有乐观，展望未来的能力就会毁灭一切。] 
 
+- The term _self-fulfilling prophecy_ was coined by the sociologist Robert Merton in 1948… Self-fulfilling prophecy is, in the beginning, a false definition of the situation evoking a new behavior which makes the originally false conception come true. [“自证预言” 一词由社会学家罗伯特.默顿在1948年首次提出。自证预言指一开始对形势的错误见解激发的行为，而这一行为却让原本错误的见解成真。]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）

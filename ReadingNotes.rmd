@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Mar 4, 2016"
+date: "Last Update: Saturday, Mar 5, 2016"
 output: 
  html_document:
   theme: united
@@ -869,6 +869,16 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - Optimism does not exist without at least an elementary ability to consider the future, as optimism is by definition a positive belief about what is yet to come, and without optimism, prospection would be devastating. [如果缺少思考未来的基本能力，乐观将不复存在，因为从定义上讲，乐观就是对尚未发生的事情持积极态度；而如果没有乐观，展望未来的能力就会毁灭一切。] 
 
 - The term _self-fulfilling prophecy_ was coined by the sociologist Robert Merton in 1948… Self-fulfilling prophecy is, in the beginning, a false definition of the situation evoking a new behavior which makes the originally false conception come true. [“自证预言” 一词由社会学家罗伯特.默顿在1948年首次提出。自证预言指一开始对形势的错误见解激发的行为，而这一行为却让原本错误的见解成真。]
+
+- Pygmalion effect, after George Bernard Shaw’s play. Shaw’s Pygmalion is a classic makeover tale— the story of a professor who transforms a working-class girl into an upper-class lady. [“皮格马利翁”效应一词源于萧伯纳的戏剧《皮格马利翁》，讲述一个教授把工人阶级的女孩改造成了上流社会的贵妇。]
+
+- In real life, however, educators, as well as the rest of us, hold relatively stable preconceptions that are, in general, not based on real evidence. Teachers have been shown to form predictions regarding new students’ achievements based on race, gender, ethnicity, socio-economic level, and even physical attractiveness. This can be dangerous. Expectations are likely to influence a child’s performance, ultimately altering his future. In fact, the Pygmalion effect is thought to be a significant factor in producing and maintaining gender and racial gaps in IQ testing, GPAs, and college success. [在现实生活中，教育者会和其他人一样持有一定的成见，而这些看法往往不是由真实的证据得出的。研究显示，老师会根据新学生的种族、性别、民族、社会阶层，甚至外貌形成预期。这么做很危险。预期可能会影响孩子的表现，最后改变他们的未来。皮格马利翁效应是导致智商测试、学业平均成绩、大学成就中性别和种族差异的重要因素。]
+
+> Hui: 怎么衡量哪个因素重要？
+
+- When individuals are reminded of their membership in a group (such as gender or race), the stereotype associated with that group is more likely to influence their behavior.
+
+- What Sara Bengtsson’s study shows, as well as Jane Elliott’s field experiment, is that the influence of stereotypes is surprisingly fluid.  New expectations can rapidly take over old ones quickly substituting one behavior for another. This fluidity is encouraging. It means that with guided intervention, we may be able to reverse the negative effects of stereotypes on an individual’s performance.[成见具有惊人的灵活性。新的预期可以很快取代旧的，迅速用一种行为替代另一种。这种灵活性无疑是鼓舞人心的，意味着只要采取加以指导的干预，我们或许可以扭转成见对个人表现带来的负面影响。]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
@@ -2025,8 +2035,20 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 - 要征服一个国家，首先要了解那个国家的基本特征，这样的基本特征类似自然事物的基本特征。一个国家的基本特征可以保持几千年而不改变，因此土耳其的基本特征与波斯的基本特征相同；法兰西的基本特征与高卢的基本特征无异。
 - 人们对往昔自由的记忆不会消失？自由的名字比君主的血脉维持得更长。
 - Machiavelli提请给予Romulus特别关注也许有他的理由。是否在告诉读者，机会无须来自运道？Romulus似乎没有可以利用的机会；也就是说，他的机会要在自己卑贱的出身里去寻找。
-- 国家为实质或内容，人们向实质或内容之中引入统治的形式，也就是国家创建者的心灵和精神的产品。
+- 国家为实质或内容，人们向实质或内容之中引入统治的形式，也就是国家创建者的心灵和精神的产品。那么建立一个国家和获取一个国家哪有区别呢？
 
+> Hui: 实质上没有区别，最后都是要注入新统治者的心灵和精神。
+
+- 依靠他人的军队和运道新近获取的君主国
+    - 依靠他人的军队和运道获得国家的例子是 Cesare Borgia
+    
+    > Cesare Borgia (1476-1507)，教皇亚历山大六世的私生子，野心勃勃的极权主义者，残忍冷酷，不择手段，一生都想用暴力统治意大利甚至周围国家。 这位被后世无数历史学家斥为堪比尼禄、卡里古拉之流的暴君，甚至更残酷邪恶的意大利大公，在《君主论》中是作为最可效法的君主典范和Italy统一的破碎梦想反复出现的。M不吝笔墨地花费了一个章节来论述他生平的成就。
+    
+    - 真正的话题却是如何守住运道突然间带来的东西。
+    - Cesare的过失就是推选Guiliano Rovere为教皇朱利叶斯二世，他的错误在于认为伟人的行为与常人无异。
+    - 第7章不是在谈论靠运道而获取他人疆土的事情。相反地，它还在延伸获取的自然欲望这个主题。...我们看到的是如何在极端条件下，在没有机会，没有军队的条件下获取事物。Alexander和Cesare开始他们获取生涯的时候依靠的不是运道，而且作者也近乎直白地告诉我们，他们失败的原因也不在乎运道。...第7章告诉我们**人依靠智谋可以找到机会，因而智谋可以取代运道。如果运道不好，就必须去做我们指望命运为我们做的事。**...第7章的主题最难理解，也许谈论的是最高层次的获取活动，其中没有运道相助，没有内容可供拿捏，也没有形式用作规约。精神上的坚毅果敢以及深谋远虑是君主需要具备的全部品质。
+    - 与Lorenzo和许多君主一样，Cesare了解的仅仅是民众或者社会底层的人，而且知道民众在目睹一场壮观的行刑时心里既有满足又有惊骇。最佳的榜样人物是既了解君主的秉性，有体察下层民心的人。
+    - 第1章告诉读者获取活动是其中的话题，这样我们就应该认识到，政治统治是有扩张性的。作者没有区分僭政与合法的统治。我们会得出结论，所有统治都是压迫人的统治，因为如果某人的自由或独立要得以保存，那么他就必须破坏别人的自由独立。第2章里什么是自然君主这个问题提了出来。这部著述的余下部分可以说是来回答这个问题的。
      
 
 

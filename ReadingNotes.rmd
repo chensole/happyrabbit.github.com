@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Mar 6, 2016"
+date: "Last Update: Tuesday, Mar 8, 2016"
 output: 
  html_document:
   theme: united
@@ -879,6 +879,14 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - When individuals are reminded of their membership in a group (such as gender or race), the stereotype associated with that group is more likely to influence their behavior.
 
 - What Sara Bengtsson’s study shows, as well as Jane Elliott’s field experiment, is that the influence of stereotypes is surprisingly fluid.  New expectations can rapidly take over old ones quickly substituting one behavior for another. This fluidity is encouraging. It means that with guided intervention, we may be able to reverse the negative effects of stereotypes on an individual’s performance.[成见具有惊人的灵活性。新的预期可以很快取代旧的，迅速用一种行为替代另一种。这种灵活性无疑是鼓舞人心的，意味着只要采取加以指导的干预，我们或许可以扭转成见对个人表现带来的负面影响。]
+
+- When neurons in a specific part of the brain are active, their consumption of oxygen is increased. In response, blood flow will be enhanced to that region, supplying hemoglobin. This leads to local changes in the concentration of deoxyhemoglobin and oxyhemoglobin, which alters the MRI (Magnetic Resonance Imaging) signal that is recorded by the scanner. [大脑某个具体不稳的神经元活动时，耗氧量就会上升。相应区域的血液流量也会增大，提供血红蛋白。这改变了该区域脱氧血红蛋白和氧合血红蛋白的浓度，改变了扫描仪器记录下来的磁共振成像信号。]
+
+- The frontal cortex is a large area of the brain and includes anatomically and functionally distinct subregions. It is the most recently developed part of the brain, and it is not found in animals at the lower end of the evolutionary scale. [额叶皮质时大脑中很大的区域，包括了结构和功能迥然不同的分区，是大脑最后才得以进化的部分，而位于进化链低端的动物甚至没有这个部位。] 
+
+- The frontal cortex has enlarged disproportionately in human evolution relative to the rest of the brain. Its physical development is the main reason why we have a relatively larger brain than most other animals. The frontal lobes are critical for functions that are uniquely human, such as language and theory of mind. Theory of mind is our ability to think about what other people are thinking. [相比于大脑的其它部分，额叶皮质在进化过程中发展得有些不成比例。额叶皮质体积变大也是人类大脑比其它多数动物更大的主要原因。]
+
+- The frontal lobes are critical for functions that are uniquely human, such as language and theory of mind. Theory of mind is our ability to think about what other people are thinking. …Frontal lobes are involved in executive functions. Executive functions are those that enable us to identify future goals and recognize the actions that will move us toward achieving those goals. The ability to predict which behaviors will lead to which outcomes, differentiate desired outcomes from unwanted outcomes and promote actions that lead to the sought-after (追求，探索) results.
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
@@ -2328,6 +2336,9 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 - 谁愿意孤苦一生：若不是情到深处难以自禁，又怎么会热血柔肠冷如霜。
 
 - 分工产生效能。这是经济学大厦的第一块基石。互联网给我们看到了很多“逆分工”的假象，但最终的结局一定是更细密的人类分工。国家的竞争力，不是有多少人口，而是有多少参与到分工协作中的人口，能把多少国际人口卷入到自己的分工体系中。
+
+- When you betray somebody else, you also betray yourself.   
+[by Isaac Bashevis Singer, 1902年11月21日－1991年7月24日,出生于波兰華沙的美国籍猶太人作家，使用意第緒語寫作，短篇小說家，1978年諾貝爾文學獎得主。作品深刻描绘波兰和美国的犹太人生活。] 
 
 
 # Jokes

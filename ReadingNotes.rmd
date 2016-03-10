@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Mar 8, 2016"
+date: "Last Update: Wednesday, Mar 9, 2016"
 output: 
  html_document:
   theme: united
@@ -1600,6 +1600,23 @@ The author discussed the cause and effects of division of labour.
 - **Economics** is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man's conduct in the business part of his life......the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work. 
 
 ## 品牌洗脑 [Brand Washed, Martin Lindstrom]
+
+## Marketing
+
+### Customer Decision Journey
+
+- Build awareness: Do consumers recall and recognize my brand? 
+
+- Influence consideration: Do my products satisfy consumers’ needs?
+
+- Improve sales process: Do my sales efforts result in wins for my brands?
+
+- Reposition the brand: Do the experiences I deliver fulfill customer expectations?
+
+- Grow loyalty: Do consumers advocate for my brands?
+
+![](/Users/happyrabbit/Documents/GitHub/happyrabbit.github.com/images/Notes/CustDecisionJourney.png)
+
 
 # Art     
 

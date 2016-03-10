@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Wednesday, Mar 9, 2016"
+date: "Last Update: Thursday, Mar 10, 2016"
 output: 
  html_document:
   theme: united
@@ -1929,6 +1929,24 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 
 # Data Science
 
+## Data Quality
+
+- Kaushak, Data Quality Sucks, Let’s Just Get Over It, (2006)  
+
+  > 1. Assume those managing the data have a level of comfort with the data; 
+1. Start making decisions that you are comfortable with; 
+1. over time drill deeper in micro specific areas and learn more; 
+1. Get more comfortable with data and its limitations over time; 
+1. Consistency in calculations=Good.
+
+## Data Visualization
+
+Three rules to visualize insights with impact: 
+
+1. Highlight your message and eliminate distractions;
+1. Use visual cues to help lead your audience through your insight; 
+1. Use contrast (size, color) to capture the reader’s attention.
+ 
 ##Big Data (大数据的冲击)
 
 ### What is big data

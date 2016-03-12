@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Mar 10, 2016"
+date: "Last Update: Friday, Mar 11, 2016"
 output: 
  html_document:
   theme: united
@@ -887,6 +887,8 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - The frontal cortex has enlarged disproportionately in human evolution relative to the rest of the brain. Its physical development is the main reason why we have a relatively larger brain than most other animals. The frontal lobes are critical for functions that are uniquely human, such as language and theory of mind. Theory of mind is our ability to think about what other people are thinking. [相比于大脑的其它部分，额叶皮质在进化过程中发展得有些不成比例。额叶皮质体积变大也是人类大脑比其它多数动物更大的主要原因。]
 
 - The frontal lobes are critical for functions that are uniquely human, such as language and theory of mind. Theory of mind is our ability to think about what other people are thinking. …Frontal lobes are involved in executive functions. Executive functions are those that enable us to identify future goals and recognize the actions that will move us toward achieving those goals. The ability to predict which behaviors will lead to which outcomes, differentiate desired outcomes from unwanted outcomes and promote actions that lead to the sought-after (追求，探索) results.
+
+- When the brain doesn’t get what it expects, it frantically tries to figure out what went awry. The signal in the frontal cortex may have been modulating attention...The importance of this signal is that it can facilitate learning. As learning from errors is critical for directing our behavior toward optimal functioning, enhanced attention to errors would lead to better performance on the next trial. 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）

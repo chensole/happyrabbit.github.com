@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Friday, Mar 11, 2016"
+date: "Last Update: Thursday, Mar 17, 2016"
 output: 
  html_document:
   theme: united
@@ -840,7 +840,7 @@ The author pointed out that more of us turn to self-help books for answers to li
 
 - While we do not recognize our own biases, we can often detect biases in others.[我们并不知道这是自己的错觉，不过虽然我们意识不到自己的偏见，但却能发现别人的偏见。]
 
-- Most of us believe we are superior in many ways to other individuals. This means we see ourselves as better, not everyone else as better. Therefore, (a) we all have a slightly different views the world, and (b) we are able to detect cognitive illusions, such as the superiority illusion, in others. Because we can identify these illusion and biases in others but not in ourselves, we conclude that we are less susceptible to bias than most other people. In essence, this means we hold the illusion that we are immune to illusions. This is the irony of cognitive illusions. Our tendency to perceive ourselves as less susceptible to bias than the rest of the human race was termed the bias blind spot by the psychologist Emily Pronin of Princeton University. [大多数人相信自己在很多方面比其他人优秀，这意味着我们认为自己优于别人。这揭示了1）我们对世界的看法会稍有不同；2）我们还能够发现他人的认知错觉，如优势错觉。因为我们能够分辨出别人的错觉和偏见，却发现不了自己的，所以我们认定自己比大多数人更少出现错觉和偏见。我们实际上有这样的错觉，并对这样的错觉是免疫的。这正是认知错觉的讽刺之处。我们自认为比别人有更少的偏见，这称为“偏向盲点”。]
+- **Most of us believe we are superior in many ways to other individuals. This means we see ourselves as better, not everyone else as better. Therefore, (a) we all have a slightly different views the world, and (b) we are able to detect cognitive illusions, such as the superiority illusion, in others. Because we can identify these illusion and biases in others but not in ourselves, we conclude that we are less susceptible to bias than most other people. In essence, this means we hold the illusion that we are immune to illusions. This is the irony of cognitive illusions. Our tendency to perceive ourselves as less susceptible to bias than the rest of the human race was termed the bias blind spot** by the psychologist Emily Pronin of Princeton University. [大多数人相信自己在很多方面比其他人优秀，这意味着我们认为自己优于别人。这揭示了1）我们对世界的看法会稍有不同；2）我们还能够发现他人的认知错觉，如优势错觉。因为我们能够分辨出别人的错觉和偏见，却发现不了自己的，所以我们认定自己比大多数人更少出现错觉和偏见。我们实际上有这样的错觉，并对这样的错觉是免疫的。这正是认知错觉的讽刺之处。我们自认为比别人有更少的偏见，这称为“偏向盲点”。]
 
 - People tend to judge the extent of other people’s bias according to their behavior but judge their own biases according to their internal  feelings, thoughts, and motivations.[大家根据别人的行为来判断其偏见程度，却根据内心感受，想法和动机来判断自己的偏见。]
 Scalia seems to have experienced an **introspection illusion**. An introspection illusion is the strong sense people have that they can directly access the processes underlying their mental states. Most mental processes, however, are largely unavailable for conscious interpretation. The catch is that people are unaware of their unawareness.[内省错觉是指人们的一种强烈感觉，认为自己能够了解决定心理状态的心理过程。大多数心理过程是无法用理性解释的，潜在的不利因素是大家不知道自己的无知。]
@@ -890,7 +890,22 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - When the brain doesn’t get what it expects, it frantically tries to figure out what went awry. The signal in the frontal cortex may have been modulating attention...The importance of this signal is that it can facilitate learning. As learning from errors is critical for directing our behavior toward optimal functioning, enhanced attention to errors would lead to better performance on the next trial. 
 
+- Defensive pessimism: holding low expectations will protect us from disappointment 
+
+- Why would a bleak outlook result in such tragic deaths? It seems that a pessimistic outlook promoted risk-taking behavior because the pessimists believed they did not have much to lose.  Optimists envision a glorious future and are reluctant to disappear into oblivion. 
+
+### When Private Optimism Meets Public Despair
+
+- The people’s urgent need for good news most likely drove positive expectations well above the baseline. It is **during hard times that people rely on optimism the most**. 
+
+- Jonsthan Haidt, a psychologist at the University of Virginia who studies the **feeling of elevation**, describes such instances as **erasing cynicism and generating hope and optimism**. According  to Haidt, such occurrences stimulate the **vague nerve [迷走神经]**, which triggers the release of **oxytocin**. The **vague nerve** is one of the twelve cranial nerves. Its course starts in the **brain stem** [脑干], which is an evolutionarily old part of the brain that plays a key role in regulating vital functions. The nerve extends all the way from the **brain stem** through the neck to the chest and abdomen. It conveys sensory information to the brain that reflects the body’s internal state, as well as sends information from the brain to the rest of the body. **Oxytocin** is produced in the **hypothalamus** [下丘脑] and stored in the **pituitary [垂体]**, which is situated just beneath the **hypothalamus** and secretes hormones. When triggered, oxytocin is discharged into the bloodstream, and it also binds to receptors in the brain, particularly in regions involved in emotional and social processing. **High levels of oxytocin reduce our uncertainty about social stimuli [stimulus的复数]**. 
+
+- Amygdala [杏仁核] engages in processing social signals, especially ambiguous ones. 
+
+- Reduced social stress and uncertainty, along with an increase in approach behavior, should enhance trust among individuals. [社交压力和不确定性减少，亲近行为增多，这些会加强人与人之间的信任。]
+
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
+
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
 1. 游泳选手的身材错觉：混淆选择标准与结果（模特因为漂亮才选来拍化妆品广告，而非因为用了这些产品才漂亮）
 1. 过度自信效应：1）不存在不够自信效应；2）男性更加严重；3）悲观者只是高估幅度少些。

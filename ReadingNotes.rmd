@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Mar 17, 2016"
+date: "Last Update: Tuesday, Mar 22, 2016"
 output: 
  html_document:
   theme: united
@@ -903,6 +903,19 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - Amygdala [杏仁核] engages in processing social signals, especially ambiguous ones. 
 
 - Reduced social stress and uncertainty, along with an increase in approach behavior, should enhance trust among individuals. [社交压力和不确定性减少，亲近行为增多，这些会加强人与人之间的信任。]
+
+- Why do we see such a disconnect? Why is it that people continually underestimate their own risks while overestimating the severity of the situation for the rest of society? **People tend to feel more optimistic about things they believe they can control.** 
+
+> Hui: 这就是哪些公司高层对公司未来总是那么乐观的原因么？与其说有远见，不如说是局内人的偏见，控制的幻觉。好的一方面是，可能他们不是在撒谎忽悠，他们真心积极向上。但是形式不会因为不经过分析的主观积极就有改善，那要如何纠正这样的偏差呢？数据分析。
+
+- There is one additional factor that comes into play—the power of relativity. Our brain plays a little trick that boosts positive illusions. Not only do people hold optimism bias about their personal future; in addition, they hold a pessimistic bias about everyone else’s.  
+
+
+### The Unexpected Ingredient for Well-being
+
+- Studies show that just taking care of a plant is positively related to well-being. 
+
+- What else is related to happiness? According to the survey, of you hold a PhD, go to church (or another religious center), and play sports, you are seven times more likely to be happy-go-lucky than someone who does not have a PhD, never goes to church, and shuns physical activity. 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 

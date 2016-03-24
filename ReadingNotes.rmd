@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Mar 22, 2016"
+date: "Last Update: Wednesday, Mar 23, 2016"
 output: 
  html_document:
   theme: united
@@ -916,6 +916,8 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - Studies show that just taking care of a plant is positively related to well-being. 
 
 - What else is related to happiness? According to the survey, of you hold a PhD, go to church (or another religious center), and play sports, you are seven times more likely to be happy-go-lucky than someone who does not have a PhD, never goes to church, and shuns physical activity. 
+
+- The notion that raising children is negatively related to happiness was supported by a study conducted by Daniel Kahneman. Kahneman (prospect theory: how people make decision under uncertainty). What really matters is when, and how often, we feel irritated, anxious, satisfied. Our happiness is thus not affected to a large extent by reflecting on our lives, but by the flood of feelings that are constantly generated within us. However, most of questionnaires of subjective well-being ask us to reflect and assess our general satisfaction with life rather than our daily experienced happiness…The consistent conclusion across studies that children do not necessarily bring us joy conflicts with conventional wisdom in a striking manner. Why do individuals insist and often strongly believe, that their happiness is rooted in the existence of their offsprings? One explanation is that happiness, whether experienced or reflected, is not necessarily the most significant factor for the continuation of humankind. Passing on our genes, on the other hand, is. 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 

@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Saturday, Mar 26, 2016"
+date: "Last Update: Sunday, Mar 27, 2016"
 output: 
  html_document:
   theme: united
@@ -922,6 +922,14 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 - What else is related to happiness? According to the survey, of you hold a PhD, go to church (or another religious center), and play sports, you are seven times more likely to be happy-go-lucky than someone who does not have a PhD, never goes to church, and shuns physical activity. 
 
 - The notion that raising children is negatively related to happiness was supported by a study conducted by Daniel Kahneman. Kahneman (prospect theory: how people make decision under uncertainty). What really matters is when, and how often, we feel irritated, anxious, satisfied. Our happiness is thus not affected to a large extent by reflecting on our lives, but by the flood of feelings that are constantly generated within us. However, most of questionnaires of subjective well-being ask us to reflect and assess our general satisfaction with life rather than our daily experienced happiness…The consistent conclusion across studies that children do not necessarily bring us joy conflicts with conventional wisdom in a striking manner. Why do individuals insist and often strongly believe, that their happiness is rooted in the existence of their offsprings? One explanation is that happiness, whether experienced or reflected, is not necessarily the most significant factor for the continuation of humankind. Passing on our genes, on the other hand, is. 
+
+- A higher income may indeed influence reflected satisfaction with life without significantly enhancing our experienced happiness.
+
+- **Focusing illusion**: exaggerated importance we attribute to specific aspects of our lives when we are asked about them.
+
+- The importance of relative wealth to our well-being explains counterintuitive findings in the literature, such as why an increase in a nation’s GDP over time is not accompanied by in increase in general subjective well-being. While the country may be getting wealthier, the individual’s relative economic status remains the same, and thus happiness stays constant. Relativity is a crucial aspect of human psychology. Consider the way we perceive our physical environment. The extent of change that needs to occur in the sat of our surroundings in order for us to notice a difference is dependent on preliminary states… Therefore the more you have the more you need to increase your wealth in order to even notice a difference that would affect your happiness.
+
+- Andrew Yonelinas, a psychologist renowned for his dual-process theory of recognition: memory retrieval includes two distinct processed **familiarity** and **recollection**.
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 
@@ -2472,3 +2480,17 @@ Three rules to visualize insights with impact:
     1. 我的人生就像西直门的立交桥，你是永远都不可能找到方向的。
     1. 别闹了，这世界上怎么会有女汉子呢？只不过都是些又穷又丑的女吊丝罢了。
     1. 你不可能一辈子绝望下去的，时间久了就习惯了呗。
+- 说个上大学时候的事，寝室有位仁兄，整天对着电脑玩魔兽，衣服差不多一个星期洗一次，每次都是一大堆全放进盆里，用洗衣粉泡着，十几分钟后用水一冲搞定，问他都不用刷也不用揉的吗？这牲口瞟都没瞟我一眼回句：我用的是奥妙全自动。奥妙全自动？全自动？
+- 晚自习的时候考试，拿出手机搜答案，突然，老师把灯一关，我……亮了。
+- 感觉别人都是吃几口就饱了，而我是吃饱了还能再吃几口…
+- 心情不好我就坐公交车，坐在有长头发后面的给她剪头发。(Hui: 谁家养大的熊孩子，主意这么损你爸妈知道么？)
+- 在学校宿舍，我杯子里的水总被偷喝，用涂改液在杯子上写了：“别喝！”水还是不断减少，某天吃完药，剩两片不想再吃了，顺手扔杯子里了，第二天早晨来刚坐下，听见后方某男生低沉的声音幽怨地说：“够狠的啊，下药了！”
+- 话说有一个美国小伙来中国留学，跟同宿舍的一个中国同学很是要好，俩人约定互相教对方语言，一年后，中国小伙顺利的通过了英语八级考试，而美国小伙则操着一口流利的河南话回到了美国。
+- 下午去求个佛珠，小和尚告诉我说：方丈去进货了。
+- 我一生气就想买东西,一买东西就得花钱,一花钱钱就少,钱一少我就生气。
+- 只要瘦，什么都百搭，要是胖，什么都白搭。
+- 几个吊丝出去秋游，坐车的时候，售票员问：你们从哪里来，要去哪里啊？ 他们幽默地齐声答道：“我们从东土大唐而来，要到西天取经去。。。”全车的人都笑了。售票员回道：“几位大师坐错车了，我这是往东南方向的，往西去的请到路对面去坐！”其中一个来了句：“那我们先去南海见下观音姐姐....”
+- A：“帮我想个旅游节目宣传语，需要主题明确，意境突出，既能尊重别人，又可以突出自己。内容要略带性感，不显浮华，最好让人听一遍就记住。” B：“……大爷，来玩撒！”
+- 红孩儿到底是不是牛魔王的儿子？铁扇公主会不会跟太上老君有什么不可告人的关系？芭蕉扇是太上老君摘的，却在铁扇公主手里；牛魔王根本不会三昧真火，红孩儿却天生就会。。。真TMD耐人寻味！吴承恩下了很大一盘棋？！
+- 火车上，一乘客对乘务员说：“给我来瓶可乐，多少钱？” 乘务员：“8块。”乘客：“多大一瓶的？”乘务员：“就是外面卖3块钱的那种!”
+- 上小学的时候，在路边买了个小葫芦，上课的时候偷偷在下面玩，不巧却被老师发现，问我在干什么，我不知道哪来的勇气，脑残的把葫芦举起来，对着他，说了一句：“我叫你一声，你敢答应吗......”

@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Sunday, Mar 27, 2016"
+date: "Last Update: Monday, Mar 28, 2016"
 output: 
  html_document:
   theme: united
@@ -929,7 +929,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - The importance of relative wealth to our well-being explains counterintuitive findings in the literature, such as why an increase in a nation’s GDP over time is not accompanied by in increase in general subjective well-being. While the country may be getting wealthier, the individual’s relative economic status remains the same, and thus happiness stays constant. Relativity is a crucial aspect of human psychology. Consider the way we perceive our physical environment. The extent of change that needs to occur in the sat of our surroundings in order for us to notice a difference is dependent on preliminary states… Therefore the more you have the more you need to increase your wealth in order to even notice a difference that would affect your happiness.
 
-- Andrew Yonelinas, a psychologist renowned for his dual-process theory of recognition: memory retrieval includes two distinct processed **familiarity** and **recollection**.
+- Andrew Yonelinas, a psychologist renowned for his dual-process theory of recognition: memory retrieval includes two distinct processed **familiarity** and **recollection**. These two memory processes have been shown to be functionally and neuro-anatomically distinct. They rely on different brain regions within the medial part of the temporal lobes.[两个记忆过程（熟悉感和回忆）在功能和神经解剖方面都有不同。两者依赖大脑额叶中部的不同区域。] While a region called the hippocampus [海马体] is crucial for **recollection** but not for **familiarity**, the adjacent perirhinal cortex [鼻周皮层] signals familiarity. Amnesiacs [健忘症患者] who have sustained damage to the hippocampus but whose surrounding cortex is intact usually suffer impaired recollection, but they know when something is familiar. They may know they have met you before, but they will have no memory of the episodic context of the encounter. 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 
@@ -2436,6 +2436,8 @@ Three rules to visualize insights with impact:
 - When you betray somebody else, you also betray yourself.   
 [by Isaac Bashevis Singer, 1902年11月21日－1991年7月24日,出生于波兰華沙的美国籍猶太人作家，使用意第緒語寫作，短篇小說家，1978年諾貝爾文學獎得主。作品深刻描绘波兰和美国的犹太人生活。] 
 
+- Do not take life too seriously. You will never get out of it alive.[Elbert Green Hubbard]
+
 
 # Jokes
 
@@ -2494,3 +2496,10 @@ Three rules to visualize insights with impact:
 - 红孩儿到底是不是牛魔王的儿子？铁扇公主会不会跟太上老君有什么不可告人的关系？芭蕉扇是太上老君摘的，却在铁扇公主手里；牛魔王根本不会三昧真火，红孩儿却天生就会。。。真TMD耐人寻味！吴承恩下了很大一盘棋？！
 - 火车上，一乘客对乘务员说：“给我来瓶可乐，多少钱？” 乘务员：“8块。”乘客：“多大一瓶的？”乘务员：“就是外面卖3块钱的那种!”
 - 上小学的时候，在路边买了个小葫芦，上课的时候偷偷在下面玩，不巧却被老师发现，问我在干什么，我不知道哪来的勇气，脑残的把葫芦举起来，对着他，说了一句：“我叫你一声，你敢答应吗......”
+- 小时候的的三大偶像：雷锋、张海迪、小兵张嘎。简称“雷迪嘎嘎”
+- 人生就像高压锅。压力太大的时候自己就熟了。
+- 如果我能原谅你的庸俗，那么你能原谅我的装逼么？
+- 蓝精灵对着阿凡达唱：“长大后，我就成了你”。
+- 本人女，身高165，特羡慕那些娇小依人的小女生。某天晚上我弱弱的问道：老公，你是不是特羡慕那些老婆小鸟依人型的？我好像这辈子也没个机会了…老公看都木有看我一眼，说：“没关系，我是杨过。”心下暗喜，难道老公以为我是小龙女般的~“为什么呀？”想不到这厮来了句：身边跟个大雕。。。[Hui: Haha~~]
+- Get your facts first, then you can distort them as you please.[MT]
+- All you need in this life is ignorance and confidence, and then success is sure. [MT]

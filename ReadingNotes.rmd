@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Monday, Mar 28, 2016"
+date: "Last Update: Tuesday, Mar 29, 2016"
 output: 
  html_document:
   theme: united
@@ -931,6 +931,20 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - Andrew Yonelinas, a psychologist renowned for his dual-process theory of recognition: memory retrieval includes two distinct processed **familiarity** and **recollection**. These two memory processes have been shown to be functionally and neuro-anatomically distinct. They rely on different brain regions within the medial part of the temporal lobes.[两个记忆过程（熟悉感和回忆）在功能和神经解剖方面都有不同。两者依赖大脑额叶中部的不同区域。] While a region called the hippocampus [海马体] is crucial for **recollection** but not for **familiarity**, the adjacent perirhinal cortex [鼻周皮层] signals familiarity. Amnesiacs [健忘症患者] who have sustained damage to the hippocampus but whose surrounding cortex is intact usually suffer impaired recollection, but they know when something is familiar. They may know they have met you before, but they will have no memory of the episodic context of the encounter. 
 
+- Having extremely vivid memories of past emotional experiences and only weak memories of past everyday events means we maintain a biased perception of the past. The two other principal factors that lead us to mis-predict what will make us happy are the same ones that make us mis-predict what will devastate us: 
+    1. our tendency to underestimate our rapid adaptation to almost any new circumstance; 
+    1. when we think about how a higher income, more vacation time, or better health will affect our happiness, we tend to focus on that one factor and disregard everything else which will stay the same. [聚焦幻觉] 
+
+- While severely depressed patients are pessimistic, mildly depressed people are actually pretty good at predicting what may happen to them in the near future—a phenomenon known as _depressive realism_. [抑郁现实主义] 
+
+- The optimism bias is crucial ingredient for keeping us happy. When people perceive the future accurately, when they are well aware that none of the things people assume will make them happy is likely to have any lasting significance on their well-being, when they take off their rose-tinted glasses and see things more clearly, them become depressed—clinically depressed.
+
+> Hui: We need to keep the optimism bias to be happy?? Why can’t we just accept who we are? 
+
+### When things go wrong: depression, interpretation, and genes
+
+- The notion of optimistic and pessimistic explanatory styles was put forward by the psychologist **Martin Seligman**. He came up “_learned helplessness_".
+
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 
 1. 幸存偏差：由于日常生活中更容易看到成功而非失败，使得人们高估成功的希望（创业）
@@ -1185,10 +1199,45 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 
 > Hui: 我觉得对这本书的评价和你从事的职业很有关系。我的主要工作是分析，其中很大一部分是预测，所以我特别喜欢Nassim的作品。他主要是研究生活中的随机性，什么事件可以预测，什么事件不可预测。如果不是对随机性特别感兴趣的人会觉得他的书有些无厘头。他的书帮助你思考从过去、已知和已观察到的东西中学习的困难。他指出了一个我们很容易犯的逻辑错误，我们很容易认为无证据拒绝某零假设意味着零假设是正确的。这也是传统统计推断中存在的问题。学了这么多年统计，不仅仅对p值的意义，我对整个统计假设检验的意义是什么也有疑问，除了发论文和得到FDA批准以外到底还能干什么？
 
+### Prologue
+
+- The inability to predict outliers implies the inability to predict the course of history. 
+
+- I disagree with the followers of Marx and Adam Smith: the reason free markets work is because they allow people to be lucky, thanks to aggressive trial and error, not by giving rewards or “incentives” for skill.
+
+> Hui: what doesn’t allow people to be lucky?
+
+- We do not spontaneously learn that we don’t learn what we don’t learn.
+
+> Hui: Similar as “we don’t know that we don’t know”. 
+
+- We humans are not just a superficial race (this may be curable to some extent); we are a very unfair one.
+
+- Platonicity is what makes us think that we understand more than we actually do. 
+
+> Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know......I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday. 
+
+### The apprenticeship of an empirical skeptic
+
+apprenticeship /ə'prɛntɪʃɪp /
+
+- The human mind suffers from 3 ailments as it comes into contact with history (_triplet of opacity_):
+    1. the illusion of understanding, or how everyone thinks he knows what is going on in a world that is more complicated (or random) than they realize [了解世界的幻觉]
+    
+         > Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。
+         
+    1. the retrospective distortion, or how we can assess matters only after the fact, as if they were in a rearview mirror (history seems clearer and more organized in history books than in empirical reality) [马后炮偏差]
+    
+         > Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”
+         
+    1. the overvaluation of factual information and the handicap of authoritative and learned people, particularly when they create categories—when they “Platonify” [高估事实实际信息的价值]
+
+>  Hui: The retrospective distortion reminds me a quote from Mark Twain: “Get your facts first, then you can distort them as you please." : )
+
 ## 反直觉思考                                 
 ## 直面内心的恐惧  
 
-> Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们去的心智的成长。
+> Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。
 
 ## Predictably Irrational2 [Ariely, Dan]
 ## 三十六计                                 

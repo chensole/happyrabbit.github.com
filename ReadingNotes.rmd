@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Tuesday, Mar 29, 2016"
+date: "Last Update: Wednesday, Mar 30, 2016"
 output: 
  html_document:
   theme: united
@@ -944,6 +944,8 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 ### When things go wrong: depression, interpretation, and genes
 
 - The notion of optimistic and pessimistic explanatory styles was put forward by the psychologist **Martin Seligman**. He came up “_learned helplessness_".
+
+- The most commonly prescribed antidepressants are drugs that enhance the function of the neurotransmitter serotonin. A neurotransmitter is a chemical that enables communication between neurons in the brain. 
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 
@@ -2486,7 +2488,7 @@ Three rules to visualize insights with impact:
 [by Isaac Bashevis Singer, 1902年11月21日－1991年7月24日,出生于波兰華沙的美国籍猶太人作家，使用意第緒語寫作，短篇小說家，1978年諾貝爾文學獎得主。作品深刻描绘波兰和美国的犹太人生活。] 
 
 - Do not take life too seriously. You will never get out of it alive.[Elbert Green Hubbard]
-
+- 要知道，活着，钱虽然不是万能的，但是没钱却是万万不能的。金钱虽然无法避免生老病死，但是至少可以提升你的抗风险能力，让你更从容的面对接受磨难并且积极地寻找解决方式。即使最后还是避免不了最坏的结局，至少可以让接受这个结局的过程更加体面和有尊严。
 
 # Jokes
 
@@ -2552,3 +2554,6 @@ Three rules to visualize insights with impact:
 - 本人女，身高165，特羡慕那些娇小依人的小女生。某天晚上我弱弱的问道：老公，你是不是特羡慕那些老婆小鸟依人型的？我好像这辈子也没个机会了…老公看都木有看我一眼，说：“没关系，我是杨过。”心下暗喜，难道老公以为我是小龙女般的~“为什么呀？”想不到这厮来了句：身边跟个大雕。。。[Hui: Haha~~]
 - Get your facts first, then you can distort them as you please.[MT]
 - All you need in this life is ignorance and confidence, and then success is sure. [MT]
+- 刘备问诸葛亮“你最喜欢是歌手是谁”。诸葛亮说“Justin Bieber”。刘备又问“为什么”？  
+诸葛亮回答：“因为我特别喜欢他的一首歌”。刘备好奇的说“唱两句听听呗”。诸葛亮脸一红，唱到：“备备，备备，备备，哦…”
+- 如果世界上只剩下他和一块砖头，我一定用板砖拍死他……

@@ -104,7 +104,7 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 - Is love an art? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is matter of chance, something one "falls into" if one is lucky?
 
-> Hui: The author answered this question in the next Chapter "The Theory of love". he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in **freedom** never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can't give. 
+> <span style="color:blue">Hui: The author answered this question in the next Chapter "The Theory of love". he believes love is active not passive; it is a “standing in” not “falling for”; It is practiced by human power in **freedom** never a result of compulsion. What does the “active character of love” mean? It means that love is primarily giving not receiving. In the next chapter, the author will discuss what is giving and what if a person can't give. </span>
 
 - What most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal...Our whole culture is based on the appetite for buying, on the idea of mutually favorable exchange...."Attractive" usually means **a nice package of qualities** which are popular and sought after on the **personality market**.
 
@@ -113,7 +113,7 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 - The experience of separateness arouses anxiety; it is, indeed, the source of all anxiety...The awareness of human separation, without reunion by love--is the source of shame. It is at the same time the source of guilt and anxiety...Man is confronted with the solution of one and the same question: the question of how to overcome separateness, how to achieve union, how to transcend one’s own individual life and find atonement...The answer varies. The question can be answered by animal worship, by human sacrifice or military conquest, by indulgence in luxury, by ascetic renunciation [n. 放弃，脱离关系], by obsessional work, by artistic creation, by the love of God, and by the love of Man...The answer depends, to some extent, on the degree of individuation which an individual has reached...The more the human race emerges from these primary bonds, the more it separates itself from the natural world, the more intense becomes the need to find new ways of escaping separateness.
 
-> Hui: "Separateness" is a key concept in Erich Fromm's work. In his book "Escape from freedom", Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:  
+> <span style="color:blue"> Hui: "Separateness" is a key concept in Erich Fromm's work. In his book "Escape from freedom", Erich said human escape from freedom because they want to escape separateness. He stated three ways of achieving this aim:  </span>
 
 1. In all kinds of orgiastic state...orgiastic union have three characteristics: (1) they are intense, even violent; (2) they occur in the total personality, mind and body; (3) **the unity is transitory**.  
 
@@ -121,7 +121,7 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 1. In creative activity (artist, artisan). In any kind of creative work the creating person unites himself with his material, which represents the world outside of himself. It is **not interpersonal**  
 
-> Hui: In the author's view, all the three are only partial answers to the problem of existence. The full answer is the **interpersonal union by love** which is the most powerful striving in man. Failing to achieve means destruction (self or others).
+> <span style="color:blue">Hui: In the author's view, all the three are only partial answers to the problem of existence. The full answer is the **interpersonal union by love** which is the most powerful striving in man. Failing to achieve means destruction (self or others).</span>
      
 - The **dictatorial system** use threats and terror to induce this conformity; the **democratic countries**, suggestion and propaganda.There is, indeed, one great difference between the two systems...But actually people want to conform to a much higher degree than they are forced to conform, at least in the Western democracies.
      
@@ -133,16 +133,16 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
      
 - **Mature love** is union under the condition of _preserving one's integrity, one's individuality_. (contrast to symbiotic union). Two beings become one and yet remain two. 
 
-> Hui: Discussion around "giving":
+> <span style="color:blue">Hui: Discussion around "giving":</span>
 
 - Giving is the highest expression of **potency**.
 - It is well known that the poor are more willing to give than the rich. Nevertheless, poverty beyond a certain point may make it impossible to give, and is so degrading, not only because of the suffering it causes directly, but because of the fact that **it deprives the poor of the joy of giving**.
 
-> Hui: It reminds me a sentence from the book “Maxims” which says:"What we call liberality is often but the vanity of giving which we like more than that we give away." The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people's mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason." We are too stupid to be complicated. We are just sinful and making each other’s life tough.
+> <span style="color:blue">Hui: It reminds me a sentence from the book “Maxims” which says:"What we call liberality is often but the vanity of giving which we like more than that we give away." The word “vanity” has negative connotation here. It is not a graceful motivation to give but it is not bad either. At least people with this mind are willing to give. Only God can see people's mind perfectly. Other than God, who knows what is real under the sun? That is why making judgement about others is dangerous because all we can see is (part of) people’s behavior and you don’t know what are in people’s heart. On the other hand, we are judging all the time since we have to make a decision. I like the analogue saying “human are living on a dial of a clock. We can never open the back to examine how it works. We see what we see and guess the reason." We are too stupid to be complicated. We are just sinful and making each other’s life tough.</span>
 
 - **Love is a power which produces love; impotence is the inability to produce love.**
 
-> Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive. 
+> <span style="color:blue">Hui: I like this way to describe love and impotence! Being a potent person is to be someone who can produce and give love not just receive. </span>
 
 
 ## Escape from Freedom [逃避自由, Erich Fromm]
@@ -187,7 +187,7 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 - The most dangerous folly of old persons who have been lovable is to forget that they are no longer so. 
 
-> Hui: hope it is not that bad……
+> <span style="color:blue">Hui: hope it is not that bad……</span>
 
 - In love the quickest is always the best cure. 
 - **Few knows how to be old.**
@@ -203,7 +203,7 @@ geom_bar(position="fill")+ coord_flip()+ ylab("Percentage") + xlab("Category")
 
 ## The Tibetan Book of Living and Dying [西藏生死书，Sogal Rinpoche]
 
-> Hui: 这本书让你严肃系统的思考死亡，从藏传佛教的角度讲述生死。这本书意在写给西方人看的，结合了中西方思想，时而引入基督教的例子，相对其它佛教书籍更加通俗易懂。书的核心观点是我们从出生的那一刻开始就在准备死亡，好好活着是为了最终能够好好死去。书中指出一切都是无常，看穿我执的虚妄，理解无常，回归本性。虽然对许多地方有疑问，但还是非常推荐这本书。看过之后或许能向不畏死，亦能好好活跨进一步。
+> <span style="color:blue">Hui: 这本书让你严肃系统的思考死亡，从藏传佛教的角度讲述生死。这本书意在写给西方人看的，结合了中西方思想，时而引入基督教的例子，相对其它佛教书籍更加通俗易懂。书的核心观点是我们从出生的那一刻开始就在准备死亡，好好活着是为了最终能够好好死去。书中指出一切都是无常，看穿我执的虚妄，理解无常，回归本性。虽然对许多地方有疑问，但还是非常推荐这本书。看过之后或许能向不畏死，亦能好好活跨进一步。</span>
 
 ### Living [生]
 
@@ -231,7 +231,7 @@ Prana: 呼吸
 - Perhaps the deepest reason why we are afraid of death is because we do not know who we are.
 - Without our familiar props, we are faced with just ourselves, **a person we do not know, an unnerving stranger with whom we have been living all the time but we never really want to meet**.
 
-> Hui: 我们被各种各样的刺激、快感催眠(hypnotize)，生活渐渐沦为手段淹没目的的过程。不知道自己是谁，不知道为什么活着。
+> <span style="color:blue">Hui: 我们被各种各样的刺激、快感催眠(hypnotize)，生活渐渐沦为手段淹没目的的过程。不知道自己是谁，不知道为什么活着。</span>
 
 - Just look at your mind for a few minutes. You will see that it is like a flea, constantly hopping to and fro. 
 - The birth of a man is the birth of his sorrow. The longer he lives, the more stupid he becomes, because his anxiety to avoid unavoidable death becomes more and more acute. What bitterness! He lives for what is always out of reach! His thirst for survival in the future makes him incapable of living in the present. (人之生也，与忧俱生。寿者昏昏，久忧不死。何苦也！其为形也，亦远矣！《庄子至乐篇》)
@@ -250,22 +250,22 @@ Prana: 呼吸
 - There is nothing wrong with the desire to be happy, but what we grasp on to is by nature ungraspable. The Tibetans say you cannot wash the same dirty hand twice in the same running river, and, "No matter how much you squeeze a handful of sand, you will never get oil out of it."
 - How can we work to overcome attachment? Only by realizing its impermanent nature; this realization slowly releases us from its grip. 
 
-> Hui: understand and accept uncertainty. being mortal
+> <span style="color:blue">Hui: understand and accept uncertainty. being mortal</span>
 
 - Nothing has any **inherent** existence of its own when you really look at it, and this absence of independent existence is what we call "emptiness".
 
-> Hui: It reminds me the beginning of Ecclesiastes.   
-**[Ecclesiastes 1:2-10]** "Everything is meaningless", says the Teacher, "completely meaningless!" What do people get for all their hard work under the sun? Generations come and generations go, but the earth never changes. The sun rises and the sun sets, then hurries around to rise again. The wind blows south, and then turns north. Around and around it goes, blowing in circles. Rivers run into the sea, but the sea is never full. Then the water returns again to the rivers and flows out again to the sea. No matter how much we see, we are never satisfied. No matter how much we hear, we are not content. History merely repeats itself. It has all been done before. Nothing under the sun is truly new. Sometimes people say, "Here is something new!" But actually it is old; nothing is ever truly new.
+> <span style="color:blue">Hui: It reminds me the beginning of Ecclesiastes.   
+**[Ecclesiastes 1:2-10]** "Everything is meaningless", says the Teacher, "completely meaningless!" What do people get for all their hard work under the sun? Generations come and generations go, but the earth never changes. The sun rises and the sun sets, then hurries around to rise again. The wind blows south, and then turns north. Around and around it goes, blowing in circles. Rivers run into the sea, but the sea is never full. Then the water returns again to the rivers and flows out again to the sea. No matter how much we see, we are never satisfied. No matter how much we hear, we are not content. History merely repeats itself. It has all been done before. Nothing under the sun is truly new. Sometimes people say, "Here is something new!" But actually it is old; nothing is ever truly new.</span>
 
 - Always recognize the dreamlike qualities of life and reduce attachment and aversion. (认知生命有如梦幻，减少执著和嗔怨)
 
-> Hui: 无所不有是**全**，一无所有是**空**。全是面子，空是里子。什么都是也就无所谓是什么，等于什么都不是，意识到这一点，就可以放下了。
+> <span style="color:blue">Hui: 无所不有是**全**，一无所有是**空**。全是面子，空是里子。什么都是也就无所谓是什么，等于什么都不是，意识到这一点，就可以放下了。</span>
 
 #### The Nature of Mind[心性]
 - "the homage of the View" It is a devotion that springs spontaneously from seeing the View of the nature of mind.(“知见皈依”这是从看到心性的知见而当下产生的恭敬心。)
 - **Life and death are in the mind, and nowhere else.**
 
-> Hui: It resonates what Bible says. Jesus came to show us the way, teach us the truth and invite us to find life. As Jesus said to the Samaritan woman:"Anyone who drinks this water will soon become thirsty again. But those who drink the water I give will never be thirsty again. It becomes a fresh, bubbling spring within them, giving them eternal life." Indeed, life and death depend on your mind, your faith. 
+> <span style="color:blue">Hui: It resonates what Bible says. Jesus came to show us the way, teach us the truth and invite us to find life. As Jesus said to the Samaritan woman:"Anyone who drinks this water will soon become thirsty again. But those who drink the water I give will never be thirsty again. It becomes a fresh, bubbling spring within them, giving them eternal life." Indeed, life and death depend on your mind, your faith. </span>
 
 - There are many aspects to the mind, but two stand out.   
      1. Ordinary mind, called by the Tibetans _sem_. One master defines it:"That which possesses discriminating awareness, that which possesses a sense of duality--which grasps or rejects something external--that is mind. Fundamentally it is that which can associate with an 'other'--with any 'something', that is perceived as different from the perceiver."(凡夫心，分别，相对心)
@@ -274,7 +274,7 @@ Prana: 呼吸
 - When a much larger number of people know the nature of their minds, they'll know also the glorious nature of the world they are in, and struggle urgently and bravely to preserve it. It's interesting that the word for "Buddhist" in Tibetan is _nangpa_. It means "insider-er": someone who seeks the truth not outside, but within the nature of mind.
 - The central truth of Buddha's teaching: that we are all already essentially perfect.
 
-> Hui: I don't agree that we are already essentially perfect.
+> <span style="color:blue">Hui: I don't agree that we are already essentially perfect.</span>
 
 #### Bringing the Mind Home [把心带回家]
 - In fact, we are already perfectly trained by and for samsara, trained to get jealous, trained to grasp, trained to be anxious and sad and desperate and greedy, trained to react angrily to whatever provokes us. We are trained, in fact, to such an extent that these negative emotions rise spontaneously, without our even trying to generate them. 
@@ -299,7 +299,7 @@ Prana: 呼吸
 - The mantra "Om Ah Hung Benza Guru Pema Siddi Hung" is uniquely powerful for peace, healing, transformation and protection in this violent, chaotic age. 
 - There is a famous saying:"_If the mind is not contrived, it is spontaneously blissful, just as water, when not agitate, is by nature transparent and clear._"
 
-> Hui: But why is human heart so easily disturbed? we are BORN WITH SIN!
+> <span style="color:blue">Hui: But why is human heart so easily disturbed? we are BORN WITH SIN!</span>
 
 - In meditation, as in all arts, there has to be a delicate balance between relaxation and alertness.
 - Ancient meditation instructions:
@@ -361,18 +361,18 @@ Voltaire 伏尔泰
 ## Gravity and Grace [重负与神恩, Simone Weil] 
 
 
-> Hui: 这是我在2012年读的一本书，书很薄但很实，没有废话。Weil认为，不幸是绝对的。人的存在的不幸是无法消除的。她尖锐的地指出任何社会形态——哪怕是最近完美的社会形态都不能消除人的不幸，不幸不同于不义，所以革命不能代替人的救赎，而只能掩盖不幸，忽略看轻人的不幸，这也就是柏拉图所谓的猛兽式的社会性残忍。“爱是一种神圣的东西。若深入内心，就会将它撕裂。人心被创造出来就是供撕裂的。当它被其它东西撕裂时，就是最可悲的浪费。但它宁可被其它东西撕裂而不是被神圣的爱。因为神圣的爱只撕裂自愿被撕裂的心。这种自愿是困难的。”从一个基督徒的角度，我对这句话的理解是我们只有摒弃过去的自己（也就是所谓的撕裂），将自己交给神，相信神，才能得到永恒的神恩。神恩的翻译是Grace，我及其喜欢这个关于Grace的定义： “Grace is God's kindness, his love, his care, his work on our behalf, his blessings, his gifts, his goodness, his forgiveness, and his salvation. But it is more than that--it is all these things **when they are undeserved**, when they are **pure gift**”.   只有来自神恩的爱才能够改变我们，改变接受神恩的人，也改变了这些接受神恩后向其他人传递神恩的人。为什么放弃原来那个自己那么困难？因为骄傲，我们放不下内心的骄傲，便无法接受神的恩典。这种放下和自愿被撕裂当然是困难的，否则神恩来的太便宜了。    
-此外，作者认为包含真理的思想存在于不同的宗教经典，文学与科学著作中，真理遵循不同的途径显示在人们的精神中。比如希腊几何学和诗歌，中国的道教，埃及的俄赛里斯教，印度佛经等，都融合了圣经所包含的真理。
+> <span style="color:blue">Hui: 这是我在2012年读的一本书，书很薄但很实，没有废话。Weil认为，不幸是绝对的。人的存在的不幸是无法消除的。她尖锐的地指出任何社会形态——哪怕是最近完美的社会形态都不能消除人的不幸，不幸不同于不义，所以革命不能代替人的救赎，而只能掩盖不幸，忽略看轻人的不幸，这也就是柏拉图所谓的猛兽式的社会性残忍。“爱是一种神圣的东西。若深入内心，就会将它撕裂。人心被创造出来就是供撕裂的。当它被其它东西撕裂时，就是最可悲的浪费。但它宁可被其它东西撕裂而不是被神圣的爱。因为神圣的爱只撕裂自愿被撕裂的心。这种自愿是困难的。”从一个基督徒的角度，我对这句话的理解是我们只有摒弃过去的自己（也就是所谓的撕裂），将自己交给神，相信神，才能得到永恒的神恩。神恩的翻译是Grace，我及其喜欢这个关于Grace的定义： “Grace is God's kindness, his love, his care, his work on our behalf, his blessings, his gifts, his goodness, his forgiveness, and his salvation. But it is more than that--it is all these things **when they are undeserved**, when they are **pure gift**”.   只有来自神恩的爱才能够改变我们，改变接受神恩的人，也改变了这些接受神恩后向其他人传递神恩的人。为什么放弃原来那个自己那么困难？因为骄傲，我们放不下内心的骄傲，便无法接受神的恩典。这种放下和自愿被撕裂当然是困难的，否则神恩来的太便宜了。    
+此外，作者认为包含真理的思想存在于不同的宗教经典，文学与科学著作中，真理遵循不同的途径显示在人们的精神中。比如希腊几何学和诗歌，中国的道教，埃及的俄赛里斯教，印度佛经等，都融合了圣经所包含的真理。</span>
 
 - 两种力量主宰着宇宙：光(light)和重力(gravity)。重负，一般地说，人们期待他人的事是我们身上的重负效果决定的；人们从他人那里得到的由他人身上重负效果所决定。**为何一旦有人表示有一点，或非常需要别人时，别人会选择远离？重负所致。** 灵魂的一切自然的运动受物质万有引力一类的规律制约。唯有神恩例外。
 
-> Hui: 神的爱是无条件的。
+> <span style="color:blue">Hui: 神的爱是无条件的。</span>
 
 - 在这种情况下，我至少由有好几次忍不住说出伤人之语。向重负屈服了。这是大逆不道。话语的功能就是如此被滥用，话语是用来表达事物关系的。
 - 伤害他人，就是要从中得到什么。得到什么呢？当伤害他人时，赢得了什么？人们扩展了自己。发展了自己。在他人身上建立虚无以填平自身的虚无。
 - 若想到上帝不存在而爱上帝，他将会显示他的存在。
 
-> Hui: 我们对上帝的爱也需要是无条件的。
+> <span style="color:blue">Hui: 我们对上帝的爱也需要是无条件的。</span>
 
 - 一切虚空，（不被接受）产生仇恨、刻薄、苦涩、积怨。人们盼望自己所恨的遭到恶报，以及人们想象的饿恶重建起了平衡。
 - 创造是一种矮的行为，它是永久的。我们存在的每时每刻都是上帝对我们的爱。但上帝只能爱自己。他对我们的爱是通过我们去爱他自己。因此，是他赋予我们存在，他爱我们而甘愿不存在。......我们的存在只是由于他的期待，由于我们不同意不存在造成的他永久地向我们乞求他赋予我们的这个存在。他把存在给予我们是为了向我们乞求它。......正是上帝出自爱而离开我们，以便我们能爱他。因为倘若我们直接沐浴在他的爱的辉映下而没有空间、时间和物质的掩护，我们就会像阳光中的水一样蒸发掉；我们就不会有足够的我可以为了爱而放弃那个“我”。
@@ -385,28 +385,28 @@ Voltaire 伏尔泰
 - 我身上具有的精力，天赋等等，又有何用？我受够了，可以消失了。......当我在某处时，我的呼吸，我的心跳，会玷污天上和地下的宁静。
 - 必然的两面：行使必然和承受必然。阳光(sunshine)和十字架(cross)。......服从必然而非服从束缚。......行为是天平的指针。不应触碰指针，而是触碰砝码。......惟有完全的超脱才能使人透过骗人的价值的迷雾看到赤裸的事物。
 
-> Hui: 如何完全超脱呢？
+> <span style="color:blue">Hui: 如何完全超脱呢？</span>
 
 - 我们接受在我们面前显现的虚假的价值，当我们认为在行动时，实际上我们静止未动，因为我们依然处在同样的价值体系中。......有关尘世事物的错觉并不涉及其存在，而是其价值。
 - 我们身上源于撒旦的东西便是想象。
 
-> Hui: I don't understand it.
+> <span style="color:blue">Hui: I don't understand it.</span>
 
 - 期限，对于文明来说是以世纪计数，对于个人来说是以年，数十年计数，它具有一种不适者消亡的达尔文式的功能。
 - 在屈辱中，傲慢使内在的谎言越来越大。......所有无价值的东西都逃避光照。在尘世，人可以借肉体隐藏自身。死后就办不到了。人就赤裸裸地把自己交付给光照。
 
-> Hui: 和西藏生死书里的观点类似。
+> <span style="color:blue">Hui: 和西藏生死书里的观点类似。</span>
 
 - 人们不可能面对面见到上帝而不死，但人们并不愿死。......肉体并非是使我们远离上帝的东西，它是我们遮在面前的帷幕以在我们和上帝之间制造屏障。
 
-> Hui: 人一边说爱着上帝，要追随上帝，一边却又紧紧抓住尘世的光阴。我至今也不明白为什么。或许在活着的时候就是为了要努力的修行，使我们能够在死时见到上帝而不逃离，抓住那光明，并且于光明同在。所以我们在准备，一直在准备，我们抓住尘世，是因为觉得自己还没有准备好。
+> <span style="color:blue">Hui: 人一边说爱着上帝，要追随上帝，一边却又紧紧抓住尘世的光阴。我至今也不明白为什么。或许在活着的时候就是为了要努力的修行，使我们能够在死时见到上帝而不逃离，抓住那光明，并且于光明同在。所以我们在准备，一直在准备，我们抓住尘世，是因为觉得自己还没有准备好。</span>
 
 - 渴望躲避孤独是一种胆怯行为。......模仿上帝是一种不良企图。
 - 恶，当人们身处恶中时它并不被感知为恶，而是被感知为必然性或者责任。
 - 只有在无望使距离的意识变得无法容忍并且将痛苦转变为仇恨时，相应的犯罪才会产生。
 - 人们无法注视人可能做的恶和可能承受的恶的规模而不感到恐惧。......只有处在他人无法再伤害我们的境地时，我们才可能厌恶对他人造成伤害（于是爱他人就像爱过去的自己一样是有限的）
 
-> Hui: 非常喜欢这两句
+> <span style="color:blue">Hui: 非常喜欢这两句</span>
 
 - 若这世上没有不幸，我们会以为自己在天堂。有一种不幸是：人们无力承受它延续下去，也无力从中摆脱出来。......有两种想法会减轻一点不幸。一是不幸即可就会停止，另一种不幸永不止息。
 - 苦难，教育和转化。被授予宗教奥义者不应是学到些什么，而是在他们自身实现某种转化，这种转化使他们能接受教育。
@@ -418,7 +418,7 @@ Voltaire 伏尔泰
 - 上帝把自己奉献给人，作为强大无比者或者作为完美无缺者——由人自己选择。
 - 基督十字架的秘密在于某种矛盾中，因为这即是一种自愿的奉献，又是一种他身不由己受到的惩罚。
 
-> Hui: “自愿”源自于上帝的仁慈和爱；“身不由己”则因为人性中的罪。
+> <span style="color:blue">Hui: “自愿”源自于上帝的仁慈和爱；“身不由己”则因为人性中的罪。</span>
 
 - 她否认上帝在自然中留下的不确定性和“无根据”的余地，而这种余地使自由和奇迹得以进入尘世。同样，在事实上，重负确实是强大无比的：圣.托马斯承认，大部分人的行为是受命于感官的盲目的欲望，并屈从于星辰的决定性的.[原编者注]
 
@@ -426,32 +426,32 @@ Voltaire 伏尔泰
 
 - 凡是存在的东西绝对不值得爱。因此，应爱不存在之物。
 
-> Hui:不太理解这点，那么神存不存在呢？抑或这里讲的的世俗意义的存在，而非精神。
+> <span style="color:blue">Hui:不太理解这点，那么神存不存在呢？抑或这里讲的的世俗意义的存在，而非精神。</span>
 
 - 信念（这里所说的是对自然的一种超自然的阐释）是一种建立在超自然经验基础上的通过类比做出的**臆测**。......神秘主义是人类品性的惟一源泉。因为，不相信在尘世的幕后有无限的慈悲，或是相信这种慈悲在幕前，两者都使人变得残忍。
 
-> Hui:也就是说，以作者看信念是一种主观想象，而非客观存在。
+> <span style="color:blue">Hui:也就是说，以作者看信念是一种主观想象，而非客观存在。</span>
 
 - 只有当我们在内心深处需要某种表示什么意义的声音，当我们呼叫以求得回音而我们却得不到回音时，只有这时，我们才触及上帝的沉默。
 - 在两个不曾体验过上帝的人中间，否认上帝的人也许离上帝最近。
 
-> Hui:怀疑否认比不假思索的盲信要好。
+> <span style="color:blue">Hui:怀疑否认比不假思索的盲信要好。</span>
 
 - 专注，从其最高程度上来说同祈祷是一回事。它意味着信念和爱。专注丝毫不分心就是祈祷。高度的专注就是构成人的创造才能的东西，而惟有宗教的专注才是高度的专注。......若人们不把注意力从上帝的启示上挪开，若人们不拒绝这种启示，那么上帝的启示必定会不可抗拒的发生。对于上帝的启示，并无选择可做，只需要不拒绝承认它的存在。怀着爱把专注专向上帝（或转向更低层次，一切真正美的东西），这使一些事难以实现。这就是灵魂中祈祷的不起作用的行文。我不必担心不拼命努力。条件仅仅是不自欺并要专心。
 - 极端的纯洁性可注视纯洁，也可注视非纯洁；非纯洁性两者均不能；前者使它害怕，后者将它吸收。
 
-> Hui:纯洁具有包容吸收的能力。海纳百川，有容乃大。能被玷污的，是因为原本就不够干净；能被伤害的，是因为原本就不够强大。
+> <span style="color:blue">Hui:纯洁具有包容吸收的能力。海纳百川，有容乃大。能被玷污的，是因为原本就不够干净；能被伤害的，是因为原本就不够强大。</span>
 
 - 要触及不可能，必须完成可能。应在规定的时间完成职责，以确信外部世界的实在。应确信时间的实在，不然，就在幻想。
 - 假如在此之后和余生之中自己会成白痴，真理却继续存在。
 - 若人人都始终按照自己所读的正义来行事，公正与不公正之间的差别又是什么？
 - 美：是一种人们看着它而不向它伸手的水果。
 
-> Hui: 占有有可能既是破坏。
+> <span style="color:blue">Hui: 占有有可能既是破坏。</span>
 
 - 我们一定是犯下了使我们被诅咒的罪过，因为我们已失去了宇宙的一切诗歌。
 
-> Hui: 这句话看了好难过啊。
+> <span style="color:blue">Hui: 这句话看了好难过啊。</span>
 
 - 艺术只有在大混乱中才能产生......因为不幸会使许多事情变得简单。
 - 现代生活全由过度摆布，过度侵入一切：行为和思维，公众和私人生活。由此造成艺术的堕落。任何地方都没有平衡。时光在流逝中，销蚀，摧毁了世俗的东西。因此，在过去中有比现在更多的永恒。
@@ -465,11 +465,11 @@ Voltaire 伏尔泰
 The word **taboo** is of Australian origin.
 [在一个社会中，如果任何事情都被认为是由看不见的生灵操纵的，那么社会要维持下去，就必须绝对服从能平息神灵怒火的律法。]
 
-> Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don't want to worry about the necessity of laws.
+> <span style="color:blue">Hui: I wonder more about who is going to give the law and if God is the one, how are we supposed to know the laws we are given are really from God. I don't want to worry about the necessity of laws.</span>
 
 - Whether the taboo was an _**invention of the priests**_ or _**the priesthood was created to maintain the taboo**_ is a problem which had not yet been solved. As tradition is much older than religion, it seems more than likely that taboos existed long before the world had heard of sorcerers and witchdoctors. [究竟是祭司发明了禁忌，还是为了维护禁忌才产生了祭司，这是尚待解决的问题。由于传统比宗教更为源远流长，因此很可能早在男巫师和女巫婆问世之前禁忌就存在了。]
 
-> Hui: According to the author, does he mean that **the priesthood was created to maintain the taboo**?
+> <span style="color:blue">Hui: According to the author, does he mean that **the priesthood was created to maintain the taboo**?</span>
 
 What we sometimes mistake for tolerance was merely indifference caused by ignorance. The struggle for tolerance did not begin until after the discovery of the individual. And the credit for this, the greatest of all modern revelations, belongs to the Greeks. [我们有时看到的宽容，实际上是由于无知导致的漠不关心。为宽容的斗争直到个性被发现后才开始，在现代最伟大的新发现中，个性发现这一荣誉应归功于希腊人。]
 
@@ -504,7 +504,7 @@ What we sometimes mistake for tolerance was merely indifference caused by ignora
       1. 人格是稳定的，我们可以跨时间、跨情境地来审查这些稳定的行为方式。
       2. 内部过程， 它是从人的内心发生，影响人行为、感觉的所有情绪、动机和认知过程。
 
-> Hui: 该定义没有提到环境，而是着眼与个体层面，研究那些在不同情境下相对稳定的行为方式和内部心理过程。但是环境对人格还是会产生影响的，只是程度不同，这与背后存在共性并不矛盾。
+> <span style="color:blue">Hui: 该定义没有提到环境，而是着眼与个体层面，研究那些在不同情境下相对稳定的行为方式和内部心理过程。但是环境对人格还是会产生影响的，只是程度不同，这与背后存在共性并不矛盾。</span>
 
 ## Social Psychology [社会心理学, David G. Myers, 8th Edition]
 ### Introducing Social Psychology
@@ -600,9 +600,9 @@ We suffer from a tendency to define religion too narrowly. We tend to think that
 - To some extent the religion of most adults is a product of transference [移情].Most of us operate from a narrower frame of reference than that of which we are capable, failing to transcend the influence of our particular culture, our particular set of parents and our particular childhood experience upon our understanding. **It is no wonder that the world of humanity is so full of conflict. We have a situation in which human being, who must deal with each other, have vastly different views as to the nature of reality, yet  each one believes his/her own view to be the correct one since it is based on the microcosm of personal experience. And to make matters worse, most of us are not even fully aware of our own world views, much less the uniqueness of the experience from which they are derived.**  
 [许多成年人的信仰其实是移情的产物。我们毕竟不是超人，无法超越文化，父母和童年经验的影响，只能根据狭窄的人生参照系来待人处事。人们的感受和观点起源于过去的经验，却很少意识到经验并不是放之四海皆准的法则，他们对自己的世界观并没有完整而深入的认识。]
 
-> Hui:  Here is a short conversation with my best friend:  
+> <span style="color:blue">Hui:  Here is a short conversation with my best friend:  
 Q: What is wrong with the world?  
-A: There are people.  
+A: There are people.  </span>
 
 - 最有活力，最适合我们的信仰，理应从我们对现实的经验和认识中产生。经由质疑，挑战，检验的信仰，才是属于我们的信仰。...我想要真正地活着，就必须有自己的语言，拥有独一无二的怀疑与挑战的意识。我们有了自己的信仰，才能有成熟的心灵。[To be vital, to be best of which we are capable, our religion must be a wholly personal one, forged entirely through the fire of our questioning and doubting in the crucible of our own experience of reality…So for mental health and spiritual growth we must develop our own personal religion and not rely on that of our parents.]
 
@@ -629,7 +629,7 @@ A: There are people.
 
 - **Our failure to conduct — or to conduct fully and whole heartedly —this internal debate between good and evil is the cause of those evil actions that constitute sin** ... It is work to hold these internal debates. They require time and energy just to conduct them...For laziness takes forms other than that related to the bare number of hours spent on the job or devoted to one’s responsibilities to others. A major form that laziness takes is fear ... **Each of us represents the whole human race; within each of us is the instinct for godhood and the hope for mankind, and within each of us is the original sin of laziness**. [**我们回避内心的善恶辩论，就产生了许多构成原罪的邪恶行为。**...完成心灵的辩论需要努力，需要时间，需要坚强的意志。...懒惰与你花多少时间工作，如何对待别人尽职尽责没有多少关系。懒惰的一个主要特征就是恐惧感。... 在每一个人的身体中都拥有向往神性的本能，都有达到完美境界的欲望，同时也都有懒惰的原罪。]
 
-> Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。
+> <span style="color:blue">Hui: 不仅仅是行为上的懒惰，更是思想上的懒惰。如La Rochefoucauld在Maxims中说的：“We have more idleness in the mind than in the body.” 我们觉得累了，不想进行善恶的争辩，于是就听之任之。</span>
 
 - First, I have come to conclude that evil is real. It is not the figment of the imagination of a primitive religious mind feebly attempting to explain the unknown…My second conclusion then is that **evil is laziness carried to its ultimate, extraordinary extreme**…I define evil, then, as the exercise of political power—that is, the position of one’s will upon others by overt or covert coercion—in order to avoid extending one’s self for the purpose of nurturing spiritual growth…My third conclusion is that the existence of evil is inevitable, at least at this stage in human evolution…Last, I have come to conclude that while entropy is an enormous force, in its most extreme force of human evil. It is strangely ineffective as a social force. [首先，我相信邪恶是真实存在的，它并非原始宗教为解释某些不可知现象而凭空捏造的一种概念。...第二，所谓邪恶就是为所欲为，横行霸道式的懒惰。...关于“邪恶”，我们可以给出这样的定义：邪恶式运用一切影响力阻止他人心智成熟与自我完善的行为。...第三，至少到目前人类进化的这一阶段，邪恶式不可避免的。...最后，熵是一种强大的力量，是人性极恶的体现。]
 
@@ -674,7 +674,7 @@ A: There are people.
 
 ## The paradox of choice [选择的悖论, Barry Schwartz]
  
-> Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。
+> <span style="color:blue">Hui:作者Barry Schwartz主要讨论的悖论是：更多的选择和自由并不能带来更大的幸福。那些总是想要做出最优选择的人可能拥有更大的世俗眼中的成功，但那些满足于“足够好”的选择的人更快乐。其中涉及到人们做出选择时受到的锚定效应，框架效应，易得性偏差等的影响。在身份的焦虑中，阿兰.德波顿也有提到更多的自由其实也是产生焦虑的原因之一。</span>
 
 ### 自由的重担
 
@@ -760,15 +760,15 @@ A: There are people.
 
 The author pointed out that more of us turn to self-help books for answers to lives that feel in need of fixing. The phenomenon indicates our rising levels of _insecurity_ and _self-doubt_ and the stealthy(悄然的，秘密的) psychologising of American culture as a whole. Self-help industry is meme of popular psychology. **Meme** is defined by **Richard Dawkins** in his _The Selfish Gene_ as "an idea, behaviour or style that spreads from person to person within a culture". It is like today's "Big Data" or "Data Science"......The major selling points of self-help book is to keep things simple and manageable. The social environment is complex. There are innumerable variables contribute to even a simple human activity. According to **"chaos theory"**, even small local variations can produce a truly bewildering variety of outcomes--so great in fact as to render prediction virtually impossible, even in a closed, deterministic system. 
 
-> Hui: In the era of "Internet of Things", everything is connected. A slight move in one part may affect the situation as a whole. The consequence can be amplified/changed through the network. It is getting harder to predict and control. We badly need recipe to simplify this complicating world. At least, myself always wonder. The principle of **Occam's razor** advocates the virtue of parsimony. In statistical world, it means when two models provide similar results, always choose the simpler one. However, for our current situation, I agree with the author that even the most economical explanations at our disposal may still be too complicate. 
+> <span style="color:blue">Hui: In the era of "Internet of Things", everything is connected. A slight move in one part may affect the situation as a whole. The consequence can be amplified/changed through the network. It is getting harder to predict and control. We badly need recipe to simplify this complicating world. At least, myself always wonder. The principle of **Occam's razor** advocates the virtue of parsimony. In statistical world, it means when two models provide similar results, always choose the simpler one. However, for our current situation, I agree with the author that even the most economical explanations at our disposal may still be too complicate. </span>
 
 > Oscar Wilde: The truth is rarely pure and never simple
 
 - In the mysterious world of particle physics, Superstring Theory remains the most promising candidate to provide us with a workable "Theory of Everything". This is the Grail of modern physics, the theoretical framework that will finally allow physicists to reconcile the uneasy bedfellows of quantum physics and general relativity. However as Brian Greene points out in _The Elegant Universe_, although the theory looks sound, the maths involved is proving so complex that even the best mathematical brains in the world are currently struggling to make the highly convoluted sums add up.
 
-> Hui: I don't think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people's decision making may fit better here. 
+> <span style="color:blue">Hui: I don't think it is a good example here. The general relativity also looks elegant but is mathematically hard to prove. An example on how the increasing information availability complicates people's decision making may fit better here. </span>
  
-> Hui: I agree that the world is complicated. But what can we do?
+> <span style="color:blue">Hui: I agree that the world is complicated. But what can we do?</span>
 
 ### Myth 1: The root of all your problems is low self-esteem
 ### Myth 2: Let your feelings out!
@@ -791,11 +791,11 @@ The author pointed out that more of us turn to self-help books for answers to li
 - Independent studies have shown that while for non-depressed people positive affirmations do appear to dampen down levels of responsiveness in the amygdala (_effectively the 'fear center' of the brain_), for depressed people the opposite effect is produced: the amygdala becomes more rather than less active while the affirmations are being rehearsed. 
 - Whereas positive mood seems to **promote creativity, flexibility, cooperation and reliance on mental shortcuts**, negative mood trigger more attentive, careful thinking, paying greater attention to the external world [Joseph Forgas, professor of social psychology]
 
-> Hui: There is a reason for everything's existence. We need both sides and the key is to keep balance as in a million other situations.
+> <span style="color:blue">Hui: There is a reason for everything's existence. We need both sides and the key is to keep balance as in a million other situations.</span>
 
 - Depressed people are also better at sequential decision-making. they accept options less readily which led to longer search and better choices. Depression, by fostering greater persistence many improve performance in certain task.
 
-> Hui: I doubt it. 1) how to define better choice? 2) does longer search lead to better choice or increase the likelihood of making better choice? I think the ability of making choice is developed overtime. 3) persistence is personality which is relative stable across time and situation. I can’t imagine depressed people are more persistent or being depressed will make you hold on longer. How they collected the data and do analysis? How they choose samples? Are those samples representative?
+> <span style="color:blue">Hui: I doubt it. 1) how to define better choice? 2) does longer search lead to better choice or increase the likelihood of making better choice? I think the ability of making choice is developed overtime. 3) persistence is personality which is relative stable across time and situation. I can’t imagine depressed people are more persistent or being depressed will make you hold on longer. How they collected the data and do analysis? How they choose samples? Are those samples representative?</span>
 
 ### Myth 7: We need to talk......
 ### Myth 8: Whatever your problem, CBT is the answer
@@ -816,7 +816,7 @@ The author pointed out that more of us turn to self-help books for answers to li
 ### Myth 23: We must all strive to be happy
 ## The Optimism Bias [Tali Sharot]
 
-> Hui: 作者Tali Sharot提出其实人类的大脑习惯于乐观的看待事物，这种乐观有利于人类生存，比如我们有着“优势错觉”。我们信心十足地认为自己比一般人更有趣，更有魅力，更友好，更成功。当人问起时，我们表面不会承认，但是内心却对自己的判断笃信不疑。作者指出大部分人都过度乐观（抑郁症患者除外），而那些我们认为悲观的人同样过度乐观，只是偏离程度低些。书中同样谈到了之前推荐的几本书中提到的一些认知偏差，如聚焦错觉，享乐适应，控制错觉等等。 
+> <span style="color:blue">Hui: 作者Tali Sharot提出其实人类的大脑习惯于乐观的看待事物，这种乐观有利于人类生存，比如我们有着“优势错觉”。我们信心十足地认为自己比一般人更有趣，更有魅力，更友好，更成功。当人问起时，我们表面不会承认，但是内心却对自己的判断笃信不疑。作者指出大部分人都过度乐观（抑郁症患者除外），而那些我们认为悲观的人同样过度乐观，只是偏离程度低些。书中同样谈到了之前推荐的几本书中提到的一些认知偏差，如聚焦错觉，享乐适应，控制错觉等等。 </span>
 
 ### Illusions of the Human Brain
 
@@ -880,7 +880,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - In real life, however, educators, as well as the rest of us, hold relatively stable preconceptions that are, in general, not based on real evidence. Teachers have been shown to form predictions regarding new students’ achievements based on race, gender, ethnicity, socio-economic level, and even physical attractiveness. This can be dangerous. Expectations are likely to influence a child’s performance, ultimately altering his future. In fact, the Pygmalion effect is thought to be a significant factor in producing and maintaining gender and racial gaps in IQ testing, GPAs, and college success. [在现实生活中，教育者会和其他人一样持有一定的成见，而这些看法往往不是由真实的证据得出的。研究显示，老师会根据新学生的种族、性别、民族、社会阶层，甚至外貌形成预期。这么做很危险。预期可能会影响孩子的表现，最后改变他们的未来。皮格马利翁效应是导致智商测试、学业平均成绩、大学成就中性别和种族差异的重要因素。]
 
-> Hui: 怎么衡量哪个因素重要？
+> <span style="color:blue">Hui: 怎么衡量哪个因素重要？</span>
 
 - When individuals are reminded of their membership in a group (such as gender or race), the stereotype associated with that group is more likely to influence their behavior.
 
@@ -912,7 +912,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - Why do we see such a disconnect? Why is it that people continually underestimate their own risks while overestimating the severity of the situation for the rest of society? **People tend to feel more optimistic about things they believe they can control.** 
 
-> Hui: 这就是哪些公司高层对公司未来总是那么乐观的原因么？与其说有远见，不如说是局内人的偏见，控制的幻觉。好的一方面是，可能他们不是在撒谎忽悠，他们真心积极向上。但是形式不会因为不经过分析的主观积极就有改善，那要如何纠正这样的偏差呢？数据分析。
+> <span style="color:blue">Hui: 这就是哪些公司高层对公司未来总是那么乐观的原因么？与其说有远见，不如说是局内人的偏见，控制的幻觉。好的一方面是，可能他们不是在撒谎忽悠，他们真心积极向上。但是形式不会因为不经过分析的主观积极就有改善，那要如何纠正这样的偏差呢？数据分析。</span>
 
 - There is one additional factor that comes into play—the power of relativity. Our brain plays a little trick that boosts positive illusions. Not only do people hold optimism bias about their personal future; in addition, they hold a pessimistic bias about everyone else’s.  
 
@@ -941,7 +941,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - The optimism bias is crucial ingredient for keeping us happy. When people perceive the future accurately, when they are well aware that none of the things people assume will make them happy is likely to have any lasting significance on their well-being, when they take off their rose-tinted glasses and see things more clearly, them become depressed—clinically depressed.
 
-> Hui: We need to keep the optimism bias to be happy?? Why can’t we just accept who we are? 
+> <span style="color:blue">Hui: We need to keep the optimism bias to be happy?? Why can’t we just accept who we are? </span>
 
 ### When things go wrong: depression, interpretation, and genes
 
@@ -977,7 +977,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 1. 讨喜偏误：我们会觉得一个人讨喜，若此人 1）颜值高；2）和我们相似；3）喜欢我们。不要被一时感情冲昏头脑。
 1. 禀赋效应：我们对自己拥有的东西估值更高。让我们放弃要比让我们囤积难。这解释了我们为什么会在房子里堆满废物，也说明了为什么邮票、手表或者艺术品收藏者很少交换出售藏品。禀赋效应不仅神话了我们已有的财产，甚至神话了可能会拥有的财产。在拍卖中有“赢家的诅咒”：拍卖的赢家反而是经济上的输家，因为他出价过高。......结论：勿过于执著于某物，理解来去无常。
 
-      > Hui: 这让我想起focusing illusion
+  > <span style="color:blue">Hui: 这让我想起focusing illusion</span>
 
 1. 奇迹：小概率事件可以发生，不要过度解释。
 1. 团体迷思：一群智慧的人做出愚蠢的决定，因为每个人都误以为自己的意见是正确的共识，从而作出他们每个人在正常情况下都会拒绝的决定。这是从众心理的一种特殊情况。（Pig bay evation）
@@ -987,11 +987,11 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 1. 忽视基本概率：创业的成功率就是那么低，无论你多努力，多聪明，你都更可能失败。意识到基本概率。
 1. 赌徒谬误：连续出现红球，下一个更可能是黑球么？注意是否是独立事件。现实生活中的事件大多数有相互联系。
 
-       > Hui:总觉得这个和均值回归有冲突啊
+   > <span style="color:blue">Hui:总觉得这个和均值回归有冲突啊</span>
   
 1. 锚定效应（Anchor effect）
 
-       > Hui: 这个简直家喻户晓。之后在Predictable Irrational会讲到。
+   > <span style="color:blue">Hui: 这个简直家喻户晓。之后在Predictable Irrational会讲到。</span>
        
 1. 归纳法（induction）：generalize results from small sample.我们自欺欺人。很少生病的人觉得自己不会死。连续几个季度利润增长CEO觉得自己不可缺少。人类一直成功因此我们可以征服未来的挑战（只有那些幸存到现在的物种才能这么说。）**以我们存在的事实来说明将来我们也会存在，是一个严重的思维错误——估计是最严重的**。 
 1. 损失规避：人们害怕失去某种东西的想法要比获得某种同等价值的东西的想法强烈。我们无法改变：恶比善更有影响力。我们对不利的东西反应要比对有利东西反应敏感。一张凶恶的脸要比一张友善的脸更容易引起我们注意。**恶行要比善行更永久地留存在我们的记忆里。当然也有例外：事关我们自己的时候。**
@@ -1023,7 +1023,7 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 ## Thinking Fast and Slow [Daniel Kahneman]
 
-> Hui: 作者Daniel Kahneman因为前景理论（prospect theory）获得诺贝尔奖，主要研究人们在不确定的情况下做出决策。他是研究之前推荐的这几本书中提到的所有认知偏差的鼻祖。对人类决策感兴趣的小伙伴不能不读这本书。
+> <span style="color:blue">Hui: 作者Daniel Kahneman因为前景理论（prospect theory）获得诺贝尔奖，主要研究人们在不确定的情况下做出决策。他是研究之前推荐的这几本书中提到的所有认知偏差的鼻祖。对人类决策感兴趣的小伙伴不能不读这本书。</span>
 
 belladona: 一种使人瞳孔变大的物质
 
@@ -1036,7 +1036,7 @@ belladona: 一种使人瞳孔变大的物质
 
 > 系统1是自主运行的，我们无法随意使其停止，因此认知错觉无法避免。时刻启动系统2保持警醒并不是一种好的思维方式，会让我们的生活非常枯燥乏味，也不现实。最好的方法是学会妥协：用系统1进行日常抉择，区别常会出现重大错误的情境，在风险很高的时候，尽力避免这些错误。
 
-> Hui: 自我控制需要能量，系统2使用过度会消耗过多的能量而无法自控。区分在什么事情上使用系统2非常重要。
+> <span style="color:blue">Hui: 自我控制需要能量，系统2使用过度会消耗过多的能量而无法自控。区分在什么事情上使用系统2非常重要。</span>
 
 ### Ch2: 电影的主角与配角
 
@@ -1088,7 +1088,7 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
   - 日托所罚金案例： 一旦社会规范与市场规范发生碰撞,社会规范就会退出。换言之,社会规范很难重建。一旦这朵盛开的玫瑰从枝头落下——一旦社会规范被市 场规范打败——它很难发挥任何效力。
   - 强调雇佣关系中社会性的一面所能营造出的亲善氛围。社会规范(例如共同创业的兴奋)强于市场规范(例如薪金随晋升而增加)时,员工能为公司(特 别是那些刚起步的公司)创造的价值的确令人瞩目。如果企业开始从社会规范角度思考,实际上,它们会认识到社会规范可以建立忠诚,更重要的是,它使人们自我发展,达到如今企业的要求:实行弹性工作制,关心公司,并且积 极参与公司事务。这正是社会性关系带来的。......多一些社会规范,少一些市场规范,我们的生活会变得更惬意,更有创造力,更充实,而且更有乐趣。
   
-> Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。
+> <span style="color:blue">Hui: 这和《经济学通识》中提倡的让市场决定一切的观点相反。</span>
 
 ### Procrastination and Self-control
 - Procrastination:无法延迟满足导致的结果
@@ -1101,7 +1101,7 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
      
 ### The Price of Proprietorship
 
-> Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高
+> <span style="color:blue">Hui: 这就是之间《清醒思考的艺术》中讲的禀赋效应：我们对自己拥有的东西估值更高</span>
 
 - 为什么多种选择使我们迷失主要目标？
      - 例子：项羽破釜沉舟，饿死在草堆间的驴
@@ -1193,7 +1193,7 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 ## 了凡四训 [袁了凡]
 ## 欲望心理学  
 
-> Hui: 作者休.麦凯。这本书是一篇篇文章的集结，试图解读驱使人行为背后的欲望。书中探讨了10种欲望，它们在本质上并无好坏之分，而只是人性中的一部分。 欲望激励我们前进，但当欲望得不到满足时，很可能会产生恶意的想法。理解学习人性的欲望，有助于我们更好的控制它们，选择生活而不是被生活选择。
+> <span style="color:blue">Hui: 作者休.麦凯。这本书是一篇篇文章的集结，试图解读驱使人行为背后的欲望。书中探讨了10种欲望，它们在本质上并无好坏之分，而只是人性中的一部分。 欲望激励我们前进，但当欲望得不到满足时，很可能会产生恶意的想法。理解学习人性的欲望，有助于我们更好的控制它们，选择生活而不是被生活选择。</span>
 
 ## 社会心理学                                 
 ## Social Physics [智慧社会, Pentland, Alex]
@@ -1209,17 +1209,17 @@ James Assael, Salvador Assael (peark king, James' son), black pearl from black-l
 
 - I disagree with the followers of Marx and Adam Smith: the reason free markets work is because they allow people to be lucky, thanks to aggressive trial and error, not by giving rewards or “incentives” for skill.
 
-> Hui: what doesn’t allow people to be lucky?
+> <span style="color:blue">Hui: what doesn’t allow people to be lucky?</span>
 
 - We do not spontaneously learn that we don’t learn what we don’t learn.
 
-> Hui: Similar as “we don’t know that we don’t know”. 
+> <span style="color:blue">Hui: Similar as “we don’t know that we don’t know”.</span> 
 
 - We humans are not just a superficial race (this may be curable to some extent); we are a very unfair one.
 
 - Platonicity is what makes us think that we understand more than we actually do. 
 
-> Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know......I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday. 
+> <span style="color:blue">Hui: what you know << what you think you know (I agree). Even I so clearly know that I AM STUPID, still what I know << what I think I know......I wish I could learn more. The feeling of ignorance bothered me so much but now I consider it as my life-time friend. Because I don’t see any hope I can not being ignorant, I think it is a better idea just be friend with it. My goal now change to be less ignorant today than yesterday. </span>
 
 ### The apprenticeship of an empirical skeptic
 
@@ -1228,11 +1228,11 @@ apprenticeship /ə'prɛntɪʃɪp /
 - The human mind suffers from 3 ailments as it comes into contact with history (_triplet of opacity_):
     1. the illusion of understanding, or how everyone thinks he knows what is going on in a world that is more complicated (or random) than they realize [了解世界的幻觉]
     
-         > Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。
+         > <span style="color:blue">Hui: 我们以为我们生活的世界比它实际上更加可理解，可解释，可预测。</span>
          
     1. the retrospective distortion, or how we can assess matters only after the fact, as if they were in a rearview mirror (history seems clearer and more organized in history books than in empirical reality) [马后炮偏差]
     
-         > Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”
+         > <span style="color:blue">Hui: 我们太容易马后炮了。很多发生过的事情尽管当时感觉很疯狂，但是回过头看就没有那么疯狂。我们总能够将历史事件通过某种因果关系串联起来。作者认为这种事后合理性在表面上降低了事件的稀有性，并使事件看上去具有可理解性。之后作者提出：“历史不会爬行，只会跳跃[History does not crawl, it jumps]”。 作者认为我们的头脑是超强解释机器，介乎可以从任何事物中分析出道理，还不愿意接受不可预测的事实。“Our minds are wonderful explanation machines, capable of making sense out of almost anything, capable of mounting explanations for all manner of phenomena, and generally incapable of accepting the idea of unpredictability”</span>
          
     1. the overvaluation of factual information and the handicap of authoritative and learned people, particularly when they create categories—when they “Platonify” [高估事实实际信息的价值]
     
@@ -1249,7 +1249,7 @@ apprenticeship /ə'prɛntɪʃɪp /
 ## 反直觉思考                                 
 ## 直面内心的恐惧  
 
-> Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。
+> <span style="color:blue">Hui: 作者弗里兹.李曼通过他行医多年的经历，归纳出四种恐惧的原型：害怕把自己交出去（分裂），害怕做自己（忧郁），害怕改变（强迫），害怕既定规律（歇斯底里）。大部分人都是四种原型的混合，极度偏向任何一种都是病态的。因此我们可能经历过每种基本的恐惧，但是没有哪一个在我们身上独霸一方，因此我们能够克服这些恐惧，每战胜一次恐惧，我们就淬炼的更加坚韧。了解自己心中不安和恐惧的来源，或许能够帮助我们更好的克服它们取得心智的成长。</span>
 
 ## Predictably Irrational2 [Ariely, Dan]
 ## 三十六计                                 
@@ -1263,7 +1263,7 @@ apprenticeship /ə'prɛntɪʃɪp /
 
 - 我一直认为一个人越是接近事物的本质,他就越是生活得更好。
 
-> Hui: 生活的本质是什么？
+> <span style="color:blue">Hui: 生活的本质是什么？</span>
 
 - 智慧是一码事,精通世故又是一码事,较低的智力却可能精通世故。成就事情少不了智商之外的其他能力。
 
@@ -1276,11 +1276,11 @@ apprenticeship /ə'prɛntɪʃɪp /
 ## The Crowd [乌合之众, Gustave Le Bon]                
 ## Status Anxiety [身份的焦虑, Alain de Botton]
 
-> Hui: 作者阿兰.德波顿并没有从学术的角度（他也不是个心理学家），而是从历史，文化艺术的角度分析这种焦虑的由来，以及可能的缓解途径。我们为什么需要他人的认同？从什么时候起有“势利”这个词？哲学、艺术、政治和宗教如何帮助我们舒缓这种焦虑。我个人认为作者并没有批判这种焦虑，而是避开了道德判断，就事论事的讨论身份的焦虑。
+> <span style="color:blue">Hui: 作者阿兰.德波顿并没有从学术的角度（他也不是个心理学家），而是从历史，文化艺术的角度分析这种焦虑的由来，以及可能的缓解途径。我们为什么需要他人的认同？从什么时候起有“势利”这个词？哲学、艺术、政治和宗教如何帮助我们舒缓这种焦虑。我个人认为作者并没有批判这种焦虑，而是避开了道德判断，就事论事的讨论身份的焦虑。</span>
 
 ## Being Mortal 
 
-> Hui: 作者Atul Gawande是个医生，我在这本书中第一次知道美国有专门的“临终关怀”机构。我们总想着怎么好好的活着，之前提到的《乐观的偏见》的作者说，如果没有乐观，展望未来的能力就会毁灭一切。因为我们很早就知道最后的结局一定是死亡。可是我们大多数人都会自动屏蔽在这个充满不确定的世界中唯一确定的事实。随着科技、医疗的发展，我们越来越笃信人类的力量，我们开始有这样的幻觉：一切事物都是可以解决的，可以改变的。这本书让人正视而非逃避这个不可改变的结局，告诉我们尽己所能好好活到最后一刻。更重要的事，作者提出我们在努力发展医学技术延长人类生命的同时，也要花精力帮助接近生命终点的人更好的度过最后的旅程，平静的离开人世。并不是所有人都希望通过各种医疗器械维持活着的状态，在生命的末尾的人有权说我不需要这些医疗监控仅仅为了延长自己的生命，我想要离开病床，回到自己的家中，像平常一样吃喜欢的食物，看想看的书，度过最后的日子。紧紧抓住生命没有错，选择在何时放手也没有错。请being mortal，因为这就是我们原本的样子。
+> <span style="color:blue">Hui: 作者Atul Gawande是个医生，我在这本书中第一次知道美国有专门的“临终关怀”机构。我们总想着怎么好好的活着，之前提到的《乐观的偏见》的作者说，如果没有乐观，展望未来的能力就会毁灭一切。因为我们很早就知道最后的结局一定是死亡。可是我们大多数人都会自动屏蔽在这个充满不确定的世界中唯一确定的事实。随着科技、医疗的发展，我们越来越笃信人类的力量，我们开始有这样的幻觉：一切事物都是可以解决的，可以改变的。这本书让人正视而非逃避这个不可改变的结局，告诉我们尽己所能好好活到最后一刻。更重要的事，作者提出我们在努力发展医学技术延长人类生命的同时，也要花精力帮助接近生命终点的人更好的度过最后的旅程，平静的离开人世。并不是所有人都希望通过各种医疗器械维持活着的状态，在生命的末尾的人有权说我不需要这些医疗监控仅仅为了延长自己的生命，我想要离开病床，回到自己的家中，像平常一样吃喜欢的食物，看想看的书，度过最后的日子。紧紧抓住生命没有错，选择在何时放手也没有错。请being mortal，因为这就是我们原本的样子。</span>
 
 ## PSY:心理操纵术 
 ### Ch 1 赢家不会告诉你的
@@ -1292,7 +1292,7 @@ apprenticeship /ə'prɛntɪʃɪp /
 - 白人基因有哪些与众不同的优点，又有哪些明显弱于东亚黄色人种的缺陷，从而导致了基督教文明与儒家文明的区别？
 - 基因在很大程度上决定一个人的抗洗脑能力有致命影响。相较而言，华人总是很难被洗脑，他们既依赖权威，同时又不相信权力，也从不迷信鬼神的力量，并对任何单一和极端的“信仰”敬而远之。
 
-     > Hui: I totally can't buy this point......
+   > <span style="color:blue">Hui: I totally can't buy this point......</span>
 
 - 金钱总是在底层群体的手中进进出出，而永远在上层少数人的口袋里驻扎。富人的智慧：
       1. 他们不相信任何已经成功的人，从不迷信和追随某种经验。
@@ -1300,15 +1300,15 @@ apprenticeship /ə'prɛntɪʃɪp /
       1. 他们深知金钱的用途，在滚雪球的过程中，懂得集中力量、聚成一团和重点使用的价值，不会将钱分散开来，而是能够抓住孤注一掷的时机。
 - 洗脑金字塔： 1）洗脑源；2）传教士；3）中产；4）洗脑受体。
 
-     > Hui: 信息!= 真实信息  <----- 阶层，信息源，目的，判断力
+  > <span style="color:blue">Hui: 信息!= 真实信息  <----- 阶层，信息源，目的，判断力</span>
 
 - 整部人类历史的发展背后，这一洗脑原则始终被牢固地贯彻下来，每一种文明都是如此，这就是世界各地优秀文化思想全部诞生在公元前，之后就一直裹足不前的原因。
 
-     > Hui: “各地优秀文化思想都诞生在公元前”这个观点有趣，仔细想想还真是那么一回事......>_<
+  > <span style="color:blue">Hui: “各地优秀文化思想都诞生在公元前”这个观点有趣，仔细想想还真是那么一回事......>_< </span>
 
 - 一个人只有站得高才能看得远，与他是否足够努力并没有必然关系。时间未必可以换来金钱。
 
-> Hui: 上层能够获取-----> (信息，资源，人脉)------>通过资本运作致富
+> <span style="color:blue">Hui: 上层能够获取-----> (信息，资源，人脉)------>通过资本运作致富</span>
 
 - 专注于提升自己的生活而不是去过量入为出的日子。
 - 赢家法则 （Hui: 看到这样的标题感觉是传销，之前都说了成功不可复制不是么？怎么又来这么多法则？）
@@ -1357,7 +1357,7 @@ apprenticeship /ə'prɛntɪʃɪp /
 ### Ice-cream
 - 至少在1100BC，中国人就知道如何在地下建造冰库。
 
-> Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de' Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。]
+> <span style="color:blue">Hui: 有种说法是，唐朝的《酉阳杂俎（yǒu yáng zá zǔ）》[是笔记小说集]里头，已经提到过冰与奶制品混一的玩意，叫做“酪饮”。宋朝时，大家也习惯类似东西叫冰酪，可能那就是冰淇淋的雏形。但法国人相信，冰淇淋是美第奇嫁到法国之后，才真正进入文明世界的——那就天晓得了。[“美第奇家族”（Medici Family）是佛罗伦萨13世纪至17世纪时期在欧洲拥有强大势力的名门望族。Maria de' Medici于1600年嫁给亨利四世，成为其第二任妻子，法国王后，路易十三的母亲。她是意大利豪门美第奇家族的重要成员。]</span>
 
 - 第一个影响深远并且享有声望(influential and lasting fame)的咖啡馆(Cafe)，是巴黎的Cafe Procope。Francesco Procopio dei Coltelli在1686年开办了这座咖啡馆，他是意大利人(Italian)，可能经由弗洛伦萨(Florence)从西西里岛(Sicily)而来。
 - The first automatic cane-rolling machine（蛋筒制造机）was invented in 1909.
@@ -1375,7 +1375,7 @@ apprenticeship /ə'prɛntɪʃɪp /
 
 福塞尔(Paul Fussell, American cultural and literary historian, author and university professor)《格调(Class)》里认为，现代社会，下等人才会迷恋甜味。上流社会也因此摇旗鼓吹，认为懂得品茶与咖啡的苦味，才能谏果回甘，体会到深层的味道云云……大概可以这么说：上等人觉得，甜味经常显得女性化、脆弱、下等、世俗、不够高雅，能尝得苦味才显得品味非凡、耐得住寂寞等等，但抛去一切形而上的想象，我们普通人类本性的DNA里，还就是喜欢甜的东西。
 
-> Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。**等级是一系列细微事物的组合**，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。 
+> <span style="color:blue">Hui: 《格调》是一本精确而刺痛人的社会等级指南。等级是什么？它不是你的职业，不是你居住的地方，不是你的餐桌举止，不是你有多少钱或者你能挣多少钱。**等级是一系列细微事物的组合**，你很难说清楚。正是这些细微的品质确立了你在这个世界上的位置。作者通过敏锐的观察、独特的视角、鞭辟入里的分析和机智幽默的文笔，把美国社会中的社会等级现象和三六九等人的品味做了细致入微的对比。 </span>
 
 
 ## The European Coffeehouse Culture [咖啡馆里的欧洲文化，克劳士.提勒多曼]
@@ -1461,14 +1461,14 @@ apprenticeship /ə'prɛntɪʃɪp /
 
 # Novels and Plays 
 
-> Hui: Milan Kundera is my favorite novelist!
+> <span style="color:blue">Hui: Milan Kundera is my favorite novelist!</span>
 
 ## Immortality [不朽，Milan Kundera]
 
 - 我们身上有一部分东西始终生活在时间之外；也许我们只有在某些特定时刻——大部分是没有年龄的时刻——才会意识到自己的年龄。
 
 - 编制电子计算机的程序并不意味着未来的细节都得详细规划，也并不意味着一切都被写进“上天”这个程序里。譬如说，程序并未规定1815年要发生滑铁卢战役，也没有注定法国人要遭败绩，只是规定了人类的进攻本性。有人就有战争，技术进步将使战争日益残酷。从造物主的观点看，所有其他一切都是无足轻重的，只不过规定了可能性的范围。在这些范围内，它完全然偶然性来七作用。
-> Hui: Kundera would be a good statistician......
+> <span style="color:blue">Hui: Kundera would be a good statistician......</span>
 
 - 这些谈话现在只记得一些零星的片段了，就像一些摔碎的盘子的碎片。在他成年以后，她想把这些碎片粘补起来。
 
@@ -1505,13 +1505,13 @@ apprenticeship /ə'prɛntɪʃɪp /
 - She was lounging almost naked on my couch occupying herself with an examination of the ceiling.
 - An ugly woman hopes to gain something from the luster of her pretty friend; a pretty woman for her part, hopes that she will stand out more lustrously against the background of the ugly woman. [丑女人往往希望借助她漂亮女友的光彩，而那个漂亮的朋友则希望在丑陋的对照下放射出更艳丽的光彩。]
 
-      > Hui:  想起《清醒思考的艺术》中说的对比效应，这样看来，丑女人的策略不对啊......和漂亮朋友在一起只会显得更丑不是么......
+  > <span style="color:blue">Hui:  想起《清醒思考的艺术》中说的对比效应，这样看来，丑女人的策略不对啊......和漂亮朋友在一起只会显得更丑不是么......</span>
 
 - At birth every human being received one out of the millions of available bodies, as one would receive an allotted room out of the millions of rooms in an enormous hotel; that consequently, the body was fortuitous and impersonal, only a ready-made, borrowed thing. [任何一个人在生下来时，都在几百万可供使用的肉体中获得了一个肉体，就仿佛人们分配给了她一套住所，它就像一座巨大的大厦中其他几百万套住所一样；她对自己说，肉体是一种纯属偶然的非个体的东西；只不过是一件借用的和现成的物品。]
 - Of course it was a quite naive desire, but there it was childish desires withstand all the snares of the adult mind and often survive into ripe old age. And this childish desire quickly took advantage of the opportunity to embody itself in the proffered role. [这无疑是一个相当幼稚的愿望，但这有什么办法：童稚的渴望摆脱了成人精神的一切樊笼，继续存在下去，有时候甚至在遥远的老年期依然还要冒出来。]
 - The more the girl withdrew from him psychically, the more he longed for her physically; the alienation of her soul drew attention to her body. [她在道德上越是于他陌生，他就越是在肉体上渴望她；灵魂的陌生使她作为女人的肉体更为奇特。]
 
-      > Hui:如何概括这种心理？贱！
+  > <span style="color:blue">Hui:如何概括这种心理？贱！</span>
 
 - The alien life in which she had become involved was a life without shame, without biographical specifications, without past or future, without obligations; it was a life that was extraordinary free. The girl, as a hitchhiker, could do anything: everything was permitted to her; she could say, do, and feel whatever she liked. 
 - It had always seemed to him that her inward nature was real only within the bounds of fidelity and purity, and that beyond these bounds it simply didn't exist.
@@ -1536,8 +1536,8 @@ apprenticeship /ə'prɛntɪʃɪp /
 
 ## The Lover [情人, Marguerite Duras]
 
-> Hui: Finished this book in 2010.6. Marguerite Duras is a controversial writer:  cold, cranky and so egocentric. You may not like Marguerite Duras herself, but you can't reject her words: sharp and bold. She dares to say anything. You can let her die but can't make her shut up. She persist in writing all her life. If she wants to do something, she will do it and that's the woman. She said: "If I were not a writer, I would be a hooker." But I think if she hadn't been a writer, she would suicide.   
-When reading her words, your heart may skip a beat from time to time. As I said before. "being happy" is like "playing piano", it's a skill rather than human nature. You need to learn and practice. However, she doesn't own the skill. She lost in her world and her desperation. She was brave and honest. She talked about naked sex, desperation, fornication without disguise. She is not my favorite. BTW, I am so sorry about her Chinese lover. And I have to state that not every Chinese is like him. 
+> <span style="color:blue">Hui: Finished this book in 2010.6. Marguerite Duras is a controversial writer:  cold, cranky and so egocentric. You may not like Marguerite Duras herself, but you can't reject her words: sharp and bold. She dares to say anything. You can let her die but can't make her shut up. She persist in writing all her life. If she wants to do something, she will do it and that's the woman. She said: "If I were not a writer, I would be a hooker." But I think if she hadn't been a writer, she would suicide.   
+When reading her words, your heart may skip a beat from time to time. As I said before. "being happy" is like "playing piano", it's a skill rather than human nature. You need to learn and practice. However, she doesn't own the skill. She lost in her world and her desperation. She was brave and honest. She talked about naked sex, desperation, fornication without disguise. She is not my favorite. BTW, I am so sorry about her Chinese lover. And I have to state that not every Chinese is like him. </span>
 
 - Dreamer
 
@@ -1570,7 +1570,7 @@ She kept a distance to world around. There were two things kept the distance not
 
 ## Plays of Marguerite Duras
 
-> Hui:Here are some quotations of her plays. I won't read anymore works of this writer. 
+> <span style="color:blue">Hui:Here are some quotations of her plays. I won't read anymore works of this writer. </span>
 
 - It's agony. Being so near to you and yet so far.
 - It's a gram-phone. I'm like that. I keep my word. I hope you'll get to know me.
@@ -1600,7 +1600,7 @@ She kept a distance to world around. There were two things kept the distance not
 - 当一个人不再哭泣时，悲伤即转化为厌烦。
 - 库波躺下了，他说不是为了睡觉，而是为了思考。
 
-> Hui: 哈哈，这个经典！
+> <span style="color:blue">Hui: 哈哈，这个经典！</span>
 
 - 拉丽仅仅保持着沉默的目光，一双黑色顺从的大眼睛，让人感到眼底深处蕴含无穷无尽的悲哀和痛苦。她始终默默无语，只有一双黑色的大眼睛睁得很大。
 - 习惯如同别的东西一样可以消磨正直感。
@@ -1622,11 +1622,11 @@ She kept a distance to world around. There were two things kept the distance not
 
 - 女人永远都无力抗拒任何呼唤着她受惊灵魂的声音，而男人则无力阻挡任何灵魂正在相应呼唤的女人。
 
-> Hui:上半句和下半句结合起来不就是在说：只要男人呼唤，女人一定回应，男人一定无法阻挡。换句话说，我们都是毫无自制力的动物......
+> <span style="color:blue">Hui:上半句和下半句结合起来不就是在说：只要男人呼唤，女人一定回应，男人一定无法阻挡。换句话说，我们都是毫无自制力的动物......</span>
 
 - 一个女人，而且是一个漂着的离婚女人，在这个陌生的城市里带着一个烧残的孩子，生存都是一个问题。
 
-> Hui: 这句话没有出彩的地方，摘抄下来只是因为它太没有艺术性，很多时候，生活让你感觉就是这样，现实的毫无艺术可言。
+> <span style="color:blue">Hui: 这句话没有出彩的地方，摘抄下来只是因为它太没有艺术性，很多时候，生活让你感觉就是这样，现实的毫无艺术可言。</span>
 
 - 千家万户新桃换旧符时，刘心香和胡闹闹就这样在病房中度过。
 - 发生的事情就发生了，不要想着任何事情都会有补偿，没有，损失的永远就是损失，伤害的永远就是伤害，你不可能修复，你不可能回到从前。只能是徒劳地浪费时间和精力。
@@ -1638,7 +1638,7 @@ She kept a distance to world around. There were two things kept the distance not
 ## Selected Short Stories of Washington Irving
 ## NovEU History:安格思首部曲:传奇初现
 
-> Hui: 不是太喜欢这本书，只记录了这两句。
+> <span style="color:blue">Hui: 不是太喜欢这本书，只记录了这两句。</span>
 
 - 那是一种奇妙的祥和，就像在风中飞翔，在海面上走路，在云端驰骋，在面对威胁毫不犹豫。
 - 在风云变色的战场里要精心算计根本是不可能的事。战场上真正的计算就是求生存。
@@ -1716,7 +1716,7 @@ The author discussed the cause and effects of division of labour.
 
 - **Political Economy** or **Economics** is a study of mankind in the ordinary business of life......it is on the one side a study of wealth; and on the other and more important side, a part of the study of man.......two great forming agencies of the world's history have been _religious_ and _economic_.
 
-> Hui: I agree. Religion and economy set the frame.
+> <span style="color:blue">Hui: I agree. Religion and economy set the frame.</span>
 
 ### The substance of economics
 - **Economics** is a study of men as they live and move and think in the ordinary business of life. But it concerns itself chiefly with those motives which affect, most powerfully and most steadily man's conduct in the business part of his life......the steadiest motive to ordinary business work is the desire for the pay which is the material reward of work. 
@@ -1870,7 +1870,7 @@ The author discussed the cause and effects of division of labour.
 - 著名心理学家维克托.弗兰克：“即使在极端恶劣的环境里，人们也会拥有一种最后的自由，那就是选择自己态度的自由。”
 - 我们自己的痛苦我们感同身受，而别人的痛苦我们很难做到感同身受。
 
- > Hui: 朴素的真理，但我们还是时不时觉得自己家的经特别难念......人类真是愚昧，健忘，又短视。
+ > <span style="color:blue">Hui: 朴素的真理，但我们还是时不时觉得自己家的经特别难念......人类真是愚昧，健忘，又短视。</span>
  
 - Dan Goleman提出“Emotional Intelligence”， 他曾做过著名的"Delaying gratification" 实验
      - 希望自己的欲望马上获得满足是大多数人的天性
@@ -1993,7 +1993,7 @@ See the notes on [Red Wine](http://linhui.org/RedWine) page.
 - 口不对心，心不对脑，是很多女人感情问题的真相。
 - 女人需要的是有能力爱女人的男人，而不是借女人安慰自己的男人。
  
-> Hui: 什么样的男人是有能力爱女人的？怎么识别这样的男人？
+> <span style="color:blue">Hui: 什么样的男人是有能力爱女人的？怎么识别这样的男人？</span>
 
 - 调情这种游戏的背后并不纯粹，它附带了性挑逗、性幻想、性贪婪、性打猎和性虚荣的隐藏意识，超越了一般交际的言行。
 
@@ -2127,7 +2127,7 @@ Three rules to visualize insights with impact:
 
 ## On the origin of human inequality (论人类不平等的起源)
 
-> Hui:《论人类不平等的起源》是法国大革命的灵魂。作者开篇提出人类间存在的两种不平等1）自然或者生理上；2）精神或者政治上的。卢梭在本书中主要探讨了精神和政治不平等的起源，这种不平等赋予一部分人以特权。书中讨论了人类发展的过程中权力何时取代了暴力，自然何时让位于法律。本书阐发了卢梭的政治哲学思想，为《社会契约论》奠定了基础。
+> <span style="color:blue">Hui:《论人类不平等的起源》是法国大革命的灵魂。作者开篇提出人类间存在的两种不平等1）自然或者生理上；2）精神或者政治上的。卢梭在本书中主要探讨了精神和政治不平等的起源，这种不平等赋予一部分人以特权。书中讨论了人类发展的过程中权力何时取代了暴力，自然何时让位于法律。本书阐发了卢梭的政治哲学思想，为《社会契约论》奠定了基础。</span>
 
 - Etruscans [艾特鲁斯坎人]：在罗马共和国建立之前统治罗马人民。最后一个王朝是塔尔干王朝（7BC-6BC）
 
@@ -2170,7 +2170,7 @@ Three rules to visualize insights with impact:
 - 即便自然在赋予人类各种禀性的时候有失公正，那么，在人们彼此之间几乎没有任何联系的情况下，哪些受到自然偏爱的人又比其他人多获得了什么好处呢？没有爱情的地方，美丽有什么用处？没有交易的地方，欺诈又有什么用处呢？......只有在人们相互依赖或者有共同的需要将他们联系在一起的时候，才能产生奴役关系。
 
 - 它们是从事物的性质中能作出的最有可能的猜测，也是发现真相的惟一途径。
-> Hui: 我们所谓真相不过是最可能的猜测，人终其一生都在自我的影射下生活。
+> <span style="color:blue">Hui: 我们所谓真相不过是最可能的猜测，人终其一生都在自我的影射下生活。</span>
 >《爱弥儿》：痛苦的原因不在于缺乏什么，而在于对那些东西感到需要。
 
 - 临时的关系逐渐转变为亲密而持久的关系。......人们开始比较不同的事物，获得了关于美和价值的观念，继而产生偏爱的感觉。......这就是迈向不平等的第一步......一旦人们开始互相品评，尊重的观念便在人的心底扎根，每个人都要求别人尊重他。......冶铁和农业技术促成了这种变革。
@@ -2202,7 +2202,7 @@ Three rules to visualize insights with impact:
 - Machiavelli提请给予Romulus特别关注也许有他的理由。是否在告诉读者，机会无须来自运道？Romulus似乎没有可以利用的机会；也就是说，他的机会要在自己卑贱的出身里去寻找。
 - 国家为实质或内容，人们向实质或内容之中引入统治的形式，也就是国家创建者的心灵和精神的产品。那么建立一个国家和获取一个国家哪有区别呢？
 
-> Hui: 实质上没有区别，最后都是要注入新统治者的心灵和精神。
+> <span style="color:blue">Hui: 实质上没有区别，最后都是要注入新统治者的心灵和精神。</span>
 
 - 依靠他人的军队和运道新近获取的君主国
     - 依靠他人的军队和运道获得国家的例子是 Cesare Borgia
@@ -2260,7 +2260,7 @@ Three rules to visualize insights with impact:
 
 - 若想改变,就从丢弃旧物开始 你留存的记忆越多,就意味着未来可以伤你的越多。你留存的记忆越细致,越是容易铸造出一个思维的牢笼,困于其中 ,越陷越深。 
 
-> Hui: 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。
+> <span style="color:blue">Hui: 收藏旧物无关对错，是一种生活方式。我喜欢保留旧物，人是由记忆浇灌的，为什么记忆一定是伤人的？你会被记忆所伤，说明心灵还不够强大，还没有释怀，人生就是一场修行，路漫漫其修远兮。人生从来就不完美，回避隐藏并不能让你强大，面对真相、释怀才是最终的救赎，而后自道天凉好个秋。回避是因为在乎，刻意回避反而加深了刻痕，离释怀越远。</span>
 
 - 到了最后,就在那个愿意放下偏见和骄傲的时候,遇见一个同样愿意的人,在一段靠谱的感情中,走向一段靠谱的婚姻
 。然后,所有的剧情都落幕了,剩下的事,该来到的都来到了。不是因为你更爱谁,就可以不用面对那些鸡毛蒜皮,只
@@ -2283,7 +2283,7 @@ Three rules to visualize insights with impact:
 - 连接在一起而得到的一个关系网络。知识图谱提供了从“关系”的角度去分析问题的能力。
 - 知识图谱是基于图的数据结构，它的储存方式有两种形式：RDF存储格式和图数据库(Graph Database)。
 
-> Hui: 如何将网络上的非结构化数据，利用机器学习、自然语言处理技术变成结构化数据？
+> <span style="color:blue">Hui: 如何将网络上的非结构化数据，利用机器学习、自然语言处理技术变成结构化数据？</span>
 
 - 所谓的生态闭环，指的是构建有效的自反馈系统使其能够实时地反馈给我们的模型，并使得模型不断地自我优化从而提升准确率。
 
@@ -2502,11 +2502,11 @@ Three rules to visualize insights with impact:
 
 - “粒粒皆辛苦”、“半丝半缕恒念物力维艰”不只写照了一种传统的俭朴观，**它还要求人们以有形的方式来看待财富**。
     
-  > Hui:很多我们不经过思索就接受的观点反映的其实是思维认知的局限，我们认知的高度定义了自己思想所在的维度。
+  > <span style="color:blue">Hui:很多我们不经过思索就接受的观点反映的其实是思维认知的局限，我们认知的高度定义了自己思想所在的维度。</span>
 
 - 尤瓦尔.赫拉利在《人类简史》中讲，人善于想象和相信想象出来的东西，因此人统治了地球——钞票就是一种想象。
 
-  > Hui: 我想起乐观的偏见里提到人展望未来的能力，还有黑天鹅中讲到我们对未来的未知。其实这种想象也不总是坏的，正如乐观的偏见里提到的，我们需要这样一副玫瑰色的眼镜来快乐的生活。度，中庸之道。几千年沉淀下来的东西真的不一样。人类作为一种智慧生物的存在本身还是个婴儿。未来充满未知难道不应该么？人类存在本身就是一个极其可能受黑天鹅事件影响的。
+  > <span style="color:blue">Hui: 我想起乐观的偏见里提到人展望未来的能力，还有黑天鹅中讲到我们对未来的未知。其实这种想象也不总是坏的，正如乐观的偏见里提到的，我们需要这样一副玫瑰色的眼镜来快乐的生活。度，中庸之道。几千年沉淀下来的东西真的不一样。人类作为一种智慧生物的存在本身还是个婴儿。未来充满未知难道不应该么？人类存在本身就是一个极其可能受黑天鹅事件影响的。</span>
   
 - 从沉甸甸的落袋为安，到看见屏幕上的一个数字就满足，又是一个过程。美国的大师级小说家唐.德里罗，在他具有浓烈预言色彩的《白噪音》里写了一个画面：
 
@@ -2518,7 +2518,7 @@ Three rules to visualize insights with impact:
  
    > ——现在，面对一个令自己沮丧的数字，人会冒出这种无名之火，觉得自己没钱不是因为能力不足，而是游戏中的其他人联手做局，坑了自己。
 
-> Hui: 《身份的焦虑》一书中提到之所以人追逐财富是因为现在社会将财富和能力之间划上无形的等号。而做为自私自大还无知的人类，没有人想承认自己没有能力，我们需要找到另外一个可以解释当前财富不如邻居的理由，于是愚蠢的我们开始退回道德判断。
+> <span style="color:blue">Hui: 《身份的焦虑》一书中提到之所以人追逐财富是因为现在社会将财富和能力之间划上无形的等号。而做为自私自大还无知的人类，没有人想承认自己没有能力，我们需要找到另外一个可以解释当前财富不如邻居的理由，于是愚蠢的我们开始退回道德判断。</span>
 
 > 罗胖曰：被困在某个维度里的人，无法理解上一个维度的事情。  
 而上一个维度里的人，也无法教会他。  
@@ -2526,7 +2526,7 @@ Three rules to visualize insights with impact:
 这是这个时代最深的悲哀之一。  
 2016年，我心中回响得最多的两句话是——“认识升级”比“知识学习”重要；“回到源头”比“搞清事实”重要。
 
-> Hui: 这就好像神和人类之间的关系，神在高一个维度上试图给我们解释那个维度的事情。这种不同维度的沟通障碍不仅仅是这个时代，而是整个人类历史上衡定不变的问题。
+> <span style="color:blue">Hui: 这就好像神和人类之间的关系，神在高一个维度上试图给我们解释那个维度的事情。这种不同维度的沟通障碍不仅仅是这个时代，而是整个人类历史上衡定不变的问题。</span>
 
 # Jokes
 

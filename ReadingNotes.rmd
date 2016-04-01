@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes"
 author: "Hui Lin"
-date: "Last Update: Thursday, Mar 31, 2016"
+date: "Last Update: Friday, Apr 1, 2016"
 output: 
  html_document:
   theme: united
@@ -947,7 +947,12 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 - The notion of optimistic and pessimistic explanatory styles was put forward by the psychologist **Martin Seligman**. He came up “_learned helplessness_".
 
-- The most commonly prescribed antidepressants are drugs that enhance the function of the neurotransmitter serotonin. A neurotransmitter is a chemical that enables communication between neurons in the brain. 
+- The most commonly prescribed antidepressants are drugs that enhance the function of the neurotransmitter serotonin. A neurotransmitter is a chemical that enables communication between neurons in the brain...The majority of antidepressants, such as Prozac, are selective **serotonin** reuptake inhibitors (SSRIs)…gene coding for **serotonin** function predicts a person’s likelihood of suffering depression.  
+
+- The amygdala is a structure deep in the brain that processes emotional stimuli. It is also involved in generating physiological responses to these stimuli. Amygdala activity is regulated by parts of the frontal cortex, in particular the anterior cingulate cortex (ACC). In individuals with a short allele of the serotonin-transporter gene, there is reduced connectivity between the ACC and the amygdala. This means that the two structures are not as good at communicating with each other. [杏仁核是大脑深处处理情绪刺激的结构，同时人对刺激的心理反应也少不了它。额叶皮层的一部分负责管理杏仁核的活动，尤其是ACC。如果一个人的serotonin-transporter gene等位基因是短的，那么前扣带皮层ACC和杏仁核的关联性就会降低，也就是说这两个结构的沟通能力就没那么好。]
+
+> <span style="color:blue">Hui: 有几个专业名词反复出现[单词]，serotonin——5-羟色胺，allele——等位基因，amygdala——杏仁核，anterior cingulate cortex——前扣带皮层，frontal cortex——额叶皮层</span>
+
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 

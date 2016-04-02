@@ -953,6 +953,16 @@ Often, we are wasting valuable time. Studies show that **thinking too much can l
 
 > <span style="color:blue">Hui: 有几个专业名词反复出现[单词]，serotonin——5-羟色胺，allele——等位基因，amygdala——杏仁核，anterior cingulate cortex——前扣带皮层，frontal cortex——额叶皮层</span>
 
+- This is known as fear extinction—the process of learning that something that was previously threatening no longer is. Fear extinction involves the regulation of amygdala activity by the ACC. As the connectivity between these structures is relatively impaired in carries of the short allele, these individuals will be less capable of extinguishing their fear. They will be more likely to maintain high levels of anxiety and be prone to depression and other mood disorders. [“恐惧消退”指的是明白以前具有威胁性的事情不再构成威胁这一过程。恐惧消退需要前扣带皮层管理杏仁核的活动。由于等位基因较短的人这两个结构的联系有所削弱，这样的人就很难驱散自己的恐惧。因此他们更可能保持高度紧张核焦虑，并且容易出现抑郁核其它情绪紊乱的状况。]
+
+- hippocampus (which has an important role in memory) and the striatum (which is involved in motor function, reward processing, and generating expectations of pleasure and pain), as well as other brain regions I focus on to a lesser degree, such as the thalamus and the habitual. 
+
+> <span style="color:blue">Hui: 这里几个专业名词[单词] hippocampus——海马体——记忆，striatum——纹状体——运动、奖赏、快乐痛苦的预期，amygdala——杏仁核，thalamus——丘脑，habitual.——缰核</span>
+
+
+### The Value of Anticipation and the Cost of Dread 
+
+- When it comes to adverse events, most of us choose to get it over with as soon as possible. The reason is simple: We want to avoid the dread that comes with anticipating pain. Instead of spending out time worrying and fearing, we would rather face the pain immediately and be done with it. [一旦遇到糟糕的事情，大多数人都会选择尽快搞定。原因很简单：我们不想因为未来的痛苦而畏惧。]
 
 ## Art of Thinking Clearly [Rolf Dobelli,清醒思考的艺术]
 
@@ -1774,6 +1784,10 @@ The author discussed the cause and effects of division of labour.
 - When a man or woman loves to brood over a sorrow and takes care to keep it green in their memory, you may be sure it is no longer a pain to them. However they may have suffered from it at first, the recollection has become by then a pleasure.[当一个男人或女人喜欢咀嚼悲伤，沉思默想，不时刷新自己的记忆，使往昔的悲伤在记忆里新鲜如初，你就可以肯定这一切对他已不再是一种伤痛。最初的悲恸已经渐渐消退，这个时候的回忆已经变成了一种虐恋式的愉悦。]
 
 - Why assume that a doubled-up body, a contorted purple face, and a gaping mouth emitting a series of ear-splitting shrieks point to a state of more intelligent happiness than a pensive face reposing upon a little white hand, and a pain of gentle tear-dimmed eyes looking back through time’s dark avenue upon a fading past? [一双白嫩的小手托腮凝思，一双温情脉脉的泪眼穿越时间的黑暗隧道追忆着那过去的岁月，也算得是一种幸福吧。]
+
+- 当我们回忆起曾经的伤痛带给我们的衰弱无助，而时间之手早已抚平我们滴血的伤口，抹去我们心头的酸楚和绝望；当我们从过去的烦恼中品尝出悲喜参半的甜蜜感受时，我们心头负担已不再沉重；当骑士襟怀的纽康姆上校面对死神的点名，大声回答“到”的时候，当汤姆和塔莉维尔冲开分隔他们的浓重迷雾紧紧地握着手，拥着对方走向汹涌的弗洛斯河的时候，内心也必定是同样的感受。[Time has laid his healing hand upon the wound when we can look back upon the pain we once fainted under and no bitterness or despair rises in our hearts.]
+
+- 忧郁女神是一位沉思的，眼睛深陷的少女，直到“夜色渐浓，乌鸦的翅膀掠过摇曳的树梢”，她才偷偷地走出自己的小树林。她不喜欢白天耀眼的阳光。她的宫殿坐落于朦胧的国度，她就是在那里跟我相会的。[The wound belongs to Melancholy [['mɛlənkɑli],忧郁的，忧郁] then, a thoughtful deep-eyed maiden who loves not the glare day. It is not fill “light thickens and the crow wings to the rocky wood” that she steals forth from her groves [[grəuvz]小树林]. Her palace is in twilight land. It is there she meets us.]
 
 ## Essay 送你一颗子弹（刘瑜）
 - 检验友谊的唯一标准就是两个人能否凑在一起说别人坏话

@@ -1,13 +1,12 @@
 ---
 title: "Personal Knowledge Management — What, Why and How?"
-author: "Hui Lin"
-date: "April 9, 2016"
 output: html_document
+layout: post
 ---
 
 > Organised common (or uncommon) sense – very basic knowledge is an enormously powerful tool... You have to have a temperament to grab ideas and do sensible things. [Charlie Munger]
 
-# What is PKM?
+## What is PKM?
 
 It is better to ask [Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_management). Here is what I got:
 

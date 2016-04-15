@@ -1,0 +1,12 @@
+---
+title: "No Title"
+output: html_document
+layout: post
+---
+
+<p align="center">
+  <img src="http://linhui.org/images/Art/2016Apr1.jpg" />
+</p>
+<p align="center">
+  <img src="http://linhui.org/images/Art/2016Apr2.jpg" />
+</p>

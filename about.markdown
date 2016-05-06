@@ -3,7 +3,7 @@ layout: listing
 title: About
 ---
 
-## About me ##
+<!--## About ##-->
 
 I am a [statistician](http://scientistcafe.com) who takes calculated risk and embraces the uncertainty from God. 
 

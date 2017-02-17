@@ -6,7 +6,7 @@ layout: post
 > The world is a book, and those who do not travel read only a page.-----Saint Augustine
 
 <p align="center">
-  <img src="http://linhui.org/images/Jokes/Tomorrow.png"  width="60%" />
+  <img src="http://linhui.org/images/Jokes/Tomorrow.png"  width="30%" />
 </p>
 
 Why you should travel? The answer will be different for different people. 

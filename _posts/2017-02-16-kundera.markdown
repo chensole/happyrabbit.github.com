@@ -1,5 +1,5 @@
 ---
-title: "Why we travel?"
+title: "Why do we travel?"
 layout: post
 ---
 

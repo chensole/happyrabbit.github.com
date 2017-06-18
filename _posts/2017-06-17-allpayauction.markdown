@@ -3,9 +3,8 @@ title: "Life Game Theory --- All-Pay Auction"
 layout: post
 ---
 
-> Experienced happiness refers to your feelings, to how happy you are as you live your life. 
-In contrast, the satisfaction of the remembering self refers to your feelings when you think 
-about your life----Daniel Kahneman
+> _Experienced happiness refers to your feelings, to how happy you are as you live your life. 
+In contrast, the satisfaction of the remembering self refers to your feelings when you think about your life----Daniel Kahneman_
 
 
 <p align="center">
@@ -19,9 +18,7 @@ Let’s alter one aspect of the game. With the other conditions the same, if the
 
 It is not hard to find such game in life that regardless of winning or losing players have to pay. It is called _All-Pay Auction_.
 
-> All-Pay Auction: In economics and game theory, an all-pay auction is an auction in which every bidder must pay
-regardless of whether they win the prize, which is awarded to the highest bidder 
- as in a conventional auction. [Wikepidiea]
+> _All-Pay Auction: In economics and game theory, an all-pay auction is an auction in which every bidder must pay regardless of whether they win the prize, which is awarded to the highest bidder as in a conventional auction. [Wikepidiea]_
 
 Economics Prof. Avinash Dixit at Princeton University used to do an experiment for the last class of his game theory course. He offered $20 to the student who kept applauding continuously the longest. Most students dropped out within the first 15 or 20 minutes, but a few remained clapping for absurdly long periods. The record to date is that three students applauded for 4.5 hours continuously. He coined ‘Applause Action’ from the experiment. It is an all-pay auction where all bidders pay their bids, win or lose. The bidding currency is applause. For all the losers it is merely a complete waste of time.
 
@@ -32,7 +29,7 @@ contestants for lucrative contracts, and so on.
 
 To pay for life, to win, often leads to tragic results. Time is irreversible. Once involved in such game, every step has a strong reason to increase bets. Even if you win finally, the reward and payment may be disproportionate. Winners are the ultimate losers.
 
-> Abandoning me, yesterday has gone unstoppably. [translated from an ancient Chinese poem]
+> _Abandoning me, yesterday has gone unstoppably. [translated from an ancient Chinese poem]_
 
 With limited life time, how should we play endless games? There are four ways out:
 

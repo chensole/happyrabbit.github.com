@@ -13,63 +13,39 @@ about your life----Daniel Kahneman
 </p>
 
 
-Suppose I offer a reward of $100 and let two friends, James and John, bid in turn. They can increase the bid by $1 each time.
-The highest bidder will get the money. What will happen? If my two friends are reasonably rational, 
-the bid will eventually be at $100.  
+Suppose I offer a reward of $100 and let two friends, James and John, bid in turn. They can increase the bid by $1 each time. The highest bidder will get the money. What will happen? If my two friends are reasonably rational, the bid will eventually be at $100.
 
-Let's alter one aspect of the game. With the other conditions the same, 
-if the loser also pays his last bid, what will happen? Pandora's box is now open.  
+Let’s alter one aspect of the game. With the other conditions the same, if the loser also pays his last bid, what will happen? Pandora’s box is now open.
 
-It is not hard to find such game in life that regardless of winning or losing players have to pay for the game. 
-It is called _All-Pay Auction_.  
+It is not hard to find such game in life that regardless of winning or losing players have to pay. It is called _All-Pay Auction_.
 
 > All-Pay Auction: In economics and game theory, an all-pay auction is an auction in which every bidder must pay
 regardless of whether they win the prize, which is awarded to the highest bidder 
  as in a conventional auction. [Wikepidiea]
 
-Avinash Dixit, an economics professor at Princeton University used to do an experiment for the last class of his
-game theory course. He offered $20 to the student who kept applauding continuously the 
-longest. Most students dropped out within the first 15 or 20 minutes, but a few 
-remained applauding for absurdly long periods. The record to date is that three students applauded for
-4.5 hours continuously. He coined 'Applause Action' from the experiment. This is an all-pay auction. 
- All bidders pay their bids, win or lose. The bidding currency is applause. 
- For all the losers it is merely a complete waste of time.
+Economics Prof. Avinash Dixit at Princeton University used to do an experiment for the last class of his game theory course. He offered $20 to the student who kept applauding continuously the longest. Most students dropped out within the first 15 or 20 minutes, but a few remained clapping for absurdly long periods. The record to date is that three students applauded for 4.5 hours continuously. He coined ‘Applause Action’ from the experiment. It is an all-pay auction where all bidders pay their bids, win or lose. The bidding currency is applause. For all the losers it is merely a complete waste of time.
 
-Back to the $100 game at the beginning, will the game stop at $100? No. If James bids $100, then John should bid $101 
-because a loss of $1 is certainly better than $99. Unfortunately, this logic is true for both participants. 
-The game will continue and each bid will increase the cost of failure. 
-Hypothetically, the auction will not stop until one of them goes bankrupt. 
+Back to the $100 game at the beginning, will the game stop at $100? No. If James bids $100, then John should bid $101 because a loss of $1 is certainly better than $99. Unfortunately, this logic goes for both participants. The game will continue, and each bid will increase the cost of failure. Hypothetically, the auction will not stop until one of them goes bankrupt.
 
-All-pay auctions, in reality, are paid more tragically, presidential elections, the arms race, political lobbying, 
-athletes training to win medals at the Olympic games, sacrificing time with family to climb up the corporate ladder,  
-contestants for lucrative contracts, and so on. 
+All-pay auctions, in reality, are paid more tragically, presidential elections, the arms race, political lobbying, athletes training for medals at the Olympic games, sacrificing time with family to climb the corporate ladder,
+contestants for lucrative contracts, and so on.
 
-To pay for life, in order to win, often leads to tragic results. Time is irreversible. Once involved in such game, 
-every step has a strong reason to increase bets. Even if you win finally, the reward and payment 
-may be disproportionate. Winners are the last losers.
+To pay for life, to win, often leads to tragic results. Time is irreversible. Once involved in such game, every step has a strong reason to increase bets. Even if you win finally, the reward and payment may be disproportionate. Winners are the ultimate losers.
 
-> Abandoning me, yesterday has gone unstoppably. [translated from a Chinese ancient poem]
-
+> Abandoning me, yesterday has gone unstoppably. [translated from an ancient Chinese poem]
 
 With limited life time, how should we play endless games? There are four ways out:
 
-1. Do not participate. The Nash equilibrium of such games, as Avinash Dixit said, 
-the more people involved, the average bet per person should tend to be 0. 
-In reality, it is the best not to bet at the beginning. 
+1. Do not participate. The Nash equilibrium of such games, as Avinash Dixit said, the more people involved, the average bet per person should tend to be 0. In reality, it is the best not to bet at the beginning.
 
-1. If you have to be in the game, then set a price below the reward and only bet once: win or quit. Don't append bets. 
-Don't participate in multi-round auction game.
+1. If you have to be in the game, then set a price below the reward and only bet once: win or quit. Don’t append bets. Don’t participate in multi-round auction game.
 
-1. If you have to participate in several rounds, adjust your subjective payoff of the game, i.e redefine the reward
-for yourself. After all, different people value things differently. The key is that you have convinced yourself that 
-the reward deserves the payment.
+1. If participating in several rounds is unavoidable, adjust your subjective payoff of the game. In other words, redefine the reward for yourself. After all, different people value things differently. The key is that you have convinced yourself that the reward deserves the payment.
 
 1. Enjoy the process. If you can not be a renowned pianist, you can at least enjoy practicing piano.
 
-There is no perfect answer to the problem. But this may be helpful: Do not bet on your happiness. 
-Make life itself is a return; The current every moment is the return, the best return.
-If you want to be happy, be happy now no matter what. What makes people happy? 
-Real questions don't have answers but only trade-offs. I think I am mumbling here. 
+There is no perfect answer to this problem. But this may be helpful: Do not bet on your happiness. Make life itself is a return; The current every moment is the return, the best return. If you want to be happy, be happy now no matter what. What makes people happy? Real questions don’t have answers but only trade-offs. I think I am mumbling here.
 
 Enjoy the game and be happy!
+
 

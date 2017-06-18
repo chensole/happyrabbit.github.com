@@ -69,5 +69,7 @@ the reward deserves the payment.
 There is no perfect answer to the problem. But this may be helpful: Do not bet on your happiness. 
 Make life itself is a return; The current every moment is the return, the best return.
 If you want to be happy, be happy now no matter what. What makes people happy? 
-Real questions don't have answers but only trade-offs. Enjoy the game and be happy!
+Real questions don't have answers but only trade-offs. I think I am mumbling here. 
+
+Enjoy the game and be happy!
 

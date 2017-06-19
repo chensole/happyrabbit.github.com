@@ -41,8 +41,12 @@ With limited life time, how should we play endless games? There are four ways ou
 
 1. Enjoy the process. If you can not be a renowned pianist, you can at least enjoy practicing piano.
 
-There is no perfect answer to this problem. But this may be helpful: Do not bet on your happiness. Make life itself is a return; The current every moment is the return, the best return. If you want to be happy, be happy now no matter what. What makes people happy? Real questions don’t have answers but only trade-offs. I think I am mumbling here.
+There is no perfect answer to this problem. But the following may be helpful: 
 
-Enjoy the game and be happy!
+- Do not bet on your happiness. 
+- Make life itself is a return; The current every moment is the return, the best return. 
+- If you want to be happy, be happy now no matter what. 
+
+What makes people happy? Real questions don’t have answers but only trade-offs. I think I am mumbling here. Enjoy the game and be happy!
 
 

@@ -20,11 +20,11 @@ It is not hard to find such game in life that regardless of winning or losing pl
 
 > _All-Pay Auction: In economics and game theory, an all-pay auction is an auction in which every bidder must pay regardless of whether they win the prize, which is awarded to the highest bidder as in a conventional auction. [Wikepidiea]_
 
-Economics Prof. Avinash Dixit at Princeton University used to do an experiment for the last class of his game theory course. He offered $20 to the student who kept applauding continuously the longest. Most students dropped out within the first 15 or 20 minutes, but a few remained clapping for absurdly long periods. The record to date is that three students applauded for 4.5 hours continuously. He coined ‘Applause Action’ from the experiment. It is an all-pay auction where all bidders pay their bids, win or lose. The bidding currency is applause. For all the losers it is merely a complete waste of time.
+Economics Prof. Avinash Dixit at Princeton University used to do an experiment for the last class of his game theory course. He offered $20 to the student who kept applauding continuously the longest. Most students dropped out within the first 15 or 20 minutes, but a few remained clapping for absurdly long periods. The record to date is that three students applauded for 4.5 hours continuously. He coined 'Applause Action' from the experiment. It is an all-pay auction where all bidders pay their bids, win or lose. The bidding currency is applause. For all the losers it is merely a complete waste of time.
 
 Back to the $100 game at the beginning, will the game stop at $100? No. If James bids $100, then John should bid $101 because a loss of $1 is certainly better than $99. Unfortunately, this logic goes for both participants. The game will continue, and each bid will increase the cost of failure. Hypothetically, the auction will not stop until one of them goes bankrupt.
 
-All-pay auctions, in reality, are paid more tragically, presidential elections, the arms race, political lobbying, athletes training for medals at the Olympic games, sacrificing time with family to climb the corporate ladder,
+All-pay auctions, in reality, are paid more tragically, presidential elections, such as the arms race, political lobbying, athletes training for medals at the Olympic games, sacrificing time with family to climb the corporate ladder,
 contestants for lucrative contracts, and so on.
 
 To pay for life, to win, often leads to tragic results. Time is irreversible. Once involved in such game, every step has a strong reason to increase bets. Even if you win finally, the reward and payment may be disproportionate. Winners are the ultimate losers.

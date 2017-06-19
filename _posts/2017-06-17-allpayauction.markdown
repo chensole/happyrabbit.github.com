@@ -27,7 +27,7 @@ Back to the $100 game at the beginning, will the game stop at $100? No. If James
 All-pay auctions, in reality, are paid more tragically, presidential elections, such as the arms race, political lobbying, athletes training for medals at the Olympic games, sacrificing time with family to climb the corporate ladder,
 contestants for lucrative contracts, and so on.
 
-To pay for life, to win, often leads to tragic results. Time is irreversible. Once involved in such game, every step has a strong reason to increase bets. Even if you win finally, the reward and payment may be disproportionate. Winners are the ultimate losers.
+To pay for life, to win, often leads to tragic results. Time is irreversible. Once involved in such game, every step has a strong reason to increase bets. Even if you win finally, the reward and payment may be disproportionate. Winners are also losers.
 
 > _Abandoning me, yesterday has gone unstoppably. [translated from an ancient Chinese poem]_
 

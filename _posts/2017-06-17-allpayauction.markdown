@@ -31,7 +31,7 @@ To pay for life, to win, often leads to tragic results. Time is irreversible. On
 
 > _Abandoning me, yesterday has gone unstoppably. [translated from an ancient Chinese poem]_
 
-With limited life time, how should we play endless games? There are four ways out:
+With limited lifetime, how should we cope with the all-pay auction? There are four ways out:
 
 1. Do not participate. The Nash equilibrium of such games, as Avinash Dixit said, the more people involved, the average bet per person should tend to be 0. In reality, it is the best not to bet at the beginning.
 

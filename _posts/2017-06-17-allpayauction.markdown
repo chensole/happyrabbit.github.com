@@ -47,6 +47,5 @@ There is no perfect answer to this problem. But the following may be helpful:
 - Make life itself is a return; The current every moment is the return, the best return. 
 - If you want to be happy, be happy now no matter what. 
 
-What makes people happy? Real questions do not have answers but only trade-offs. I think happiness is a decision rather than a result. I may be mumbling here. Enjoy the game and be happy!
-
+What makes people happy? Real question does not have the answer but only trade-off. I may be mumbling here. Enjoy the game and be happy!
 

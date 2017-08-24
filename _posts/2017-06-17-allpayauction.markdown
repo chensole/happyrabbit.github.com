@@ -49,3 +49,4 @@ There is no perfect answer to this problem. But the following may be helpful:
 
 What makes people happy? Real question does not have the answer but only trade-off. I may be mumbling here. Enjoy the game and be happy!
 
+> [Philippians 4:11 New International Version (NIV)]: I am not saying this because I am in need, for I have learned to be content whatever the circumstances.

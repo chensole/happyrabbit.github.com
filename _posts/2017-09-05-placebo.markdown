@@ -51,9 +51,9 @@ The use of randomized trials as a scientific method to determine the real effect
 
 1. In 1948, the sociologist Robert Merton coined the term **self-fulfilling prophecy**. 
 
-> _"Self-fulfilling prophecy is, in the beginning, a false definition of the situation evoking a new behavior which makes the originally false conception come true. "_
+    > _"Self-fulfilling prophecy is, in the beginning, a false definition of the situation evoking a new behavior which makes the originally false conception come true. "_
 
-It means that expectations are likely to influence our development which is not new. But how big is the impact?  George Bernard Shaw’s play "Pygmalion" is a classic makeover tale—the story of a professor who transforms a working-class girl into an upper-class lady. Is Pygmalion effect a significant factor in producing and maintaining gender and racial gaps in IQ testing, GPAs, and college success? 
+    It means that expectations are likely to influence our development which is not new. But how big is the impact?  George Bernard Shaw’s play "Pygmalion" is a classic makeover tale—the story of a professor who transforms a working-class girl into an upper-class lady. Is Pygmalion effect a significant factor in producing and maintaining gender and racial gaps in IQ testing, GPAs, and college success? 
 
 1. If belief is that impactful, what should we believe? 
 

@@ -12,12 +12,8 @@ title: Hui
 </time>
 </header>
 
-<ul>
-  <li>
-    <a href="{% post.permalink %}">{% post.title %}</a>
-    <p>{{ post.content | strip_html | truncatewords:75 }}</p>
-  </li>
-</ul>
+
+<p>{{ post.content | excerpt }}</p>
 
 <!--
 {% if forloop.first %}

@@ -18,8 +18,8 @@ title: Hui
 {{post.excerpt}}
 <p class="full-post"><a href="{{ post.url }}#comments">comments...</a></p>
 {% else %}
-<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-<!--{{ post.content | excerpt }}-->
+<!--{{ post.excerpt | remove: '<p>' | remove: '</p>' }}-->
+{{ post.content | excerpt }}
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 {% endif %}
 </article>

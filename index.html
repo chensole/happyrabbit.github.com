@@ -12,6 +12,16 @@ title: Hui
 </time>
 </header>
 
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{% post.permalink %}">{% post.title %}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
+
+<!--
 {% if forloop.first %}
 {{ post.content | excerpt }}
 <p class="full-post"><a href="{{ post.url }}#comments">comments...</a></p>
@@ -20,6 +30,7 @@ title: Hui
 <p>{{ post.content | excerpt }}</p>
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 {% endif %}
+-->
 
 </article>
 {% endfor %}

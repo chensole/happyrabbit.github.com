@@ -4,3 +4,4 @@ growl: true
 paginate: 5
 permalink: pretty
 rouge: true
+excerpt_separator: <!--more-->

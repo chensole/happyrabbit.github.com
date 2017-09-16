@@ -14,12 +14,13 @@ title: Hui
 </header>
 
 {% if forloop.first %}
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+{{ post.content | excerpt }}
 <p class="full-post"><a href="{{ post.url }}#comments">comments...</a></p>
 
 {% else %}
 
-<p>{{ post.content | excerpt }}</p>
+<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+<!--{{ post.content | excerpt }}-->
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 {% endif %}
 

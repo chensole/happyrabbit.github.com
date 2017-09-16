@@ -13,12 +13,10 @@ title: Hui
 </header>
 
 <ul>
-{% for post in site.posts %}
   <li>
     <a href="{% post.permalink %}">{% post.title %}</a>
     <p>{{ post.content | strip_html | truncatewords:75 }}</p>
   </li>
-{% endfor %}
 </ul>
 
 <!--

@@ -1,6 +1,7 @@
 ---
 title: "Why do we travel?"
 layout: post
+tag: travel
 ---
 
 > The world is a book, and those who do not travel read only a page.-----Saint Augustine

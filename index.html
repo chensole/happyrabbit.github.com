@@ -12,13 +12,12 @@ title: Hui
 {{ post.date | date: "%b %d, %Y" }}
 </time>
 </header>
-            <aside>
-              <div class="tags">
+
+              <ul class="tags">
                 {% for tag in post.tags %}
-                  <span class="tag">{{ tag }}</span>
+                <li><a href="#" class="tag">{{ tag }}</a></li>
                 {% endfor %}
-              </div> 
-            </aside>
+              </ul> 
             
 {% if forloop.first %}
 {{ post.content | excerpt }}

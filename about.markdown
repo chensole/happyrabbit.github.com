@@ -14,7 +14,7 @@ I used wordpress before and moved to Github after the previous server was hacked
 Most of the old records were lost which is not a bad thing because it pushed me to make the change. 
 Life need to be as simple and neat as possible. Now my posts are local and in Textile or Markdown. 
 It is automatically transformed by Jekyll into a static site. This website layout is a fork of Sreejith Kesavan 
-with some minor modifications. I really like the clean and simple style. Thanks a lot Sreejith Kesavan!
+with modifications. I really like the clean and simple style. Thanks a lot Sreejith Kesavan!
 
 Hui
 

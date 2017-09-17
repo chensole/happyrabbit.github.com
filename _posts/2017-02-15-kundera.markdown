@@ -1,6 +1,7 @@
 ---
 title: "荟客厅：米兰.昆德拉(2)"
 layout: post
+tag: philosophy, novel, reading
 ---
 
 ## 生命不能承受之轻(The Unbearable Lightness of Being)

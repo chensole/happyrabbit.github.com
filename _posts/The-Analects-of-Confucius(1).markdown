@@ -1,7 +1,7 @@
 ---
 title: The Analects of Confucius (1)
 layout: post
-time: '5:00'
+tag: philosophy
 ---
 It was the most authoritative of all laws in a long Chinese history over thousands of years. The philosophy of Confucius has been deeply rooted in the Chinese people's heart. I love to read about different schools of Ancient Chinese Philosophy. Among them, I personally like Taoism most. The translation of Chinese Classical culture can never be easy. I also feel it is way less than perfect. Exploring the English version helps me better understand the Ancient Chinese Philosophy. Even as a Chinese, I can't say I know it well. It could take all your life. None of the schools of Philosophy dominates all the other, that is none of them can be rigid golden guide for mind and behavior. You need your own judgment.
 <blockquote>Confucius said:"A superior man is dignified, but does not dispute. He is sociable, but does not party"</blockquote>

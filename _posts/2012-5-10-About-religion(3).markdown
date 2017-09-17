@@ -1,7 +1,7 @@
 ---
 title:  About Religion (3)--Confucianism and Christianity
 layout: post
-time: '14:28'
+tags: [religion]
 ---
 
 Anton, a nice and interesting friend, gave me a chance to sort out my thinking about Confucianism and Christianity. It is still vague. As I have said to him, I am really dumb and there are tons of tons of questions that I can not answer. There is an Chinese saying to describe those who are wise and knowledgeable that "explain the profound in simple terms". I am not able to do that. The only reason is that I am too dumb to understand those myself. I am in awe of the world.

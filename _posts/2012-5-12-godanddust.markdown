@@ -1,7 +1,7 @@
 ---
 title: 神性与尘埃
 layout: post
-time: '21:20'
+tags: [reading]
 ---
 
 方才从一本禅诗集中看到如下几则：

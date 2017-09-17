@@ -1,7 +1,7 @@
 ---
 title: About Religion (2)
 layout: post
-time: '21:32'
+tags: [religion]
 ---
 Love the following paragraph from "an insight of Chung-yung".
 <blockquote>Although the great foundation of the world is inherent in each person, there is no guarantee that one will actualize it in a harmonious state of existence. There is, in a practical sense, a major difference between what one is and what one can become. Since this kind of gap is different from that between God as the Creator and man as a creature in Christian ethics. In the case of Chung-yong, the attempt to bridge the gap takes the form of self-cultivation. The ultimate source of legitimacy as well as the energy necessary for undertaking the task is internally based. There is no need for asceticism and there is no conception of transcendent grace. Yet the burden is heavy and the road long; it requires a total commitment no less intensive, than the bearing of the cross. “To cultivate <strong>centrality</strong> and <strong>harmony</strong> with thoroughness” is therefore an unceasing process of learning. Since such a process is intended to realize the centrality of the universe in concrete human affairs so that a state of harmony among the myriad things can be attained, the highest ideal is the synchronicity of heaven and earth and the symbiosis between different modes of existence. </blockquote>

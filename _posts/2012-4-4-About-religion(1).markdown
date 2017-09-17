@@ -1,7 +1,7 @@
 ---
 title: About Religion (1)
 layout: post
-time: '21:31'
+tags: [religion]
 ---
 For now consider the board concept "religion" without any specification.
 

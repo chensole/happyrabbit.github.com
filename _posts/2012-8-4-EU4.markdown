@@ -1,7 +1,7 @@
 ---
 title: 2012 欧洲背包旅行游记「Summer-----Europe」（4）
 layout: post
-time: '21:20'
+tag: travel
 ---
 
 #### Aug1 法兰克福(Frankfurt)

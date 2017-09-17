@@ -1,7 +1,7 @@
 ---
 title: 2012 欧洲背包旅行游记「Summer-----Europe」（5）
 layout: post
-time: '21:20'
+tag: travel
 ---
 
 到了沃姆斯火车站(Worms Hbf) 出门过街就是公交车站。

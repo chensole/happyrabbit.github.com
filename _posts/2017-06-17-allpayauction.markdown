@@ -1,6 +1,7 @@
 ---
 title: "Life Game Theory --- All-Pay Auction"
 layout: post
+tag: game_theory
 ---
 
 > _Experienced happiness refers to your feelings, to how happy you are as you live your life. 

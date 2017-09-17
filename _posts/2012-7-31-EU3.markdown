@@ -1,7 +1,7 @@
 ---
 title: 2012 欧洲背包旅行游记「Summer-----Europe」（3）
 layout: post
-time: '21:20'
+tag: travel
 ---
 
 #### July 30-July 31 从美洲到欧洲

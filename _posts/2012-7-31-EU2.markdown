@@ -1,7 +1,7 @@
 ---
 title: 2012 欧洲背包旅行游记「Summer-----Europe」（2）
 layout: post
-time: '21:20'
+tag: travel
 ---
 
 #### July30 旅行的前的插曲

@@ -19,7 +19,7 @@ title: Hui
               </ul> 
             
 {% if forloop.first %}
-{{ post.content | excerpt }}
+{{ post.content | excerpt | truncatewords: 75}}
 <p class="full-post"><a href="{{ post.url }}#comments">comments...</a></p>
 {% else %}
 <!--{{ post.excerpt | remove: '<p>' | remove: '</p>' }}-->

@@ -11,7 +11,7 @@
 {% if site.show-tags %}
     <div class="tags">
         {% for tag in page.tags %}
-            <!-- CHANGE ONLY THIS LINE --> <a class="tag" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="item">{{ tag }}</span></a> 
+            <!-- CHANGE ONLY THIS LINE --> <a class="tag" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="tag">{{ tag }}</span></a> 
         {% endfor %}
     </div>
 {% endif %}

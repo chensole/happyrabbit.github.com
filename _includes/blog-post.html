@@ -8,6 +8,14 @@
 <h1>{{ post.title }}</h1>
 </header>
 
+{% if site.show-tags %}
+    <div class="tags">
+        {% for tag in page.tags %}
+            <!-- CHANGE ONLY THIS LINE --> <a class="tagpost" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="item">{{ tag }}</span></a> 
+        {% endfor %}
+    </div>
+{% endif %}
+
 {% comment %}
 <!-- Try to detect if we are on the blog listing page or just a post -->
 {% endcomment %}

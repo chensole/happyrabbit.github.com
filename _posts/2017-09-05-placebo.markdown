@@ -1,6 +1,7 @@
 ---
 title: "Placebo Effect"
 layout: post
+tag: psychology
 ---
 
 Most of the people should be familiar with the [Placebo Effect](https://en.wikipedia.org/wiki/Placebo).

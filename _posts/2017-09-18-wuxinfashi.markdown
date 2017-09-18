@@ -38,11 +38,11 @@ what？这是什么鬼理由！
 岳绮罗第一次见张显宗时是看不起他的，对他的深爱，她始终认为不配，但他的追随她是懂的，所以会助他达成心愿，为他的死伤心，为他愤怒决意了断无心。于是有种思念叫“张显宗，我牙疼……”。
 
 <p align="center">
-  <img src="http://linhui.org/images/posts/yateng.png"  width="60%" />
+  <img src="http://linhui.org/images/posts/yateng.png"  width="40%" />
 </p>
 
 其实我觉得她并不爱无心，只是想要。她也并不讨厌张显宗，只是还不爱。感情比数学复杂多了，还是让我去解个方程吧......明天继续。
 
 <p align="center">
-  <img src="http://linhui.org/images/posts/gotobed.png"  width="60%" />
+  <img src="http://linhui.org/images/posts/gotobed.png"  width="30%" />
 </p>

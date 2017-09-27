@@ -10,19 +10,19 @@ layout: post
 比如说，虽然无心不会死，但此之外也没有其它什么特殊的技能，捉妖只能靠放血，算命都是忽悠人。于是周围其它妖怪基友对他各种鄙视。这样的：
 
 <br>
-<p><img src="http://linhui.org/images/gif/yishiwucheng.gif" alt="HTML5 Icon" width="30%"></p>
+<p align="center"><img src="http://linhui.org/images/gif/yishiwucheng.gif" alt="HTML5 Icon" width="50%"></p>
 <br>
 
 这样的
 
 <br>
-<p><img src="http://linhui.org/images/gif/yaoshi.gif" alt="HTML5 Icon"></p>
+<p align="center"><img src="http://linhui.org/images/gif/yaoshi.gif" alt="HTML5 Icon" width="50%"></p>
 <br>
 
 还有这样的：
 
 <br>
-<p><img src="http://linhui.org/images/gif/knownothing.gif" alt="HTML5 Icon" width="30%"></p>
+<p align="center"><img src="http://linhui.org/images/gif/knownothing.gif" alt="HTML5 Icon" width="50%"></p>
 <br>
 
 到这里我不得不吐槽一下，第二季的最后，小丁猫去找顾基，因为“自己一生最害怕输，一定要从顾基身上讨回来”。作为顺应天时而生的神兽饕餮，如够按地球诞生的年龄来算，有45-47亿岁了。都活了上亿年了，居然还和凡人争输赢，实在说不过去。
@@ -30,13 +30,13 @@ layout: post
 小丁猫活的可能比无心还久，只不过无心还死不了，可以继续活下去，而小丁猫在多年前就感觉自己时日不多（为嘛？我也不知道），为此躲进一个山洞让自己沉睡，让时间暂停从而延长寿命，没想到岳绮罗误打误撞进入自己藏身的山洞，把她吞下之后，又消化不了她的元神，于是得到了她的记忆，这才知道这几百年之内发生的事情。看到花花世界，连这只神兽都忍不住想重返凡间，游戏人生。当小丁猫严肃认真的告诉无心这些的时候，出现了这样的场景：
 
 <br>
-<p><img src="http://linhui.org/images/gif/taotie.gif" alt="HTML5 Icon" width="30%"></p>
+<p align="center"><img src="http://linhui.org/images/gif/taotie.gif" alt="HTML5 Icon" width="50%"></p>
 <br>
 
 随后，言归正传又说出这么深刻的一句话：“沉睡本身是能够延缓衰老，但是沉睡本身又和死了有什么区别？”
 
 <br>
-<p><img src="http://linhui.org/images/gif/suailao.gif" alt="HTML5 Icon" width="30%"></p>
+<p align="center"><img src="http://linhui.org/images/gif/suailao.gif" alt="HTML5 Icon" width="50%"></p>
 <br>
 
 这让我想起美国总统林肯的一句话：“到了最后，有价值的不是你活了多少年，而是你在有生之年是否过得有意义。”

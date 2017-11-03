@@ -17,7 +17,7 @@ title: Hui
                 <li><a href="tags/{{ tag }}" class="tag">{{ tag }}</a></li>
                 {% endfor %}
               </ul> 
-<!--            
+           
 {% if forloop.first %}
 {{ post.content | excerpt | truncatewords: 100}}
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p> -->
@@ -25,13 +25,11 @@ title: Hui
 <!-- use this line instead if want the link to comments box-->
 <!-- <p class="full-post"><a href="{{ post.url }}#comments">full post...</a></p>-->
 
-<!--
 {% else %}
 
 {{ post.content | excerpt |  truncatewords: 75}}
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 {% endif %}
--->
 
 </article>
 {% endfor %}

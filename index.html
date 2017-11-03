@@ -17,16 +17,22 @@ title: Hui
                 <li><a href="tags/{{ tag }}" class="tag">{{ tag }}</a></li>
                 {% endfor %}
               </ul> 
-            
+<!--            
 {% if forloop.first %}
 {{ post.content | excerpt | truncatewords: 100}}
-<p class="full-post"><a href="{{ post.url }}">full post...</a></p>
+<p class="full-post"><a href="{{ post.url }}">full post...</a></p> -->
+
 <!-- use this line instead if want the link to comments box-->
 <!-- <p class="full-post"><a href="{{ post.url }}#comments">full post...</a></p>-->
+
+<!--
 {% else %}
-<!--{{ post.excerpt | remove: '<p>' | remove: '</p>' }}-->
+
 {{ post.content | excerpt |  truncatewords: 75}}
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 {% endif %}
 </article>
 {% endfor %}
+-->
+
+<!--{{ post.excerpt | remove: '<p>' | remove: '</p>' }}-->

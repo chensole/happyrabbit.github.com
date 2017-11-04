@@ -19,7 +19,7 @@ title: Hui
               </ul> 
            
 {% if forloop.first %}
-{{ post.content | excerpt | truncatewords: 100}}
+{{ post.content | excerpt | truncatewords: 75}}
 <p class="full-post"><a href="{{ post.url }}">full post...</a></p> 
 
 <!-- use this line instead if want the link to comments box-->

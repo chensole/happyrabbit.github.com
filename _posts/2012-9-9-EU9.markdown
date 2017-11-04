@@ -42,7 +42,7 @@ tag: travel
 <p style="text-align: center;"><a href="http://linhui.org/images/posts/coMainz1.jpg"><img class="wp-image-279 aligncenter" title="coMainz1" src="http://linhui.org/images/posts/coMainz1-1024x576.jpg" alt="" width="574" height="322" /></a></p>
 <p style="text-align: center;">在Mainz老城区的街道两旁 有无数的商店，餐馆，握很难想像这里的消费市场能够支撑如此大量的商业。</p>
 
-<a href="http://linhui.org/images/posts/coMainz3.jpg"><img class="size-large wp-image-281 aligncenter" title="coMainz3" src="http://linhui.org/images/posts/coMainz3-1024x576.jpg" alt="" width="574" height="322" /></a>  
+<p style="text-align: center;"><a href="http://linhui.org/images/posts/coMainz3.jpg"><img class="size-large wp-image-281 aligncenter" title="coMainz3" src="http://linhui.org/images/posts/coMainz3-1024x576.jpg" alt="" width="574" height="322" /></a></p>  
 
 和其它的老城一样，这里建筑的显著特点就是有棱角，花纹繁复，雕塑细腻。雕塑偏爱 人面部浮雕，也有许多母亲搂抱小孩的形象。
 

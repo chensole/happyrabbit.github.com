@@ -67,6 +67,7 @@ himself in a language which is alien to his real  feelings and his innermost ins
 3）生活传统和民情。宗教在美国有强大作用，新教教义使人趋于独立自由。
 
 我很喜欢作者的一句话：“没有信仰只是偶然的现象，有信仰才是人类的常态。”
+
 <blockquote>
 Unbelief is an accident; faith is the only permanent state of mankind.
 </blockquote>

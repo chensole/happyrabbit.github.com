@@ -21,7 +21,7 @@ It is for my 2017.  Whenever I look back,  my life is equal parts wonder and blu
 
    Politics always involves a negative connotation: sucking up, scheming and manipulating. It is like we tend to posit a positive connotation on "culture" which is my next point. But I'd instead treat it as neutral. Politics is everywhere which is like love, joy, sadness, birth, death, etc. It exists, and we need to deal with it when we have to. It is neither good nor bad but just a fact of life. As long as people with different goals, interests, and personalities try to work together, there will be politics. The morality of it depends on the motives and goals of the players and the means by which they achieve these. In fact, defining morality itself is an extremely complicated (if possible) problem. For more about this, you can refer to the [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem) and some related discussions [4]. 
 
-5. **Culture is beneficial and something you need to strive to keep.**
+5. **Culture is beneficial and something you need to strive to preserve.**
 
     I'd better be careful about this one since I am from a country that is always proud of having a profound cultural background. But there is no proof that any culture is working for the benefit of humans. Indeed we lack a scale to measure such benefit too. Yuval Harari said in "Sapiens: A Brief History of Humankind"[5] that :
 

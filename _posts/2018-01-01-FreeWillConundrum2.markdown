@@ -15,7 +15,7 @@ It is for 2018.  Happy New Year to the world! On the first day of 2018, I want t
 - forecast?
 -->
 
-## Q1:  How much free will do we have?
+### Q1:  How much free will do we have?
   
 Let's start with the last book I read in 2017, [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) (by [Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).  There are many books about experiences in a concentration camp. The literary and artistic works about the period of history mostly focus on "pain." However, in this book, Frankl observed people's psychological development in an extremely desperate environment from a psychologist's point of view. 
 And the prisoners' psychological reaction in this extreme environment is much more complicated than just "painful" which is unimaginable under normal life. There are three phases of inmates' reactions to camp life.

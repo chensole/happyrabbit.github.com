@@ -22,7 +22,7 @@ And the prisoners' psychological reaction in this extreme environment is much mo
 
 (1) the period following admission: shock
 
-When entering the concentration camp, the prisoner's response was, of course, frightened and extremely frightened. For example, when Dr. Frank just disembarked to the Auschwitz concentration camp, Nazi officers divided the line of prisoners into two teams by leisurely pointing each one to the right or the left. None of those prisoners at that time understand the sinister meaning behind that little movement of a man's finger. In the evening, he asked a prisoner who had been there for some time where did the other team go? He pointed to the chimney a few hundred yards off which was sending a column of flame up into the sky: "That's where your friend is, floating up to Heaven." What an extreme experience! 
+When entering the concentration camp, the prisoner's response was, of course, frightened and extremely frightened. For example, when Dr. Frank just disembarked to the Auschwitz concentration camp, Nazi officers divided the line of prisoners into two teams by leisurely pointing each one to the right or the left. None of those prisoners at that time understood the sinister meaning behind that little movement of a man's finger. In the evening, he asked a prisoner who had been there for some time where did the other team go? He pointed to the chimney a few hundred yards off which was sending a column of flame up into the sky: "That's where your friend is, floating up to Heaven." What an extreme experience! 
 
 Such horror, with the brutal time in the camps, gradually unfolded. People's psychology quickly adapted to a condition known as "**delusion of reprieve**." 
 

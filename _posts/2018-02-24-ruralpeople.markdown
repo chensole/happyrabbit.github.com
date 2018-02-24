@@ -11,9 +11,11 @@ layout: post
 
 从一个资深乡下人的角度看，这个景象其实差不多，有农田，也有老祖父的钟，生活庄严从容不迫。只是在冬天的时候没有青草，同时多出了一个“冬季抑郁症”的告示牌。
 
-<center>
-![](http://linhui.org/images/posts/winterblue.png)
-</center>
+
+<p align="center">
+  <img src="http://linhui.org/images/posts/winterblue.png"  width="60%" />
+</p>
+
 
 不开心和天气有关么？显然不是的。因为我之后到了圣地亚哥，阳光明媚，碧海蓝天，还有各种蠢萌的动物，但是没有比在村子里开心多少......当发现笔记本电脑坏掉时，整个人都不好了。这让我想起在读的一本书：[Feeling Good](https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336)。书里大力倡导一种称为[认知行为疗法](https://zh.wikipedia.org/wiki/认知行为疗法)（[Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)）的治疗抑郁的方法。这本书的目的是帮助人们预防和克服包括抑郁在内的多种负面情绪，树立积极乐观的生活态度。作者认为，引起我们消极情绪的根源是我们的想法而非事情本身。我们几乎所有的消极想法通常是没有任何事实根据的，只是臆想而已，而我们所产生的抑郁情绪，表面上是由于消极事件，实际上却是因为我们自己扭曲的认知和不合逻辑的想法导致的。另一本类似的书，[How To Keep People From Pushing Your Buttons](https://www.amazon.com/Keep-People-Pushing-Your-Buttons/dp/0806516704)也阐述了类似的观点，其中列出了3种导致负面情绪和过激反应的病态思维：
 

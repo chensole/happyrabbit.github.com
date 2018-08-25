@@ -3,6 +3,8 @@ layout: listing
 title: Hui
 ---
 
+<meta name="google-site-verification" content="EiGsxNcwamJLrrnYY1dAjOcCVWHkFQHNofhg-mqJ1pU" />
+
 {% for post in paginator.posts %}
 
 <article class="excerpt">
@@ -16,11 +18,11 @@ title: Hui
                 {% for tag in post.tags %}
                 <li><a href="tags/{{ tag }}" class="tag">{{ tag }}</a></li>
                 {% endfor %}
-              </ul> 
-           
+              </ul>
+
 {% if forloop.first %}
 {{ post.content | excerpt | truncatewords: 500}}
-<p class="full-post"><a href="{{ post.url }}">full post...</a></p> 
+<p class="full-post"><a href="{{ post.url }}">full post...</a></p>
 
 <!-- use this line instead if want the link to comments box-->
 <!-- <p class="full-post"><a href="{{ post.url }}#comments">full post...</a></p>-->

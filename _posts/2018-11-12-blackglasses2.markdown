@@ -37,7 +37,7 @@ layout: post
 
 > 上帝赐我平静，接受我不能改变的事情，鼓励我去改变能改变的事情，以及分辨这两者的智慧。 
 
-失望让我们心碎，但凡能让我们失望的都是我们需要学会面对和超越的。《[反脆弱](https://book.douban.com/subject/25782902/)》([Antifragile](https://en.wikipedia.org/wiki/Antifragile))这本书中指出，脆弱的反义词不是坚强，而是反脆弱。世界是由不确定性推动的，一个个意外事件对历史进程产生的影响更为重大，而且发生的频次远远高于我们的认知，只是由于各种各样的原因导致我们没有意识到它们的存在。我们的思维模式不是害怕意外，而应该是努力的准备自己应对意外，让自己在困难的洗礼下更加强大。我很喜欢《[少有人走的路](https://book.douban.com/subject/1775691/)》((The Road Less Travelled)[https://en.wikipedia.org/wiki/The_Road_Less_Traveled])中的一句话：
+失望让我们心碎，但凡能让我们失望的都是我们需要学会面对和超越的。《[反脆弱](https://book.douban.com/subject/25782902/)》([Antifragile](https://en.wikipedia.org/wiki/Antifragile))这本书中指出，脆弱的反义词不是坚强，而是反脆弱。世界是由不确定性推动的，一个个意外事件对历史进程产生的影响更为重大，而且发生的频次远远高于我们的认知，只是由于各种各样的原因导致我们没有意识到它们的存在。我们的思维模式不是害怕意外，而应该是努力的准备自己应对意外，让自己在困难的洗礼下更加强大。我很喜欢《[少有人走的路](https://book.douban.com/subject/1775691/)》([The Road Less Travelled](https://en.wikipedia.org/wiki/The_Road_Less_Traveled))中的一句话：
 
 > 一个人是否杰出和伟大，视其承受痛苦的能力决定，而杰出伟大本身，则会给人带来快乐和幸福－－－表面是悖论，其实不然。(One measure—and perhaps the best measure—of a person’s greatness is the capacity for suffering. Yet the great are also joyful. This then is the paradox.)
 

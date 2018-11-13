@@ -16,7 +16,7 @@ layout: post
 说白了，遇到问题得动脑子！
 
 <p align="center">
-  <img src="http://linhui.org/images/posts/nozuonodie.png"  width="30%" />
+  <img src="https://linhui.org/images/posts/nozuonodie.png"  width="30%" />
 </p>
 
 ## 期望可能只是错觉

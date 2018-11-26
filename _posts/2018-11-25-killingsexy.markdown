@@ -12,7 +12,6 @@ layout: post
 
 **SH**: [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes)
 
-</br>
 
 **JW:** You flirted with Sherlock Homes?
 
@@ -36,7 +35,7 @@ layout: post
 
 **AI:** I don’t think so, do you?
 
-</br>
+
 
 **AI:** Let’s have dinner.
 
@@ -54,14 +53,13 @@ layout: post
 
 **AI:** Too late.
 
-</br>
+
 
 **AI:** Oh, dear God. Look at the poor man. You don’t actually think I was interested in you? Why? Because you’re the great Sherlock Homes, the clever detective in the funny hat?
 
 **SH:** No. Because I took your pulse, elevated. Your pupils, dilated. I imagine John Watson thinks love’s a mystery to me, but the chemistry is incredibly simple and very destructive. When we first met, you told me that disguise is always a self-portrait – how true of you. The combination to your safe, your measurements – but this, this is far more intimate, this is your heart and you should never let it rule your head. You could have chosen any random number and walked out of there today with everything you work for. But you just couldn’t resist it, could you? I’ve always assumed that love is a dangerous disadvantage. Thank you for the final proof.
 
-</br>
+
 **AI:** Brainy is the new sexy.
-</br>
 
 **Hui**: Well, not that new.

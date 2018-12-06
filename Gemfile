@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'jekyll', '3.7.3'
+gem "jekyll", ">= 3.7.4"
 gem 'less', '=1.2.21'
 gem 'rake'
 

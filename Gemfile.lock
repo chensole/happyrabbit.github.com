@@ -66,7 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.7.3)
+  jekyll (= 3.7.4)
   jekyll-paginate (= 1.1.0)
   less (= 1.2.21)
   rake

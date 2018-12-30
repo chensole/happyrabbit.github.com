@@ -7,7 +7,7 @@ It is the end of 2018. [My post about some of my thoughts in 2017](https://linhu
 
 ## Dunning-Kruger effect: Unknown Unknown
 
-**[DunningâKruger effect](**<https://en.wikipedia.org/wiki/DunningâKruger_effect>**)** is a [cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) discovered by two social psychologists [David Dunning](https://en.wikipedia.org/wiki/David_Dunning) and [Justin Kruger](https://en.wikipedia.org/wiki/Justin_Kruger) in 1999.   
+**[Dunning Kruger effect](**<https://en.wikipedia.org/wiki/DunningâKruger_effect>**)** is a [cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) discovered by two social psychologists [David Dunning](https://en.wikipedia.org/wiki/David_Dunning) and [Justin Kruger](https://en.wikipedia.org/wiki/Justin_Kruger) in 1999.   
 
 Here is the story behind it. Have you heard about lemon juice as "invisible ink"? That is true. If you write messages on a piece of paper using plain lemon juice,  you won't be able to see the words once lemon-juice dries completely. The invisible messages can be revealed by heating the paper because the lemon juice corrodes the paper.
 

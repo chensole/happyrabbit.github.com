@@ -4,20 +4,11 @@ layout: post
 ---
 
 <blockquote>
-"Knowledge is what we know
-
- Also, what we know we do not know.
-
-We discover what we do not know
-
-Essentially by what we know
-
+"Knowledge is what we know.
+Also, what we know we do not know.
+We discover what we do not know essentially by what we know.
 Thus knowledge expands.
-
-With more knowledge we come to know
-
-More of what we do not know.
-
+With more knowledge we come to know more of what we do not know.
 Thus knowledge expands endlessly.
 
 ------ C Radhakrishna Rao, STATISTICS AND TRUTH"

@@ -3,6 +3,27 @@ title: "Unknown Unknown"
 layout: post
 ---
 
+<blockquote>
+"Knowledge is what we know
+
+ Also, what we know we do not know.
+
+We discover what we do not know
+
+Essentially by what we know
+
+Thus knowledge expands.
+
+With more knowledge we come to know
+
+More of what we do not know.
+
+Thus knowledge expands endlessly.
+
+------ C Radhakrishna Rao, STATISTICS AND TRUTH"
+
+</blockquote>
+
 It is the end of 2018. [My post about some of my thoughts in 2017](https://linhui.org/2017/12/25/freewillconundrum/) feels like yesterday. I still can't answer [the question](https://linhui.org/2018/01/01/freewillconundrum2/) I laid out on the first day of 2018. Here are the keywords in my mind at the end of 2018: Dunning-Kruger effect, anti-new year resolution, information anxiety, the veil of ignorance, jerk taxonomy, the least romantic thing,  consistent philosophy of life and intimate relationship. I hope to go through each in a series of posts.
 
 ## Dunning-Kruger effect: Unknown Unknown
@@ -21,7 +42,7 @@ They also found that the same knowledge, what cognitive psychologists term [meta
 
 No wonder Steve Jobs said: "[Stay Hungry. Stay Foolish](https://www.washingtonpost.com/blogs/answer-sheet/post/steve-jobs-told-students-stay-hungry-stay-foolish/2011/10/05/gIQA1qVjOL_blog.html?noredirect=on&utm_term=.e8093e907977)." If you don't stay foolish, then you are foolish. In other words, there is no way not to be stupid. You can only choose to admit or deny it.  That is the essence of free will. Understanding that helps a lot. I started from trying to be smarter to later trying to be less dumb, until now, I realized neither of them would work. I should focus on trying to figure out how dumb I am or at least to know if I am too dumb to figure that out. 
 
-Nassim Nicholas claims in “[The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)” that although people tend to place a higher value on the things they know that on the things they don’t know, it is the things we don’t know, and therefore can’t see coming, that tend to shape our world most dramatically. So, we should open remind ourselves the unknown unknown.
+Nassim Nicholas Taleb claims in “[The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)” that although people tend to place a higher value on the things they know that on the things they don’t know, it is the things we don’t know, and therefore can’t see coming, that tend to shape our world most dramatically. So, we should often remind ourselves the unknown unknown.
 
 Taleb argues that people need an **antilibrary**  which “should contain as much of what you do not know as your financial means, mortgage rates and the currently tight real-estate market allow you to put there. You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books.” If you feel guilty about all the unread books on your shelves, you should read this article titled “[Why You Should Surround Yourself With More Books Than You’ll Ever Have Time to Read](https://www.inc.com/jessica-stillman/why-you-should-stop-feeling-bad-about-all-those-books-you-buy-dont-read.html).” Someone thinks the Japanese word "tsundoku" is a better term for it (see "[All Those Books You’ve Bought but Haven’t Read? There’s a Word for That](https://www.nytimes.com/2018/10/08/books/review/personal-libraries.html)"). 
 

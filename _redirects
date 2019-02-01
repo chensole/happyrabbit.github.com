@@ -1,8 +1,8 @@
-# Redirect users in China, Hongkong or Taiwan to /china.
+# Redirect users in China, Hongkong or Taiwan to https://cn.linhui.org
 # there CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
 # 302 means temporary change
 # 301 means per change
 /*  https://cn.linhui.org  302  Country=cn,hk,tw
 
-# Redirect users with chinese language preference from /china to /china/zh-cn
+# Redirect users with chinese language preference from /* to https://cn.linhui.org
 /*  https://cn.linhui.org  302  Language=zh

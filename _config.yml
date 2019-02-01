@@ -7,3 +7,4 @@ paginate: 5
 permalink: pretty
 rouge: true
 show-tags: true
+excerpt_separator: <!--more-->
